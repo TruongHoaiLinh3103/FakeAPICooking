@@ -4,8 +4,8 @@ A template to deploy [JSON Server](https://github.com/typicode/json-server) to [
 
 Demo from this repository: 
 
-1. https://zfakeapi.vercel.app
-2. https://zfakeapi.vercel.app/Name
+1. https://zfakecooking.vercel.app
+2. https://zfakecooking.vercel.app/Name
 
 ### How to use
 
