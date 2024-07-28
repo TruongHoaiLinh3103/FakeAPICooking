@@ -1,0 +1,87 @@
+{
+  "Name": {
+    "auth": "Cooking"
+  },
+  "cooking": [
+    {
+      "id" : 1,
+      "name": "Trà sữa đào",
+      "img": "https://i.pinimg.com/originals/aa/41/2e/aa412e880787c333bdba7f8b2cc1f3b2.jpg",
+      "review": "Món trà sữa đào tưởng khó pha nhưng thật ra chỉ cần khéo léo trong việc kết hợp các nguyên liệu là bạn sẽ có ngay ly trà ngon hơn cả ngoài tiệm.",
+      "nguyenlieu": "3 túi trà lọc, 30 g sữa bột (có thể thay thế bằng whipping cream), 4 muỗng sữa đặc, 6 miếng đào hộp.",
+      "thuchien": {
+        "b1": "Lấy 3 miếng đào cho vào máy xay, xay nhuyễn.",
+        "b2": "Lấy 20 ml nước khuấy đều cùng sữa bột (để không bị vón cục khi nấu).",
+        "b3": "Đặt 1 lít nước lên bếp đun sôi và cho 3 túi trà lọc vào để 5 phút cho ra trà.",
+        "b4": "Cho sữa bột vào nấu trên lửa nhỏ, khuấy đều đến khi sôi tắt bếp. Cho tiếp 4 muỗng sữa đặc và phần đào xay khuấy đều để nguội. Khi trà sữa nguội cho ra ly uống cùng với đá."
+      },
+      "luuy": "",
+      "menu": "water",
+      "list": "tea"
+    },
+    {
+      "id" : 2,
+      "name": "Mojito dâu",
+      "img": "https://i.pinimg.com/originals/9b/c6/a1/9bc6a149aa87e7b42d6ade2f20c11ade.webp",
+      "review": "Mojito là loại cocktail truyền thống của người Cuba và nổi tiếng khắp thế giới bởi hương vị mát lạnh, Mojito là cocktail không thể không thử vào mùa hè với những người sành cocktail khắp nơi trên thế giới. Để có được 1 ly cocktail ngay tại nhà, không phải ra quán mình xin chia sẻ đến các bạn cách làm Mojito dâu thơm mát.",
+      "nguyenlieu": "8 nhánh bạc hà lớn, 8 cốc rượu vang trắng, 3/4 ly nước chanh, 1/2 ly si-rô dâu, 1/2 ly trái đào cắt lát, 10 trái dâu rửa sạch rồi cắt lát, 12 lát chanh, 12 lá bạc hà.",
+      "thuchien": {
+        "b1": "Trước khi tiến hành làm thì bạn hãy rửa sạch những các nguyên liệu.",
+        "b2": "Đầu tiên, bạn cho lá bạc hà + nước chanh + si-rô dâu vào ly và trộn đều. Sau đó, lấy lá bạc hà ra, thêm rượu trắng, đào và dâu tây vào.",
+        "b3": "Để trong ngăn mát tủ lạnh khoảng 4h.",
+        "b4": "Khi nào dùng thì khuấy đều rồi thêm nước khoáng có ga vào."
+      },
+      "luuy": "Nước uống sẽ ngon hơn khi thưởng thức lạnh. Với nguyên liệu chuẩn bị trên, có thể pha chế 12 ly Mojito dâu để chiêu đãi bạn bè và người thân.",
+      "menu": "water",
+      "list": "cocktail"
+    },
+    {
+      "id" : 3,
+      "name": "Nước gạo rang",
+      "img": "https://i.pinimg.com/originals/80/bd/a9/80bda9a29907d1cd5a8ab8e236697d40.jpg",
+      "review": "Nước gạo rang được chiết xuất từ những hạt gạo tự nhiên không chỉ là thức uống thơm mát mà còn có rất nhiều tác dụng trong việc làm đẹp trắng da, giúp ngủ ngon giấc, thanh lọc cơ thể. Nước gạo rang có nhiều tác dụng như vậy, tại sao bạn không chế biến thức uống mát bổ để thay nước uống hàng ngày nhỉ, sẽ rất tốt cho sức khỏe đấy.",
+      "nguyenlieu": "Gạo nếp thơm: 25g, Gạo lức: 25g (dùng gạo lức sẽ giúp đem lại nguồn dinh dưỡng cao), Sữa tươi không đường: 600ml, Nước : 600ml, Đường: 100g, Vani: 15ml.",
+      "thuchien": {
+        "b1": "(Gạo đem vo sạch trấu và bụi bẩn rồi để thật ráo. Hòa sữa với nước, hâm lên cho nóng). Cho gạo vào chảo rang, để lửa nhỏ và đảo luôn tay để gạo không bị cháy. Rang cho đến khi gạo chín và có mùi thơm.",
+        "b2": "Cho gạo đã rang vào ngâm với nước và sữa nóng trong 10-15 phút để gạo ngấm.",
+        "b3": "Để nồi nước có chứa gạo lên bếp và đun khoảng 10 phút đến khi gần sôi thì tắt bếp.",
+        "b4": "Lọc phần nước gạo đã đun. Lọc gạo qua rây cho chắt hết nước gạo để được phần nước trong."
+      },
+      "luuy": "Các bạn không nên lựa chọn loại gạo có nguồn gốc không rõ ràng, chứa chất bảo quản, có thể sẽ gây phản tác dụng đấy nhé. Khi vo gạo bạn chỉ vo đủ sạch, không nên bóp gạo quá kĩ sẽ làm mất chất dinh dưỡng bám trên vỏ cám. Nước gạo rang có thể dùng thêm với đá cho thơm mát.",
+      "menu": "water",
+      "list": "normal"
+    },
+    {
+      "id" : 4,
+      "name": "Sấu đường",
+      "img": "https://i.pinimg.com/originals/8c/fb/04/8cfb04da9ed74b6a8b24236a18776e81.jpg",
+      "review": "Năm nào cũng thế, khi tiếng ve kêu báo hiệu hè về, là tôi lại nhớ những kỷ niệm ngày còn thơ bé, trèo cây hái hoa, ném sấu rụng đầu khu phố tôi ở. Khi ấy tôi đã biết mang những quả sấu non, xanh mướt về cho mẹ ngâm đường, đánh nước canh rau muống chua hay để nấu canh cá…",
+      "nguyenlieu": "Sấu: 1kg, Đường: 1kg, Gừng: 1 củ, Một chút muối hạt.",
+      "thuchien": {
+        "b1": "Sấu các bạn cạo vỏ, ngâm trong nước muối loãng để sấu không bị thâm.",
+        "b2": "Bắc một nồi nước để nước sôi nóng già, cho sấu vào trần qua trong khoảng 30 giây rồi tắt bếp, trút ra rổ/ rá để sấu nguội. Không trần lâu quá sấu sẽ bị nhũn.",
+        "b3": "Sấu nguội các bạn đem ngâm sấu với đường theo tỉ lệ 1-1, cứ 1kg sấu 1 kg đường, tới khi đường tan hết (mình thường ngâm sấu qua đêm).",
+        "b4": "Sau khi đường tan các bạn để riêng quả sấu vào lọ sạch, phần nước đường tan đem đun sôi kỹ, thêm gừng đập dập vào cho thơm. Khi nước đường nguội hoàn toàn thì đổ vào lọ sấu, ngâm khoảng 1 ngày sau là uống được. Chú ý dụng cụ đựng phải sạch, khô ráo… thì sấu ngâm mới không bị lên mốc."
+      },
+      "luuy": "",
+      "menu": "water",
+      "list": "normal"
+    },
+    {
+      "id" : 5,
+      "name": "Thạch Nha Đam",
+      "img": "https://i.pinimg.com/originals/e4/72/93/e4729300002dcf134ba1f19e10ffa1a7.webp",
+      "review": "Miếng thạch nha đam giòn ngọt mát lạnh vừa giúp giải nhiệt, vừa làm đẹp da. Cùng làm và thưởng thức thôi!",
+      "nguyenlieu": "2 lá nha đam to (khoảng 1kg), 1 lạng đường phèn (có thể dùng đường kính nhưng đường phèn giúp món thạch thơm mát và có lợi cho sức khỏe hơn), 1 quả chanh tươi, 1 thìa muối sạch, 1 ít đá viên sạch.",
+      "thuchien": {
+        "b1": "Sơ chế và làm sạch nha đam. Chọn nha đam còn tươi, chắc, không dập nát hoặc bị sẹo. Rửa sạch lá nha đam. Cắt lá nha đam thành các khúc dài khoảng 4-5cm. Cắt hai rìa có gai của lá. Cắt bỏ phần vỏ cứng màu xanh. Bạn cần cắt sạch phần vỏ này vì nó có vị đắng. Phần nha đam sau khi đã bỏ sạch vỏ, rửa thật sạch nha đam dưới vòi nước chảy cho tới khi sờ tay không còn thấy nhớt, để ráo nước. Thái nha đam thành những miếng nhỏ hạt lựu. Bạn đừng thái nhỏ quá vì nha đam còn ngót đi trong quá trình chế biến. Tiếp tục ngâm nước muối. Với 1kg nha đam nguyên liệu, bạn có thể dùng 0,5 lít nước, cho vào đó 1 thìa cà phê muối tinh sạch, vắt thêm 1 quả chanh nhỏ (nhớ loại bỏ hạt chanh). Ngâm khoảng 15 phút. Sau đó, bạn rửa sạch nha đam và để ráo nước.",
+        "b2": "Chần nha đam. Đun khoảng 0,4 lít nước cho thật sôi. Đổ nha đam vào chần qua trong vòng 1 phút. Sau đó, đổ nha đam ra rổ và rửa ngay dưới vòi nước sạch. Để ráo.",
+        "b3": "Ướp đường: Nếu bạn sử dụng đường phèn có dạng cục lớn thì phải tán nhỏ hoặc hòa tan đường trước khi thực hiện bước này. Trộn 1 lạng đường phèn với một ít đá viên sạch. Lượng đường có thể được điều chỉnh tùy theo khẩu vị của mỗi người. Đổ nha đam vào hỗn hợp trên. Đường phèn sẽ tan dần và ngấm vào nha đam. Đá lạnh sẽ giúp miếng nha đam giòn hơn. Ngâm nha đam khoảng 1 tiếng và sau đó để vào tủ lạnh để dùng dần.",
+        "b4": "Thành phẩm: Thạch nha đam sau khi hoàn thành cần đảm bảo sạch, không có mùi hăng, không nhớt, vẫn giữ được độ giòn. Nha đam có vị ngọt vừa, thanh mát. Thạch nha đam cần được bảo quản trong ngăn mát tủ lạnh và có thể để được trong vòng 5 ngày."
+      },
+      "luuy": "Tuy thạch nha đam rất ngon và tốt nhưng bạn không nên ăn quá nhiều. Liều lượng thích hợp là từ 10g-20g mỗi ngày, dùng lâu dài với liều lượng thấp như vậy thì không có hại bạn nhé! Bạn có thể ướp đường phèn với đá và chia làm 2 vị: Màu xanh: vị trà xanh hoặc Màu vàng: vị chanh leo. Bạn có thể thêm một chút đá nếu thích, hoặc ăn thạch nha đam với sữa chua, cũng rất tuyệt vời.",
+      "menu": "water",
+      "list": "jelly"
+    }
+  ]
+}
