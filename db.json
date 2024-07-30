@@ -16,8 +16,8 @@
         "b4": "Cho sữa bột vào nấu trên lửa nhỏ, khuấy đều đến khi sôi tắt bếp. Cho tiếp 4 muỗng sữa đặc và phần đào xay khuấy đều để nguội. Khi trà sữa nguội cho ra ly uống cùng với đá."
       },
       "luuy": "",
-      "menu": "water",
-      "list": "tea"
+      "menu": "phache",
+      "list": "Trà"
     },
     {
       "id" : 2,
@@ -32,8 +32,8 @@
         "b4": "Khi nào dùng thì khuấy đều rồi thêm nước khoáng có ga vào."
       },
       "luuy": "Nước uống sẽ ngon hơn khi thưởng thức lạnh. Với nguyên liệu chuẩn bị trên, có thể pha chế 12 ly Mojito dâu để chiêu đãi bạn bè và người thân.",
-      "menu": "water",
-      "list": "cocktail"
+      "menu": "phache",
+      "list": "Cocktail"
     },
     {
       "id" : 3,
@@ -48,8 +48,8 @@
         "b4": "Lọc phần nước gạo đã đun. Lọc gạo qua rây cho chắt hết nước gạo để được phần nước trong."
       },
       "luuy": "Các bạn không nên lựa chọn loại gạo có nguồn gốc không rõ ràng, chứa chất bảo quản, có thể sẽ gây phản tác dụng đấy nhé. Khi vo gạo bạn chỉ vo đủ sạch, không nên bóp gạo quá kĩ sẽ làm mất chất dinh dưỡng bám trên vỏ cám. Nước gạo rang có thể dùng thêm với đá cho thơm mát.",
-      "menu": "water",
-      "list": "normal"
+      "menu": "phache",
+      "list": "Khác"
     },
     {
       "id" : 4,
@@ -64,8 +64,8 @@
         "b4": "Sau khi đường tan các bạn để riêng quả sấu vào lọ sạch, phần nước đường tan đem đun sôi kỹ, thêm gừng đập dập vào cho thơm. Khi nước đường nguội hoàn toàn thì đổ vào lọ sấu, ngâm khoảng 1 ngày sau là uống được. Chú ý dụng cụ đựng phải sạch, khô ráo… thì sấu ngâm mới không bị lên mốc."
       },
       "luuy": "",
-      "menu": "water",
-      "list": "normal"
+      "menu": "phache",
+      "list": "Khác"
     },
     {
       "id" : 5,
@@ -80,8 +80,8 @@
         "b4": "Thành phẩm: Thạch nha đam sau khi hoàn thành cần đảm bảo sạch, không có mùi hăng, không nhớt, vẫn giữ được độ giòn. Nha đam có vị ngọt vừa, thanh mát. Thạch nha đam cần được bảo quản trong ngăn mát tủ lạnh và có thể để được trong vòng 5 ngày."
       },
       "luuy": "Tuy thạch nha đam rất ngon và tốt nhưng bạn không nên ăn quá nhiều. Liều lượng thích hợp là từ 10g-20g mỗi ngày, dùng lâu dài với liều lượng thấp như vậy thì không có hại bạn nhé! Bạn có thể ướp đường phèn với đá và chia làm 2 vị: Màu xanh: vị trà xanh hoặc Màu vàng: vị chanh leo. Bạn có thể thêm một chút đá nếu thích, hoặc ăn thạch nha đam với sữa chua, cũng rất tuyệt vời.",
-      "menu": "water",
-      "list": "jelly"
+      "menu": "phache",
+      "list": "Khác"
     }
   ]
 }
