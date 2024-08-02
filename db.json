@@ -82,6 +82,506 @@
       "luuy": "Tuy thạch nha đam rất ngon và tốt nhưng bạn không nên ăn quá nhiều. Liều lượng thích hợp là từ 10g-20g mỗi ngày, dùng lâu dài với liều lượng thấp như vậy thì không có hại bạn nhé! Bạn có thể ướp đường phèn với đá và chia làm 2 vị: Màu xanh: vị trà xanh hoặc Màu vàng: vị chanh leo. Bạn có thể thêm một chút đá nếu thích, hoặc ăn thạch nha đam với sữa chua, cũng rất tuyệt vời.",
       "menu": "phache",
       "list": "Khác"
+    },
+    {
+      "id" : 6,
+      "name": "Cháo Thịt Heo Bí Đỏ",
+      "img": "https://i.pinimg.com/originals/bc/6e/31/bc6e31d5ae2f02e1f7d09bdd094ba6ba.png",
+      "review": "Cháo thịt heo bí đỏ cung cấp đầy đủ dinh dưỡng và năng lượng cho các hoạt động hằng ngày của các bé. Bạn có thể thêm món này vào thực đơn ăn dặm, bé sẽ thích lắm đây. Chỉ với 40 phút thực hiện.",
+      "nguyenlieu": "Cháo: 20 Gr, Bí đỏ: 10 Gr, Thịt nạc: 10 Gr, Dầu ăn: 1 Muỗng canh, Nước: 200 ml",
+      "thuchien": {
+        "b1": "Bí đỏ gọt vỏ, cắt miếng vừa phải rồi cho vào nồi nước luộc chín. Sau đó vớt ra để vào chén và tán nhuyễn.",
+        "b2": "Cho thịt heo vào nấu với nước tới chín. Thịt heo bạn mua loại thịt nạc đã xay sẵn hoặc bằm nhỏ nhé!",
+        "b3": "Cho bí đỏ vào nấu mềm, để cho bớt nóng. Trộn cháo trắng nấu sẵn hoặc bột gạo vào, thêm dầu ăn, khuấy đều.",
+        "b4": "Sau khi để nguội bớt, có thể thưởng thức món cháo thịt heo bí đỏ rồi!"
+      },
+      "luuy": "",
+      "menu": "nauan",
+      "list": "Cháo"
+    },
+    {
+      "id" : 7,
+      "name": "Smoothie Xoài Chuối Kiwi - Smoothie Healthy Bowl",
+      "img": "https://i.pinimg.com/originals/c0/24/40/c024408f3ae4e7eb41faef524a00fcbc.png",
+      "review": "Smoothie Healthy Bowl là một món ăn sáng hỗ trợ giảm cân, chăm sóc sức đẹp phổ biến ở các nước Châu Âu và dần đang được ưa chuộng tại Việt Nam. Đây mà món ăn có thể giúp bạn thỏa sức sáng tạo với nhiều loại trái cây, các loại hạt khác nhau. Với vẻ ngoài vô cùng đẹp mắt và hương vị tươi mát, cách làm đơn giản, combo Smoothie Xoài Chuối Kiwi sẽ làm bạn thích thú.",
+      "nguyenlieu": "Chuối: 400 Gr, Xoài chín: 300 Gr, Kiwi: 300 Gr, Củ dền: 50 Gr, Cam: 100 Gr, Hạt chia: 30 Gr, Yến mạch: 100 Gr",
+      "thuchien": {
+        "b1": "Loại bỏ vỏ chuối, vỏ kiwi, vỏ xoài chín. Sau đó, cắt trái cây thành từng khoanh mỏng. Cho vào ngăn đá tủ lạnh ít nhất 2 tiếng.",
+        "b2": "Củ dền gọt bỏ vỏ, cắt khối vuông. Yến mạch bạn có thể sử dụng loại nguyên chất hoặc rang đường nâu đều được.",
+        "b3": "Sau khi trái cây đông đá, cho tất cả vào máy xay bao gồm 350 gram chuối, 200 gram xoài chín, 200 gram kiwi vào xay mịn. Smoothie sẽ có màu vàng nhạt. Để smoothie có màu hồng, bạn có thể cho thêm củ dền vào nhé!",
+        "b4": "Sau khi xay mịn, cho hỗn họp ra tô. Trang trí phần trái cây cắt lát còn lại, hạt chia và yến mạch tùy theo sở thích.",
+        "b5": "Hãy bảo quản món ăn này trong ngăn đông để chúng tươi lâu hơn nhé. Bây giờ thưởng thức thôi. Trái cây chua ngọt đậm đà tự nhiên không cần đường, hòa cùng trái cây tươi mát lạnh, thêm ít yến mạch và hạt chia bổ dưỡng mát lạnh. Hãy sáng tạo và duy trì thói quen ăn món smoothie này để có một vóc dáng đẹp và một sức khỏe tốt nhé! Chúc các bạn thành công!"
+      },
+      "luuy": "",
+      "menu": "phache",
+      "list": "Khác"
+    },
+    {
+      "id" : 8,
+      "name": "Bánh Bông Lan Trà Xanh Bằng Nồi Cơm Điện",
+      "img": "https://i.pinimg.com/originals/7d/2f/38/7d2f3827c88740e387afb73646931d84.jpg",
+      "review": "Nếu nhà mình không có lò nướng thì thỉnh thoảng 'chữa cháy' làm bánh bông lan trà xanh bằng nồi cơm điện cũng hay nhỉ? Sản phẩm ra lò không thua gì bánh nướng đâu nhé! Bánh matcha trà xanh mềm xốp, thơm lừng chắc chắn sẽ làm cả nhà bất ngờ vì tài nướng bánh của bạn đó. Cách làm bánh bông lan trà xanh này nhất định các bạn phải lưu lại nha!!",
+      "nguyenlieu": "Bột mì: 250 Gr, Bột nở (baking powder): 5 Gr, Sữa tươi: 200 ml, Trứng gà: 2 Quả, Đường trắng: 50 Gr, Bột matcha: 20 Gr",
+      "thuchien": {
+        "b1": "Bột bánh bông lan trà xanh: Đầu tiên, cho 250gr bột mì, 5gr bột nở, 50gr đường trắng, 20gr bột matcha vào nồi cơm điện, trộn đều.",
+        "b2": "Trứng gà đập ra tô, thêm 200ml sữa tươi vào, khuấy đều.",
+        "b3": "Đổ từ từ hỗn hợp trứng gà, sữa tươi vào, trộn đều.",
+        "b4": "Đậy kín nắp nồi cơm điện, nấu khoảng 45 phút là được.",
+        "b5": "Cuối cùng, mở nắp nồi cơm điện ra, kiểm tra xem bánh bông lan trà xanh chín chưa. Lúc này, có thể mặt bánh vẫn còn ướt, đậy kín nắp, nấu thêm 2-3 phút nữa.",
+        "b6": "Dùng tay ấn nhẹ lên bánh hoặc dùng tăm xiên vào bánh. Nếu rút tăm ra thấy bánh khô là bánh đã chín.",
+        "b7": "Thành phẩm bánh bông lan trà xanh bằng nồi cơm điện đã hoàn thành rồi đây! Nếu thích bạn cũng có thể cho chocolate chip vào bánh."
+      },
+      "luuy": "",
+      "menu": "nauan",
+      "list": "Ngọt"
+    },
+    {
+      "id" : 9,
+      "name": "Bún Chay Kiểu Huế",
+      "img": "https://i.pinimg.com/originals/59/9e/30/599e3054dd74c550a92fd952dabd69e7.jpg",
+      "review": "Bún Chay là món ăn sáng được rất nhiều người yêu thích bởi vị ngon tự nhiên, hấp dẫn. Cách nấu bún chay kiểu Huế khá đơn giản với nước dùng ngọt tự nhiên từ rau củ thơm lừng, và đậm đà. Nếu ngày rằm vẫn chưa biết nấu gì, thì triển ngay cách nấu bún chay thơm ngon này nhé. Đảm bảo hương vị của món bún chay này không thua bất mì món mặn nào đâu đấy.",
+      "nguyenlieu": "Bí đỏ: 500 Gr, Củ cải trắng: 300 Gr,Thơm: 1/2 Trái, Cải thảo: 250 Gr, Cà chua: 300 Gr, Nấm rơm: 200 Gr, Đậu hũ chiên: 2 Miếng, Sả: 4 Cây, Hành boa rô: 5 Cây, Hạt nêm chay: 2 Muỗng canh, Đường phèn: 1 Muỗng canh, Dầu điều: 1/2 Muỗng cà phê, Bún tươi: 500 Gr",
+      "thuchien": {
+        "b1": "Nguyên liệu nấu bún chay: Rau sống rửa sạch để ráo. Rau củ quả rửa sạch cắt khúc, lá hành boa-rô cắt khúc.",
+        "b2": "Cách nấu bún chay: Cho tất cả rau củ quả vào nồi, rồi cho nước, ít muối vào hầm cho ra nước ngọt, hầm đến khi hỗn hợp mềm. Sau đó lược lấy nước dùng, chỉ sử dụng lại củ cải trắng thôi (rau củ quả còn lại dùng vào việc khác).",
+        "b3": "Cho nồi nước dùng bún chay đã lược lại lên bếp, củ cải trắng (đã nấu chín), thơm cắt miếng, cọng sả đập dập, ít cọng trắng đầu hành boa rô cắt khúc vào nấu với lửa nhỏ cho thơm mềm. Rồi nêm nếm gia vị: hạt nêm chay, đường phèn, đậu hũ cắt nhỏ vào (khi nào ăn mới cho vào), ít dầu màu điều cho đẹp.",
+        "b4": "Sốt nấm ăn kèm bún chay Huế: Cho ít dầu ăn vào chảo, dầu nóng cho đầu hành boa rô băm nhỏ vào phi thơm rồi cho cà chua cắt hạt lựu vào xào, kế đó cho nấm rơm và ít nước vào, gia vị đậm đà um cho thấm, nấu đến khi nước còn sền sệt.",
+        "b5": "Bày trí bún chay kiểu Huế: Múc sốt nấm ra tô. Cho bún đã trụng nóng vào tô, vài miếng thơm, đậu hũ, củ cải trắng. Rồi chan nước dùng lên tô bún, sau đó mới cho sốt nấm lên trên cùng, cho rau ngò gai, lá hành boa rô cắt nhỏ lên. Cách nấu bún chay thơm ngon nhưng lại đơn giản phải không nào? Cuối tuần rảnh rỗi, chị em hãy thử với cách nấu bún chay cực hấp dẫn này nhé."
+      },
+      "luuy": "",
+      "menu": "nauan",
+      "list": "Mì Chay"
+    },
+    {
+      "id" : 10,
+      "name": "Cá Basa Kho Tộ",
+      "img": "https://i.pinimg.com/originals/04/40/78/0440783038cad0bb27eb7ee2b7939c7c.jpg",
+      "review": "Cá Basa Kho Tộ có vị ngọt béo đặc trưng sẽ khiến cho bữa cơm của gia đình bạn thêm hấp dẫn bội phần đấy! Cách kho cá basa đơn giản, thịt cá kho chín bùi béo, ngấm vị đậm đà, cực ngon cơm. Những lúc trời mưa se lạnh lách tách mà có món cá kho này ăn cơm thì còn gì bằng nữa không nào.",
+      "nguyenlieu": "Cá ba sa: 250 Gr, Tỏi băm: 1 Muỗng cà phê, Hành tím băm: 1 Muỗng cà phê, Hành lá: 1 Muỗng canh, Muối: 1/2 Muỗng cà phê, Nước mắm: 1 Muỗng canh, Đường trắng: 5 Muỗng canh, Dầu ăn: 1 Muỗng canh",
+      "thuchien": {
+        "b1": "Rửa sạch các miếng cá basa, để ráo, ướp cá với ½ muỗng cà phê muối khoảng 15 phút. Hành lá cắt nhuyễn.",
+        "b2": "Cách kho cá basa: Bắc chảo không dính lên bếp, cho một muỗng dầu ăn và 2 muỗng cà phê đường vào chảo. Đợi cho đến khi đường tan và chuyển màu cánh gián thì cho 1 muỗng tỏi và hành băm nhỏ vào phi thơm, tắt bếp.",
+        "b3": "Cách làm cá basa kho tộ: Cho cá vào chảo trên, thêm 1 muỗng nước mắm và 3 muỗng cà phê đường, bật bếp để lửa to cho sôi bùng lên thì giảm xuống ở mức lửa nhỏ nhất, thêm 2 muỗng nước lọc, thả ớt trái vào, đun đến khi nước sệt lại là được.",
+        "b4": "Tắt bếp, rải hành lá vào cùng chút tiêu sẽ giúp cá khô tộ thơm ngon hơn nhé.",
+        "b5": "Dùng cá basa kho tộ với cơm nóng là nhất luôn. Nước kho cá basa có thể chấm kèm dưa leo và rau sống ăn rất ngon. Cách làm cá basa kho tộ rất đơn giản, thích hợp cho các bạn lần đầu làm món cá kho tại nhà."
+      },
+      "luuy": "",
+      "menu": "nauan",
+      "list": "Kho"
+    },
+    {
+      "id" : 11,
+      "name": "Cơm Chiên Dương Châu",
+      "img": "https://i.pinimg.com/originals/84/d3/34/84d33485f9ea5eb0bdef150338bb340a.jpg",
+      "review": "Cơm chiên Dương Châu là món ăn nổi tiếng của các nhà hàng Trung Quốc và đã trở thành một trong những món không thể thiếu trong bữa ăn của người Việt ta. Cơm chiên là sự hòa trộn giữa phần cơm nguội còn dư lại từ bữa ăn tối hôm trước, đem chiên cùng rau củ, xúc xích, trứng gà... cho bữa sáng sau của cả nhà. Món ăn vừa ngon, vừa giúp tiết kiệm và không lãng phí cơm. Cách làm cơm chiên Dương Châu rất dễ và màu sắc món ăn còn bắt mắt, đa dạng trong nguyên liệu chế biến nữa đó. Với công thức này, cả nhà đã có ngay món ngon không thua gì ở nhà hàng hay các quán ăn nha.",
+      "nguyenlieu": "Cơm: 1 Chén, Xúc xích: 1 Cây, Trứng gà: 2 Quả, Khoai tây: 1 Củ, Cà rốt: 1 Củ, Đậu que: 100 Gr, Dầu ăn: 2 Muỗng canh, Tỏi băm: 1/2 Muỗng cà phê, Tỏi: 3 Tép, Muối: 1/2 Muỗng cà phê, Bột ngọt: 1/2 Muỗng cà phê, Tiêu: 1/4 Muỗng cà phê, Nước mắm: 1 Muỗng cà phê",
+      "thuchien": {
+        "b1": "Lột vỏ xúc xích và cắt hạt lựu. Bào vỏ khoai tây, cà rốt, rửa sạch và cũng cắt thành hạt lựu nhỏ. Cắt bỏ hai đầu đậu que, tước bỏ xơ, rửa sạch rồi cắt thành khúc nhỏ. Để riêng từng loại nguyên liệu. Bới cơm ra tô, dùng muỗng xới cho cơm tơi hạt.",
+        "b2": "Làm nóng chảo, cho dầu ăn vào để dầu hơi sôi lăn tăn (nên cho nhiều dầu để khi chiên cơm không bị khô cứng lại nha), thả tỏi đập dập vào phi thơm. Đổ cơm đã xới tơi vào chảo, dùng xẻng đảo đều để cơm áo một lớp dầu ăn. Nêm 1 muỗng nước mắm vào chảo cơm, tách 2 quả trứng cho vào cơm (có thể dùng trứng gà, trứng vịt tùy khẩu vị nha). Đảo cơm thường xuyên cho cơm tơi ra. Chiên cơm đến khi thấy hạt cơm khô lại, rời ra, có một màu vàng đẹp mắt của trứng.",
+        "b3": "Tắt bếp khi cơm đã chiên chín vàng, thơm lừng. Múc cơm chiên ra tô và để qua một bên. Giữ nguyên chảo, thêm dầu ăn vào đun nóng, thêm cà rốt vào xào trước cho chín (cà rốt rất lâu chín), sau đó thêm khoai tây, đâu que và xúc xích vào cuối cùng. Đảo cho tất cả nguyên liệu hòa đều vào nhau. Nêm muối, tiêu, bột ngọt cho vừa khẩu vị.",
+        "b4": "Đổ cơm đã chiên vào chảo rau củ, dùng xẻng đảo thật đều cho cơm và nguyên liệu rau củ đều nhau. Chiên cơm thêm 2 - 5 phút nữa cho cơm nóng lại là tắt bếp được rồi đó. Múc cơm chiên dương châu ra dĩa, ăn kèm nước tương hay tương ớt đều ngon.",
+        "b5": "Dĩa cơm chiên dương châu hoàn thành với hương vị thơm lừng, nóng hôi hổi cùng màu sắc sặc sỡ vừa nhìn đã khiến bạn cảm thấy kích thích vị giác rồi đó. Cả nhà sẽ phải trầm trồ bởi hương vị thơm ngon của món cơm chiên dương châu. Đây cũng là cách để bạn tận dụng cơm còn dư và làm thành món ăn sáng bổ dưỡng, ngon lành cho mọi người vào ngày hôm sau nữa đấy. Nhanh tay cùng mình lưu lại ngay cách làm cơm chiên dương châu hấp dẫn này nhé."
+      },
+      "luuy": "",
+      "menu": "nauan",
+      "list": "Chiên Cơm-chiên"
+    },
+    {
+      "id" : 12,
+      "name": "Latte Art Chuẩn Barista",
+      "img": "https://i.pinimg.com/originals/3a/ef/92/3aef928a089d9efa4963d795f4d9d5d2.jpg",
+      "review": "Với người yêu cà phê espresso, latte art không chỉ là thức uống thơm ngon mà còn là một tác phẩm nghệ thuật thu nhỏ thú vị. Mỗi ly latte gửi gắm tất cả kinh nghiệm, kỹ năng và tình yêu của người barista dành cho cà phê. Mời bạn cùng Cooky khám phá cách một barista chuyên nghiệp chuẩn bị một ly latte art nhé!",
+      "nguyenlieu": "Cà phê hạt: 18gr, Sữa thanh trùng Đà Lạt Milk: 200ml",
+      "thuchien": {
+        "b1": "Xay hạt cà phê đang rang bằng máy xay chuyên dụng. Lấy một lượng cà phê bột khoảng 18gr. Dùng tamper để nén café sau đó gắn vào máy và bắt đầu chiết xuất nước cốt cà phê. Phần cà phê đậm đặc này sẽ có một lớp mỏng sánh màu nâu trên bề mặt, được gọi là crema. Khi bọt sữa màu trắng nổi lên và tiếp xúc với lớp crema sẽ tạo nên sự tương phản về màu sắc. Lưu ý, không để bột cà phê tiếp xúc lâu với không khí sẽ khiến cà phê giảm hương vị.",
+        "b2": "Tạo bọt sữa: Xả vòi hơi trước khi tạo bọt sữa rồi dùng khăn lau sạch hơi nước và cố định vòi. Cho khoảng 200ml sữa tươi thanh trùng Dalat Milk lạnh vào ca. Đặt ca sữa vào vòi tạo bọt, để vòi lật qua một bên rồi bật vòi tạo bọt trong thời gian từ 10 - 15 giây. Quan sát thấy bọt sữa sánh mịn, nhiệt độ sữa vào khoảng 65 độ C là đạt chuẩn. Bạn có thể sử dụng nhiệt kế để đo chính xác nhiệt độ. Khi đã tạo bọt thành công, bạn chọn chế độ xả nước để vệ sinh vòi sạch sẽ. Sau đó, gõ nhẹ ca sữa để làm vỡ các bọt khí lớn rồi lắc nhẹ để bọt sữa quyện đều vào nhau.",
+        "b3": "Nghiêng cốc cà phê 45 độ, nâng cao ca sữa đã tạo bọt và rót từ từ vào ly cà phê để trộn đều 2 nguyên liệu cho đến khi hỗn hợp chạm vào thành cốc thì dừng. Tiếp đến, đặt ca vào thành cốc, rót nhẹ nhàng để bọt sữa nổi lên mặt vào tạo hình tùy thích, vừa rót vừa ngửa cốc trở lại để hỗn hợp không bị tràn ra ngoài.",
+        "b4": "Chỉ cần một chút khéo léo, ly latte art như thêm sức sống với những họa tiết bắt mắt khiến người thưởng thức không chỉ say mê hương vị cà phê mà còn bị cuốn hút bởi vẻ đẹp từ những hình vẽ đầy tinh tế."
+      },
+      "luuy": "",
+      "menu": "phache",
+      "list": "Cà-phê"
+    },
+    {
+      "id" : 13,
+      "name": "Cheesecake Dâu Sữa Chua",
+      "img": "https://i.pinimg.com/originals/df/ba/13/dfba13b8ae40dd266ccc7e08d8502c45.jpg",
+      "review": "Dalatmilk Cheesecake sữa chua là một món tráng miệng đẹp mắt, ngon miệng và cực dễ thực hiện. Chỉ cần một chút khéo léo bạn sẽ có ngay một ổ bánh đẹp mắt mà không cần đến lò nướng.",
+      "nguyenlieu": "Bơ lạt: 50gr, Bánh quy: 120gr, Whipping cream: 250gr, Cream cheese: 250gr, Đường: 90gr, Sữa chua uống Đà Lạt Milk: 150ml, Nước cốt chanh: 1 muỗng cà phê, Bột gelatin: 14gr",
+      "thuchien": {
+        "b1": "Đế bánh: Nghiền nhuyễn 120gr bánh quy. Đem 50gr bơ lạt đi đun cách thủy hoặc quay lò vi sóng 30 giây cho chảy. Cho bơ vào bánh rồi trộn đều. Dùng khuôn có đường kính 16cm, cho bánh đã trộn bơ vào khuôn, ép xuống đều để để bánh được chắc chắn. Cho vào ngăn đá đến khi cứng lại, khoảng 1 tiếng.",
+        "b2": "Cốt bánh: Cho vào tô 250gr cream cheese để mềm ở nhiệt độ phòng, tán phần mịn, sau đó thêm vào 90gr đường, 150ml sữa chua uống Đà Lạt Milk, 250ml whipping cream vào. Trộn đều tay bằng phới lồng. Sau đó cho vào 1 muỗng cà phê nước cốt chanh để tạo vị chua nhẹ cho bánh.",
+        "b3": "Cho vào chén 14gr bột gelatin, thêm 4 muỗng canh nước lạnh, ngâm 15 phút. Cho vào lò vi sóng 30s cho gelatin tan chảy. Cho vào gelatin hỗn hợp cốt bánh sữa chua, trộn thật đều để gelatin hòa quyện. Đổ hỗn hợp này vào khuôn sau khi phần để bánh đã cứng lại. Bọc khuôn bằng màng bọc thực phẩm và để ngăn mát tủ lạnh 4 tiếng.",
+        "b4": "Bánh đông lại lấy ra khuôn đặt lên đĩa, trang trí với topping cream và dâu tây cắt lát. Cắt bánh ra và thưởng thức."
+      },
+      "luuy": "",
+      "menu": "nauan",
+      "list": "Ngọt"
+    },
+    {
+      "id" : 14,
+      "name": "Sữa Chua Trân Châu Trái Cây",
+      "img": "https://i.pinimg.com/originals/d8/aa/61/d8aa615a356ffe8e0aa8c3fcc8db728a.jpg",
+      "review": "Sữa chua trân châu trái cây là một trong những món ăn ngon, thanh mát được nhiều người yêu thích trong mùa hè. Với sữa chua bổ dưỡng mát lạnh, kết hợp với trái cây tươi mọng nước thêm trân châu nước cốt dừa giòn giòn béo ngậy, sẽ đánh tan ngay cơn nóng mùa hè. Hãy thử ngay món ăn giải nhiệt ngon lành này nhé.",
+      "nguyenlieu": "Sữa chua ăn Dalatmilk 120gr, Kem tươi 240ml, Sữa tươi thanh trùng Dalatmilk 240ml, Đường 70gr, Sữa đặc 60gr, Nước cốt dừa 200ml, Bột bắp 5gr, Dâu tươi 3 trái, Mứt dâu 20gr, Trân châu trắng 100gr",
+      "thuchien": {
+        "b1": "Làm trân châu nước cốt dừa: Đầu tiên, bắt nồi nước sôi, rồi cho 100gr trân châu trắng vào luộc 30 phút cho chín, rồi vớt ra cho vào thau nước lạnh để nguội.",
+        "b2": "Cho 200ml nước cốt dừa vào nồi, thêm 60gr sữa đặc. nấu cho sôi lăn tăn rồi cho từ từ 5gr bột bắp pha loãng đến khi nước cốt dừa hơi sệt lại. Tiếp theo cho tiếp trân châu trắng đẫ luộc vào khuấy đều rồi tắt bếp.",
+        "b3": "Làm sữa chua: Cho 240ml kem tươi vào nồi, thêm 70gr đường cát và 240ml sữa tươi thanh trùng Dalatmilk, sau đó đun ấm 60-70 độ cho tan đường, rồi để nguội còn 40 độ.",
+        "b4": "Cho 120gr sữa chua ăn Dalatmilk ra tô, đổ hỗn hợp sữa tươi vào khuấy đều, dùng màng bọc thực phẩm bọc kín miệng tô lại. Cho vào nồi to, đổ nước ấm 60 độ vào ngang tô, rồi đậy kín nắp, sau đó ủ trong vòng 8 tiếng, rồi cho vào ngăn đông tủ lạnh thêm 4 tiếng nữa để sữa chua đông hoàn toàn.",
+        "b5": "Khi sữa chua đông lại thì múc thành viên cho vào ly, rồi cho thêm trân châu nước cốt dừa, mứt dâu và dâu tươi lên trên, trang trí thêm nhánh húng lũi để món ăn thêm phần hấp dẫn hơn.",
+        "b6": "Sữa chua rất tốt cho sức khỏe được nhiều gia đình yêu thích và có thể sử dụng hàng ngày. Nay thêm chút biến tấu với trân châu nước cốt dừa dai dai béo ngậy, mứt dâu ngọt ngào và dâu tươi mộng nước, sẽ tạo nên một món sữa chua trân châu trái cây mát lạnh, thơm ngon từ trái cây tươi cực an toàn và bổ dưỡng."
+      },
+      "luuy": "",
+      "menu": "phache",
+      "list": "Sữa Kem Khác"
+    },
+    {
+      "id" : 15,
+      "name": "Sữa Chua Đào Vải Thạch Lá Dứa",
+      "img": "https://i.pinimg.com/originals/20/dc/63/20dc6332d20b09c6cf526c2f8ddbe25c.jpg",
+      "review": "Những ngày trời hanh nóng, làm ngay một ly sữa chua thạch lá dứa kết hợp cùng đào vải ngâm thì còn gì bằng. Cùng Cooky thực hiện món trắng miệng thơm ngon này nha!",
+      "nguyenlieu": "Sữa chua uống Dalat Milk 300ml, Sữa tươi thanh trùng không đường Dalat Milk 100ml, Đào ngâm 50gr, Vải ngâm 50gr, Bột rau câu giòn 10gr, Nước cốt lá dứa 150ml, Đường 55gr, Đá xay",
+      "thuchien": {
+        "b1": "Trộn đều 5gr bột rau câu giòn với 100gr đường. Cho vào nồi 150ml sữa tươi và 300ml sữa chua uống Đà Lạt Milk, nấu ấm sau đó cho hỗn hợp bột rau câu vào, khuấy đều đến khi hỗn hợp sôi lăn tăn khoảng 3-4 phút thì đổ ra khuôn, để thạch nguội lại.",
+        "b2": "Trộn đều 5gr bột rau câu giòn với 100gr đường. Cho vào nồi 300ml nước và 150ml nước cốt lá dứa, nấu ấm, sau đó cho hỗn hợp bột rau câu vào, khuấy nhẹ cho đến khi rau câu tan hết và hỗn hợp sôi lăn tăn khoảng 3-4 phút. Khi phần thạch sữa chua đông thì đổ nước thạch lá dứa lên, để nguội và chờ thạch đông. Sau đó cắt miếng vuông vừa ăn.",
+        "b3": "Thành phẩm: Cho vào tô đá nhuyễn, thêm 300ml sữa chua uống Đà Lạt Milk vào, sau đó thêm topping vải ngâm, đào ngâm, thạch sữa chua lá dứa rồi thưởng thức."
+      },
+      "luuy": "",
+      "menu": "phache",
+      "list": "Sữa Kem Khác"
+    },
+    {
+      "id" : 16,
+      "name": "Cà Phê Cold Brew Macchiato",
+      "img": "https://i.pinimg.com/originals/a8/06/5a/a8065a9da92aa8e327c14ff481ecd4e7.jpg",
+      "review": "Cà phê ủ lạnh - Cold brew đã dần trở nên phổ biến và được nhiều người yêu thích bởi cách chiết xuất độc đáo cùng hương vị thơm ngon. Thức uống này hoàn toàn có thể làm tại nhà với những dụng cụ đơn giản. Cooky sẽ hướng dẫn bạn cách ủ cold brew nhanh gọn và chế biến cold brew macchiato với vị béo đắng mới lạ vô cùng hấp dẫn.",
+      "nguyenlieu": "Cà phê xay thô 60gr, Nước lọc 600ml, Sữa tươi thanh trùng Dalat Milk 30ml, Kem béo 50ml, Đá viên",
+      "thuchien": {
+        "b1": "Ủ cà phê: Cho vào bình pha cold brew 60gr cà phê xay thô, 600ml nước đun sôi để nguội, đậy nắp và ủ trong ngăn mát tủ lạnh 24 tiếng để cà phê lên men và có vị chua nhẹ như nước trái cây. Nếu không có bình pha chuyên dụng, bạn có thể ủ trong một chiếc bình thủy tinh, sau đó lọc cà phê qua túi lọc. Cách này vẫn thu được những ly cold brew thơm ngon.",
+        "b2": "Làm macchiato: Cho vào bình lắc 30ml sữa tươi thanh trùng Đà Lạt Milk, 50ml kem béo, 2 viên đá viên rồi đậy nắp, lắc thật mạnh tay đến khi hỗn hợp hòa quyện.",
+        "b3": "Thành phẩm: Cho đá viên vào ly, rót vào 300ml cà phê cold brew, thêm machhiato lên mặt là có thể thưởng thức.",
+        "b4": "Cold brew macchiato thơm nhẹ hương cà phê, có vị đắng dễ chịu kết hợp với macchito béo mịn tạo nên một thức uống ngon miệng và sành điệu."
+      },
+      "luuy": "",
+      "menu": "phache",
+      "list": "Cà-phê"
+    },
+    {
+      "id" : 17,
+      "name": "Homemade Cappuccino",
+      "img": "https://i.pinimg.com/originals/91/66/a3/9166a3a15d77fe9e700dd7523ddcebf6.webp",
+      "review": "Hương cà phê chuẩn vị với lớp bọt sữa bồng bềnh giúp cho cappuccino được nhiều người yêu thích. Với cách pha nhanh gọn bằng bình French Fress, bạn vẫn có thể chiết suất được cà phê tươi ngon, đồng thời tạo được lớp bọt sữa mịn rất đơn giản ngay tại nhà.",
+      "nguyenlieu": "Cà phê xay thô 20gr, Nước sôi 200ml, Sữa tươi thanh trùng Dalat Milk 180ml, Bình French Fress",
+      "thuchien": {
+        "b1": "Xay cà phê: Xay thô hạt cà phê. Không nên xay quá mịn vì khi ấn Piston sẽ khiến bột bị lẫn vào nước cà phê sau cùng.",
+        "b2": "Pha cà phê: Ủ ấm bình French Fress với nước sôi trong 2 phút. Đổ cà phê đã xay vào, thêm 100ml nước sôi, khuấy nhẹ để cà phê ngấm và nở đều. Thêm tiếp 100ml nước sôi vào, lắp piston và ủ trong khoảng 4 phút. Sau thời gian trên, ấn từ từ piston xuống theo chiều thẳng đứng để nén phần bã cà phê xuống. Rót cà phê ra ly.",
+        "b3": "Tạo bọt sữa: Hâm nóng 180ml sữa tươi thanh trùng Dalat Milk rồi đổ vào bình French Fress. Gắn piston vào và ấn kéo liên tục trong khoảng 15 - 20 giây để tạo bọt sữa. Sau đó, đổ sữa vào ly cà phê, thêm bọt sữa, bột cacao lên mặt ly và tạo hình tùy thích.",
+        "b4": "Cà phê thơm quyện cùng lớp bọt sữa béo mịn là một thức uống tuyệt vời để bắt đầu một ngày mới đầy năng lượng. Bạn có thể tăng thêm hương vị của tách cappuccino bằng cách thưởng thức nóng cùng đường hoặc bánh quy."
+      },
+      "luuy": "",
+      "menu": "phache",
+      "list": "Cà-phê"
+    },
+    {
+      "id" : 18,
+      "name": "Thịt Kho Tàu",
+      "img": "https://i.pinimg.com/originals/4e/78/1d/4e781d4b5c641c23988990a362d27fab.jpg",
+      "review": "Thịt kho tàu là món ăn không thể thiếu trong bữa ăn ngày Tết của người Việt. Miếng thịt béo ngậy, mềm thơm tan từ từ trong miệng, trứng vịt bùi bùi, ăn với cơm nóng thì không còn gì bằng. Cách nấu thịt kho tàu ngon không hề khó một chút nào, chỉ cần vài bước là bạn có nồi thịt kho tàu ngon đúng vị rồi đấy!",
+      "nguyenlieu": "Thịt heo: 1 Kg, Trứng vịt: 5 Quả, Tỏi: 1 Củ, Hành tím: 5 Củ, Dừa: 1 Trái, Nước mắm: 5 Muỗng canh, Muối: 1.50 Muỗng cà phê, Đường trắng: 1 Muỗng canh, Bột ngọt: 1 Muỗng cà phê, Nước màu: 1 Muỗng canh",
+      "thuchien": {
+        "b1": "Cho trứng vịt vào nồi luộc chín trong khoảng 15-20 phút rồi bóc bỏ vỏ.",
+        "b2": "Thịt rửa sạch, cắt miếng to cỡ 3 ngón tay gộp lại. Hành tím bóc vỏ, cắt múi cau. Tỏi bóc vỏ, cắt nhỏ.",
+        "b3": "Ướp thịt kho tàu với hành tím, tỏi, 5 muỗng canh nước mắm, 1 muỗng canh đường, 1.5 muỗng cà phê muối, 1 muỗng cà phê bột ngọt và 1 muỗng cà phê tiêu trong khoảng 20-30 phút.",
+        "b4": "Đun nóng 3 muỗng canh dầu ăn trong nồi lớn rồi hạ nhỏ lửa, cho thịt đã ướp vào, nhanh tay đảo đều khoảng 5-10 phút.",
+        "b5": "Khi thấy thịt săn lại thì cho nước 1 trái dừa vào, đậy nắp đun lửa to. Khi nước sôi thì thêm 1 muỗng canh nước màu vào trộn đều. Đậy nắp, đun sôi với lửa lớn khoảng 15-20 phút. Thi thoảng hớt bỏ bọt trắng để nồi thịt kho tàu ngày tết được đẹp mắt nhé.",
+        "b6": "Khi nước trong nồi vơi đi thì cho trứng vịt vào, thêm 1 lít nước lọc đun sôi với lửa lớn trong khoảng 20-30 phút.",
+        "b7": "Cách nấu thịt kho tàu ngon: Khi nước trong nồi cạn 1 nửa thì hạn nhỏ lửa, đun liu riu đến khi nước sệt và còn lại ít là được.",
+        "b8": "Bày trí ra tô và thường thức với cơm. Món thịt kho tàu ngày tết truyền thống đã sẵn sàng rồi đây! Ăn cùng với bánh mì hay cơm đều ngon lành, có thêm đĩa dưa giá nữa thì quá tuyệt vời luôn. Có cách nấu thịt kho tàu ngon lành này, Tết các bạn tự tay làm một nồi cho cả nhà nhé."
+      },
+      "luuy": "",
+      "menu": "nauan",
+      "list": "Kho"
+    },
+    {
+      "id" : 19,
+      "name": "Gân Bò Ngâm Xoài Sả Tắc",
+      "img": "https://i.pinimg.com/originals/34/c2/c1/34c2c154d39272e8e76b61039dcce0f3.jpg",
+      "review": "Gân bò ngâm xoài sả tắc là món ngon được chế biến từ gân bò, trộn cùng với xoài, tắc chua thanh. Với vị dai giòn sần sật của gân bò, hoa quyện cùng với vị chua thanh của xoài chắc chắn sẽ đem cho bạn một trải nghiệm thú vị, ngon đến lạ lùng. Vào dịp Tết đầy những món ăn dầu mỡ thì gân bò ngâm xoài sả tắc sẽ là món ăn giúp chống ngán cho bạn đấy, bạn hãy lưu lại công thức bên dưới đây nhé!",
+      "nguyenlieu": "Gân bò 600 gram, Xoài keo 2 trái, Sả 5 cây, Tắc 50 gram, Gừng 1 củ, Ớt sừng 3 trái, Nước mắm 300 ml, Nước lọc 200 ml, Giấm 4 muỗng canh, Đường 300 gram, Rau răm 20 gram",
+      "thuchien": {
+        "b1": "Rửa gân bò với nước muối pha loãng cho sạch. Sau đó, đem 600 gram gân bò rửa sạch, luộc cùng gừng cắt lát trong 60 phút rồi đem ngâm nước đá rồi vớt ra, cắt thành khúc vừa ăn. Vớt gân bò ra, thái miếng vừa ăn. Xoài cắt miếng vừa ăn. Tắc cắt đôi. Ớt sừng và sả cắt lát xéo.",
+        "b2": "Cho vào nồi 300 ml nước mắm, 200 ml nước lọc, 4 muỗng canh giấm và 300 gram đường, khuấy đều, nấu sôi, để nguội.",
+        "b3": "Trộn đều gân bò cùng ớt sừng, sả, tắc và xoài. Cho gân bò vào lọ, đổ hỗn hợp nước mắm đã nguội vào ngâm 2 ngày là có thể ăn được. Sau 2 ngày bạn bảo quản hủ gân bò bằng cách cho vào tủ lạnh và để dùng dần.",
+        "b4": "Cho gân bò ra đĩa và ăn kèm với rau sống. Khi thưởng thức bạn sẽ cảm nhận được dai giòn sần sật của gân bò, hoa quyện cùng với vị chua thanh của xoài chắc chắn sẽ đem cho bạn một trải nghiệm thú vị, càng ăn càng nghiện."
+      },
+      "luuy": "",
+      "menu": "nauan",
+      "list": "Khác"
+    },
+    {
+      "id" : 20,
+      "name": "Nấm Kho Tiêu Chay",
+      "img": "https://i.pinimg.com/originals/52/5b/ed/525bedfd17fce853bfea86141f62f91f.jpg",
+      "review": "Nấm kho tiêu tuy là món ăn chay nhưng hương vị lại rất đậm đà, gần gũi khó quên. Các loại nấm được kho săn lại, nhai vào cảm giác giòn sật thoang thoảng mùi tiêu xanh, điểm xuyết những miếng mì căn dai bùi ngập trong nước kho cay the đậm đà, bao nhiêu cơm mới đủ cho một nồi nấm kho chất lượng như vậy đúng không? Nhớ note lại công thức để chiêu đãi gia đình vào những ngày ăn chay sắp tới bạn nhé!",
+      "nguyenlieu": "Nấm rơm 100 Gr, Nấm đông cô 100 Gr, Mì căn 100 Gr, Tiêu xanh 3 Nhánh, Ớt 5 Trái, Hành boa rô 20 Gr, Hạt nêm chay 10 Gr, Đường trắng 40 Gr, Nước mắm chay 20 ml, Nước tương 20 ml, Tiêu 3 Gr, Ớt băm 5 Gr, Tiêu xanh 10 Gr, Dầu olive 2 Muỗng canh, Đường trắng 1 Muỗng canh, Nước 80 ml",
+      "thuchien": {
+        "b1": "Cho tất cả thành phần nước kho gồm 40gr đường, 20ml nước tương, 20ml nước mắm chay, 10gr hạt nêm chay, 10gr hạt tiêu xanh đập dập, 5gr ớt băm và 3gr tiêu xay vào một chén, khuấy đều cho gia vị hòa tan.",
+        "b2": "Làm nóng 2 muỗng canh dầu olive, cho vào 1 muỗng canh đường trắng, dùng đũa khuấy đều cho tan đường. Khi đường chuyển sang màu vàng caramel và sôi nhẹ thì cho 20gr hành boa rô băm nhuyễn (phần thân xanh) vào, phi hành cho vàng thơm. Tiếp theo đổ hỗn hợp nước kho đã pha vào nồi, đun sôi.",
+        "b3": "Nước kho sôi thì bạn cho 100gr mì căn cắt miếng, 100gr nấm rơm, 100gr nấm đông cô vào nồi, dùng đũa xới nhẹ cho nấm và mì căn được thấm đều gia vị. Cuối cùng xếp thêm 3 nhánh tiêu xanh và 5 trái ớt đỏ (số lượng tùy chọn) lên mặt cho đẹp mắt. Để lửa nhỏ kho liu riu 15 -20 phút cho các nguyên liệu chín, thấm vị và nước kho sánh lại thì tắt bếp.",
+        "b4": "Nấm kho tiêu chay là món ăn chay dân dã, vị thanh đạm và gần gũi với khẩu vị của nhiều người. Nấm kho được săn lại, nhai giòn sần sật, cay thơm mùi tiêu, cùng mì căn dẻo dai, đậm đà. Hữa hẹn mang đến cho cả nhà một món ăn chay đưa cơm, hấp dẫn. Hãy bỏ túi ngay mẹo kho nấm này để chuẩn bị cho những bữa cơm ngày rằm hoặc đầu tháng nhé!"
+      },
+      "luuy": "",
+      "menu": "nauan",
+      "list": "Kho Chay"
+    },
+    {
+      "id" : 21,
+      "name": "Đậu Hũ Om Rau Nấm Chay",
+      "img": "https://i.pinimg.com/originals/0e/b4/27/0eb427f8fe26aa037760bb8f02872292.jpg",
+      "review": "Đậu hũ om rau nấm là món om chay tổng hợp đa dạng các nguyên liệu trong một món ăn, giúp tăng tính ngon miệng và bổ dưỡng cho món ăn lên rất nhiều. Các loại rau củ được hầm mềm kết hợp với nấm rơm và nấm đông cô dậy mùi thơm đặc trưng, đậu hủ chiên dai bên ngoài mềm mịn bên trong được om với nước dừa tươi thơm ngọt, là món chay nhưng màu sắc và hương vị vô cùng bắt mắt. Món đậu hũ om rau nấm này cực kì thích hợp cho những dịp gia đình ăn chay thanh lọc cơ thể hoặc những người muốn ăn.",
+      "nguyenlieu": "Đậu hũ trắng 200 Gr, Củ sen 50 Gr, Cà rốt 50 Gr, Bắp non 50 Gr, Nấm đông cô 50 Gr, Nấm rơm 50 Gr, Hành boa rô 20 Gr, Nước dừa 300 ml, Bột bắp 1 Muỗng canh, Dầu ăn 2 Muỗng canh, Nước tương Maggi 2 Muỗng canh, Hạt nêm chay 1 Muỗng canh, Đường phèn 1 Muỗng canh",
+      "thuchien": {
+        "b1": "Đậu hũ trắng thái lát dày 1cm sau đó đem chiên vàng giòn 2 mặt.",
+        "b2": "Cà rốt gọt vỏ, cắt khúc ngắn sau đó cắt làm 4. Củ sen gọt vỏ, cắt lát dày sau đó cắt làm 4. Bắp non và nấm đông cô cắt đôi.",
+        "b3": "Bắc chảo lên bếp, làm nóng 2 muỗng canh dầu thực vật, cho 20gr hành boa rô thái lát vào xào thơm. Tiếp theo cho 50gr cà rốt, 50gr bắp non và 50gr củ sen vào xào 5 phút. Sau đó cho thêm 50gr nấm rơm và 50gr nấm đông cô, xào sơ rồi nêm 1 muỗng canh nước tương Maggi và 1 muỗng canh hạt nêm chay.",
+        "b4": "Chuẩn bị một chiếc nồi khác, cho 1/2 số rau nấm xào vào bên dưới, xếp đậu hũ vào giữa rồi cho 1/2 rau nấm còn lại lên trên. Thêm 300ml nước dừa tươi rồi đậy nắp lại om 30 phút ở lửa nhỏ.",
+        "b5": "Sau khi om nêm vào nồi thêm 1 muỗng canh nước tương và 1 muỗng canh đường phèn rồi nếm thử cho vừa miềng. Pha loãng 1 muỗng canh bột bắp với 2 muỗng canh nước lọc, đổ hỗn hợp bột bắp vào nồi rồi khuấy đều để tạo nước sệt, đun thêm 2 phút thì tắt bếp.",
+        "b6": "Vậy là món đậu hũ om rau nấm đã hoàn tất rồi đấy, nhìn màu sắc rất hấp dẫn đúng không nào. Món ăn này không những ngon mắt mà còn rất bổ dưỡng, có củ sen được hầm bùi giúp an thần dễ ngủ, các loại rau nấm ngon miệng và có nhiều vitamin cùng khoáng chất. Ăn đậu hũ om rau nấm cùng với cơm, bún hay bánh mì cũng đều hợp đấy nhé!"
+      },
+      "luuy": "",
+      "menu": "nauan",
+      "list": "Kho Chay"
+    },
+    {
+      "id" :22,
+      "name": "Canh Đu Đủ Hầm Nấm Rơm",
+      "img": "https://i.pinimg.com/originals/e9/ee/4f/e9ee4f4b5cc4329d4f8d88525b10e5cd.jpg",
+      "review": "Đu đủ là một loại thực phẩm có nhiều công dụng tốt cho sức khỏe như giúp thanh nhiệt, giải độc, mát gan,... rất thích hợp dùng để nấu nhừng món canh hầm bồi bổ cơ thể, nhất là cho người mới ốm dậy hoặc những người ăn chay cần bổ sung nhiều dưỡng chất. Trong công thức Canh đu đủ hầm nấm rơm chay dưới đây, đu đủ được hầm mềm ngọt nước kết hợp với nấm rơm dai dai dậy mùi thơm mát, bạn sẽ cảm nhận được trọn vẹn hương vị tự nhiên và thuần khiết nhất mà các loại rau củ thiên nhiên mang lại.",
+      "nguyenlieu": "Đu đủ xanh 200 Gr, Nấm rơm 70 Gr, Cà rốt 50 Gr, Hành boa rô 20 Gr, Hạt nêm Maggi 1 Muỗng canh, Muối 1/2 Muỗng cà phê, Dầu ăn 1 Muỗng canh",
+      "thuchien": {
+        "b1": "Đu đủ gọt vỏ, chẻ đôi, bỏ hạt, thái thành lát dày khoảng 2cm rồi cắt làm đôi. Cà rốt tỉa hoa, thái lát dày 1cm. Nấm rơm cắt sạch phần gốc, rửa sơ rồi đem ngâm nước muối loãng 15 phút khử mùi, sau đó vớt ra để ráo.",
+        "b2": "Bắc nồi lên bếp, cho vào 1 muỗng canh dầu thực vật rồi cho thêm 20gr hành boa rô thái lát vào phi thơm. Tiếp theo cho đu đủ vào, thêm 1/2 muỗng cà phê muối, xào khoảng 2 phút cho đu đủ dậy mùi. Sau đó thêm vào nồi 700ml nước rồi hầm đu đủ 20 phút.",
+        "b3": "Sau khi hầm đu đủ thì cho thêm cà rốt và nấm rơm vào nồi, hầm thêm 10 phút. Cuối cùng nêm 1 muỗng canh hạt nêm chay Maggi vào canh, khuấy đều lên rồi tắt bếp.",
+        "b4": "Dọn canh đu đủ ra ăn nóng cùng với cơm trắng. Đu đủ hầm mềm ngọt nước cùng với cà rốt và nấm rơm thơm ngon bổ dưỡng. Món canh chay thanh đạm và đẹp mắt này chắc chắn sẽ khiến cho bữa cơm gia đình bạn thêm phần hoàn chỉnh cho mà xem."
+      },
+      "luuy": "",
+      "menu": "nauan",
+      "list": "Súp"
+    },
+    {
+      "id" : 23,
+      "name": "Bún Mọc Nấm",
+      "img": "https://i.pinimg.com/originals/8c/57/a7/8c57a745f821960a7cbce7f53c361f20.jpg",
+      "review": "Bữa sáng là một bữa ăn quan trọng dối với hoạt động sức khỏe và trí não của trẻ. Với những nguyên liệu quen thuộc, cách làm đơn giản, bún mọc nấm chính là một món ăn sáng với cách làm vô cùng nhanh chóng nhưng vẫn đầy đủ chất mà mẹ nào cũng có thể tự tay chuẩn bị cho các bé yêu của mình. Hãy nhanh tay lưu ngay công thức này lại và vào bếp thực hiện ngay để giúp bữa ăn của con thêm phong phú hơn, mẹ nhé!",
+      "nguyenlieu": "Bún tươi 400 Gr, Giò sống 150 Gr, Nấm mèo 50 Gr, Nấm Linh Chi 50 Gr, Nấm hương 50 Gr, Cà chua 40 Gr, Cà rốt 40 Gr, Bông cải xanh 40 Gr, Hành tím 20 Gr, Hạt nêm Maggi 3 Gr, Đường trắng 1 Gr, Nước dùng 600 ml",
+      "thuchien": {
+        "b1": "Ướp 150gr giò sống với 10gr hành tím băm và 50gr nấm mèo băm nhỏ và 1 muongx canh hạt nêm Maggi nấm hương trong 15 phút rồi vo viên tròn.",
+        "b2": "Bắc nồi nóng, cho 20gr hành tím băm vào phi thơm với 1 muỗng canh dầu ăn. Tiếp theo cho 40gr cà chua vào xào mềm rồi cho vào 600ml nước dùng vào nấu sôi. Nêm gia vị với 1 muỗng canh đường và 2 muỗng canh hạt nêm Maggi Nấm hương để nước dùng đậm đà và ngọt.",
+        "b3": "Sau khi nước sôi, cho viên mọc đã vo tròn vào nồi cùng 40gr cà rốt, 50gr nấm hương nấu 10 phút rồi nêm 1 muỗng canh đường và 2 muỗng canh hạt nêm Maggi Nấm hương. Tiếp đó bạn cho 40gr bông cải xanh, 50 gr nấm linh chi nâu nấu thêm 2 phút rồi múc ra tô bún, rắc thêm hành lá.",
+        "b4": "Bún mọc nấm là sự kết hợp giữa những viên mọc tròn thú vị và những nguyên liệu bổ dưỡng chắc chắn sẽ khiến cả bạn và bé đều hài lòng thích thú. Đặc biệt là cách nấu bún mọc cực kỳ đơn giản và nhanh chóng nhé! Hãy cùng Maggi vào bếp, chuẩn bị cho bé cưng những bữa điểm tâm ngon miệng và dinh dưỡng nhé."
+      },
+      "luuy": "",
+      "menu": "nauan",
+      "list": "Mì"
+    },
+    {
+      "id" : 24,
+      "name": "Thịt Bò Xào Bông Cải Xanh",
+      "img": "https://i.pinimg.com/originals/04/da/ec/04daeca9940314aad0d7807952f9885c.jpg",
+      "review": "Thịt Bò Xào Bông Cải Xanh - món ăn ngon bổ dưỡng cho bữa cơm của gia đình mình. Cách làm bò xào bông cải đơn giản lắm nhé, bông cải xanh xào vẫn giòn ngon, thịt bò chín không bị dai, ăn rất vô cơm luôn đấy ạ! Nguyên liệu làm bò xào bông cải này lại đơn giản, dễ mua nữa chứ. Bạn đã thử chưa?",
+      "nguyenlieu": "Bông cải xanh 500 Gr, Thịt bò 300 Gr, Nước tương 1 Muỗng canh, Hạt nêm 1 Muỗng cà phê, Dầu ăn 2 Muỗng canh, Tiêu 1/2 Muỗng cà phê, Bột ngọt 1/3 Muỗng cà phê, Muối 1 Muỗng cà phê, Gừng 1 Củ, Mè trắng 3 Muỗng canh",
+      "thuchien": {
+        "b1": "Chuẩn bị làm bò xào bông cải: Rửa sạch bông cải xanh, cắt nhỏ. Gừng gọt vỏ. đập dập rồi cắt sợi.",
+        "b2": "Chuẩn bị làm bò xào bông cải: Chọn mua thịt bò thăn, đem rửa sạch, cắt thành lát mỏng. Sau đó, ướp thịt bò với gừng, nước tương, hạt nêm, tiêu khoảng 10 phút cho ngấm gia vị.",
+        "b3": "Cách làm bò xào bông cải: Làm nóng dầu ăn trong chảo, cho thịt bò đã ướp vào, xào sơ qua khoảng 3 phút, cho ra đĩa.",
+        "b4": "Tiếp tục dùng chảo đó, cho bông cải xanh vào chín. Cuối cùng, cho thịt bò trở lại xào cùng bông cải, nêm muối, bột ngọt vào cho vừa ăn. Đảo đều chảo bò xào bông cải cho ngấm vị thì tắt bếp.",
+        "b5": "Rang qua mè trắng cho thơm. Tắt bếp, rắc mè vào và cho bò xào bông cải ra đĩa, dọn ra ăn cùng cơm nóng rất ngon nhé. Pha thêm chén nước tương cay để chấm cùng bò xào bông cải sẽ ngon hơn. Chúc các bạn thành công với món ăn này nhé!"
+      },
+      "luuy": "",
+      "menu": "nauan",
+      "list": "Xào"
+    },
+    {
+      "id" : 25,
+      "name": "Quýt Ngâm Đường Phèn",
+      "img": "https://i.pinimg.com/originals/4d/aa/a5/4daaa510815be61ba1486c42b3bf007a.jpg",
+      "review": "Quýt ngâm đường phèn không những có công dụng phòng ho, xoa dịu cổ họng hiệu quả mà còn là món tráng miệng ngon bổ. Bạn có thể pha trà sau đó cho nước quýt ngâm, trộn đều với đá dăm cùng vài lát quýt căng mọng lên, đơn giản, dễ làm mà lại siêu hấp dẫn! Quýt ngâm kiểu này bạn có thể bảo quản được 15-20 ngày trong tủ lạnh đó nha!",
+      "nguyenlieu": "Quýt Trái, Đường phèn 80 Gr, Nước 400 ml",
+      "thuchien": {
+        "b1": "Lọ thủy tinh sau khi rửa sạch thì rót đầy nước sôi vào trong vài phút để diệt khuẩn. Sau đó úp lại để lọ thật ráo nước.",
+        "b2": "Quýt lột bỏ vỏ, tách múi, tước sạch phần xơ. Tiếp đến bắc nồi nước lên bếp đun sôi, thả quýt vào trong khoảng 30 giây thì vớt ra để ráo.",
+        "b3": "Bắc nồi cùng 400ml nước và đường phèn, nấu cho đến khi đường tan chảy hết. Lúc này cho quýt vào, nấu trong 5 phút rồi tắt lửa.",
+        "b4": "Cuối cùng, khi quýt đã nguội thì cho vào lọ thủy tinh đậy kín nắp, dốc ngược lại và có thể cho vào tủ lạnh để bảo quản. Quýt ngâm có thể dùng được sau 24 giờ."
+      },
+      "luuy": "",
+      "menu": "phache",
+      "list": "Nước-ép-trái-cây"
+    },
+    {
+      "id" : 26,
+      "name": "Ức Gà Sốt Cam",
+      "img": "https://i.pinimg.com/originals/63/5b/7e/635b7ee0056fca1f0591a1d0b3047165.jpg",
+      "review": "Nếu bạn yêu thích vị chua của cam và muốn kết hợp vào món ăn ngon lành có thể dùng để ăn cơm hoặc ăn kiêng thì công thức Ức gà sốt cam này cực kì phù hợp với bạn. Thịt ức gà mềm áo quanh một lớp nước sốt cam chua ngọt, cách làm thì đơn giản đến bất ngờ, vèo vèo 20 phút là đã có cho mình một đĩa đồ ăn ngon ngất ngây rồi. Ăn ức gà không béo mà còn có nước cam cung cấp thêm nhiều vitamin C, một món ăn quá lý tưởng với các bạn đang trong quá trình ăn kiêng giảm cân rồi.",
+      "nguyenlieu": "Ức gà 300 Gr, Nước ép cam 100 ml, Hành lá 10 Gr, Mè rang 5 Gr, Mật ong 2 Muỗng canh, Nước tương 1/2 Muỗng canh, Hạt nêm: 1 Muỗng cà phê, Tiêu 1/2 Muỗng cà phê",
+      "thuchien": {
+        "b1": "Thịt ức gà cắt thành những miếng vuông nhỏ. Bắc chảo nóng, cho vào 2 muỗng canh dầu ăn, thêm thịt gà cắt nhỏ vào chảo, nêm 1 ít muối tiêu rồi chiên cho thịt gà vàng đều. Trút thịt gà đã xào ra dĩa để riêng.",
+        "b2": "Trên chiếc chảo lúc nãy, thêm vào 10gr tỏi băm, phi lên cho tỏi vàng thơm. Sau đó cho thêm 100ml nước ép cam, 2 muỗng canh mật ong, 1/2 muỗng canh nước tương, 1 muỗng cà phê hạt nêm, 1/2 muỗng cà phê tiêu, khuấy đều rồi đun cho sốt sôi lên và hơi kẹo lại.",
+        "b3": "Lúc sốt kẹo thì cho thịt gà đã chiên sẵn vào đảo đều lên. Cuối cùng cho thêm hành lá cắt nhỏ và mè rang vàng vào chảo, đảo đều rồi tắt bếp.",
+        "b4": "Dọn gà sốt cam ra dĩa, ăn cùng với cơm nóng hoặc ăn với salad cũng rất ngon. Ức gà săn bên ngoài mềm bên trong, áo đều một lớp sốt cam chua chua ngọt ngọt rất vừa miệng. Vậy là chỉ cần 2 nguyên liệu chính là ức gà và nước ép cam cùng những gia vị có sẵn là bạn đã chế biến được một món ăn ngon lành và hao cơm mà người lớn hay trẻ nhỏ gì cũng thích rồi. Món này cũng ăn kiêng được đấy nhé, chỉ cần điều chỉnh gia vị ít một chút là đã có một món mới thơm ngon bổ dưỡng cho thực đơn giảm cân của bạn rồi."
+      },
+      "luuy": "",
+      "menu": "nauan",
+      "list": "Khác"
+    },
+    {
+      "id" : 27,
+      "name": "Bí Đỏ Um Nấm",
+      "img": "https://i.pinimg.com/originals/60/40/63/604063e97d6b7974047c593b31b077c8.jpg",
+      "review": "Bí đỏ um nấm là món ăn có nhiều tác dụng tuyệt vời đối với cơ thể, từ việc thanh nhiệt, giải độc, chống oxi hóa đến tác dụng phòng ngừa bệnh tim mạch, bổ huyết, tốt cho thần kinh, đẹp da... Đây cũng là món ăn rất phù hợp cho những ngày ăn chay, với sự kết hợp các nguyên liệu từ các loại nấm và rau củ, rất tốt cho sức khoẻ. Với những công dụng vô cùng tuyệt vời này, bí đỏ um nấm thực sự là một món ăn rất nên sử dụng trong bữa cơm gia đình để cả nhà cùng thưởng thức. Cùng vào bếp và thực hiện món ăn hấp dẫn này ngay thôi!",
+      "nguyenlieu": "Bí đỏ 2 Quả, Hạt nêm chay Knorr Nấm hương 2 Muỗng canh, Nấm rơm 50 Gr, Bạch quả 50 Gr, Nấm đông cô 50 Gr, Bột khoai 50 Gr, Đậu Hà Lan 50 Gr, Nước dừa tươi 700 ml, Đậu hũ trắng 50 Gr, Hành boa rô 15 Gr",
+      "thuchien": {
+        "b1": "Bí đỏ chọn 2 quả nhỏ, sau đó khứa thành hình zic-zag cho đẹp mắt. Móc ruột bên trong bí, bọc bí bằng giấy bạc rồi cho vào lò nướng 190 độ trong 20 phút.",
+        "b2": "Lấy 1 quả bí khác gọt vỏ, lấy phần thịt cắt thành những miếng vuông nhỏ. Bạch quả lấy khoảng 10 hạt, tách vỏ và tâm bên trong. Nấm đông cô cắt lát. Nấm rơm cắt đôi. Bột khoai ngâm nở. Bắc chảo lên bếp, cho vào 2 muỗng canh dầu ăn, phi thơm 15gr hành boa rô, cho tất cả các nguyên liệu vừa sơ chế vào xào lên cho thơm.",
+        "b3": "Tiếp theo cho 700ml nước dừa tươi vào nồi, hầm rau củ trong 15 phút cho gần mềm.",
+        "b4": "Khi các loại rau củ gần mềm, cho vào đậu Hà Lan và đậu hũ trắng (cắt miếng vuông), nêm nếm với 2 muỗng canh hạt nêm Knorr Nấm hương, khuấy đều rồi đun thêm 5 phút cho hỗn hợp hoà quyện.",
+        "b5": "Cuối cùng cho hỗn hợp rau củ vào trái bí, um thêm 10 phút trong nồi hấp cho tất cả đều mềm rồi tắt bếp.",
+        "b6": "Bí đỏ um nấm dùng nóng sẽ rất ngon, thích hợp hơn nếu thưởng thức vào những ngày mưa hoặc tiết trời hơi se lạnh. Món ăn là sự kết hợp tuyệt vời giữa bí đỏ bổ dưỡng và các loại rau củ nấm hoà cùng nước dùng ngọt thanh. Đã có công thức rồi, bạn còn chờ gì nữa mà không vào bếp ngay để trổ tài nấu nướng của mình nào!"
+      },
+      "luuy": "",
+      "menu": "nauan",
+      "list": "Khác"
+    },
+    {
+      "id" : 28,
+      "name": "Canh Chua Cá Basa",
+      "img": "https://i.pinimg.com/originals/10/5a/a9/105aa95ad1225350d8c1e4fbb9f6aeb7.webp",
+      "review": "Canh chua cá basa với vị chua chua của cà chua, nước cốt me; vị béo ngọt của thịt cá cùng hài hòa giữa các nguyên liệu, rau mùi, ... kích thích vị giác, giúp bạn ăn nhiều và ngon miệng hơn.",
+      "nguyenlieu": "Cá ba sa 600 Gr, Cà chua 1 Trái, Bạc hà 1 Cây, Giá đỗ 300 Gr, Ớt 2 Trái, Đậu bắp 300 Gr, Thơm 1/4 Trái, Tỏi 2 Tép, Me chín 30 Gr, Muối 1 Muỗng cà phê, Đường trắng 1 Muỗng canh, Nước mắm 1 Muỗng canh, Dầu ăn 1 Muỗng canh, Ngò gai 2 Cây, Hành lá 1 Nhánh, Ngò om 3 Cây",
+      "thuchien": {
+        "b1": "Làm tan me với một cốc nước sôi. Cá rửa sạch, thấm bớt nước với khăn giấy, sau đó bạn cắt nhỏ ớt đã bỏ hột và thoa đều lên các lát cá, rắc thêm một ít muối lên cá và ướp trong vòng 30 phút.",
+        "b2": "Cà chua bạn rửa sạch, cắt bỏ cuốn, khứa hình chữ thập lên vỏ, luộc cà chua sơ với nước nóng trong 30 giây, sau đó cho vào chén nước lạnh và lột bỏ vỏ cà chua, cắt nhỏ cà chua theo hình múi cam. Thơm, đậu bắp rửa sạch, cắt miếng nhỏ, bạc hà lột vỏ và cắt nhỏ. Hành lá, rau ngò, rau ngổ, ngò gai, tỏi lột vỏ cắt nhỏ.",
+        "b3": "Đặt một nồi nấu canh lên bếp, thêm dầu, tỏi, xào tỏi vàng thì lấy ra để riêng, tiếp đó bạn đổ nước vào nồi, nước me vừa lược vừa đổ vào nồi, thêm đường, sau đó đậy nắp nấu cho đến khi nước sôi thì bạn thêm cá vào nấu trong 10 phút với ngọn lửa riu riu.",
+        "b4": "Hết 10 phút, bạn lấy cá ra, cho thơm và cà chua vào nồi nấu, khi nước sôi bạn cho nước mắm, nước cốt chanh vào, khuấy đều. Khi nước sôi trở lại, bạn cho bạc hà, đậu bắp, giá vào nấu, khi nước sôi thêm lần nữa bạn cho hành lá, ngò gai, ngò om vào nấu thêm ít phút thì tắt bếp.",
+        "b5": "Canh chua cá basa với vị chua chua của cà chua, nước cốt me; vị béo ngọt của thịt cá cùng hài hòa giữa các nguyên liệu, rau mùi, ... kích thích vị giác, giúp bạn ăn nhiều và ngon miệng hơn."
+      },
+      "luuy": "",
+      "menu": "nauan",
+      "list": "Súp"
+    },
+    {
+      "id" : 29,
+      "name": "Canh Chua Cá Lóc Nấu Khế",
+      "img": "https://i.pinimg.com/originals/6b/75/64/6b7564c92822968013eb67c6e03783ad.jpg",
+      "review": "Canh chua cá lóc nấu khế là món canh dễ ăn và đưa cơm bởi hương vị chua thanh ngọt dịu của nó. Canh chua ăn cùng với cơm nóng, chấm cá lóc với nước mắm mặn, bữa cơm gia đình ngày mưa mà có một tô canh như thế này thì không còn chỗ nào để chê đó nha.",
+      "nguyenlieu": "Cá lóc 400 Gr, Khế 250 Gr, Cà chua 80 Gr, Bắp chuối 10 Gr, Ngò gai 10 Gr, Hành lá 5 Gr, Hạt nêm Maggi 45 Gr, Nước mắm Maggi 3 Muỗng canh, Đường trắng 45 Gr, Tiêu 3 Gr",
+      "thuchien": {
+        "b1": "Cá lóc làm sạch, cắt thành khúc ngắn vừa ăn. Ướp cá lóc với 1 muỗng canh nước mắm Maggi, 15gr hạt nêm Maggi, 15gr đường trắng, 3gr tiêu 15 phút cho thấm.",
+        "b2": "Bắc chảo nóng cùng 1 ít dầu ăn, gắp từng khúc cá lóc vào chiên vàng 2 mặt.",
+        "b3": "Bắc nồi lên bếp, cho vào một ít dầu ăn rồi thêm cà chua cắt múi cau vào xào chín mềm. Tiếp theo cho cá lóc đã chiên, nước ép khế và khế cắt lát vào đun sôi. Lúc này chế vào nồi 1.2 lít nước lọc rồi nấu sôi. Nêm nước canh với 2 muỗng canh nước mắm Maggi, 30gr hạt nêm Maggi, 30gr đường trắng cho vừa miệng. Cuối cùng cho cà chua, bắp chuối vào nấu sôi lần nữa thì tắt bếp.",
+        "b4": "Múc canh ra tô, rắc thêm ngò gai và hành lá lên trên cho món canh thêm hấp dẫn. Cá lóc gắp ra chấm với nước mắm nhĩ, nước canh chua thanh, ngọt mát cùng vị khế quả là món ngon đưa cơm đó nha."
+      },
+      "luuy": "",
+      "menu": "nauan",
+      "list": "Súp"
+    },
+    {
+      "id" : 30,
+      "name": "Canh Chua Ngó Sen Nấu Tôm",
+      "img": "https://i.pinimg.com/originals/cd/e7/cc/cde7cc08c4bd3fd7e1bbd9f002e7f02f.jpg",
+      "review": "Canh chua là một món ăn rất phổ biến trong mâm cơm của nhiều gia đình. Món ăn này được nấu với rất nhiều nguyên liệu khác nhau tùy theo từng vùng miền và sở thích của người nấu. Hôm nay mình sẽ chia sẻ cách nấu canh chua đậm chất Nam Bộ, với những thức quà mà thiên nhiên ban tặng cho người dân miền Tây mùa nước nổi.",
+      "nguyenlieu": "Tôm tươi 300 Gr, Ngó sen 400 Gr, Bông điên điển 300 Gr, Me chua 50 Gr, Chanh 1 Quả, Nước mắm 2 Muỗng canh, Muối 1/2 Muỗng canh, Hạt nêm 1 Muỗng cà phê, Bột ngọt 1 Muỗng cà phê, Đường trắng 3 Muỗng canh, Bông so đũa 300 Gr, Ngò om 5 Gr, Ngò gai 5 Gr, Ớt 1 Trái",
+      "thuchien": {
+        "b1": "Tôm cắt bỏ đầu, rửa sạch rồi để cho tép thật ráo. Ngó sen cắt khúc vừa ăn. Vắt nước cốt chanh vào 1 thau nước rồi cho ngó sen vừa cắt vào ngâm. Ngâm khoảng 10 phút thì vớt ra cho vào rổ xóc nhẹ để nước trong ngó sen ra hết. Bông điển điển tước bỏ cọng, chỉ lấy phần bông rồi rửa sạch. Bông so đũa lặt bỏ phần cuống và nhụy rồi rửa thật nhẹ nhàng qua nước lạnh để vào rổ cho ráo. Rau ngò om, ngò gai bỏ đi phần gốc, rửa sạch rồi thái nhuyễn.",
+        "b2": "Đun sôi 2,5 lít nước. Cho me vào chén, múc nước sôi vào chén rồi dầm me cho me ra nước cốt. Cho nước me vào nồi, sau đó tiếp tục cho nước vào dầm tiếp. Sauk hi cho hết nước cốt me vào nồi, nêm vào 1/2 muỗng canh muối, 1 muỗng cà phê hạt nêm, 1 muỗng cà phê bột ngọt, 3 muỗng canh đường. Nấu cho nước canh sôi lại thì cho tôm vào nấu chín.",
+        "b3": "Tôm chín chuyển sang màu đỏ thì cho ngó sen vào. Nấu cho canh sôi thêm khoảng 3-5 phút thì tắt bếp. Cho bông so đũa và bông điển điển vào canh, đảo đều là bông so đũa và bông điên điên chín. Vì hai loại nguyên liệu này chín rất nhanh và để giữ được độ giòn ngon thì không nên nấu quá lâu. Cho thêm rau ngò om, ngò gai và ớt cắt lát vào nữa là món ăn đã xong.",
+        "b4": "Canh chua ngó sen nấu tôm với vị ngọt của tôm và vị giòn của ngó sen, thêm cái nhân nhẫn của bông so đũa sẽ tạo nên một món canh tròn vị mà thanh mát cho bạn và cả gia đình."
+      },
+      "luuy": "",
+      "menu": "nauan",
+      "list": "Súp"
+    },
+    {
+      "id" : 31,
+      "name": "Canh Chua Khổ Qua Dọc Mùng",
+      "img": "https://i.pinimg.com/originals/ee/c3/4d/eec34d6dc9ad92c344ec15e456abaae2.jpg",
+      "review": "Canh chua là một món ăn phổ biến khắp 3 vùng Bắc, Trung, Nam và thường được lựa chọn, đặc biệt là trong những ngày ăn chay. Vậy đã bao giờ bạn từng thử nấu canh chua chay với khổ qua? Những nguyên liệu nhiều dinh dưỡng, có khả năng thanh mát cơ thể này sẽ là một sự kết hợp mới lạ nhưng vô cùng đưa cơm đấy. Bạn thử xem nhé!",
+      "nguyenlieu": "Khổ qua 50 Gr, Dọc mùng 50 Gr, Thơm 50 Gr, Cà chua 40 Gr, Hành boa rô 5 Gr, Hạt nêm Maggi 1 Muỗng canh, Đường trắng 1 Muỗng canh, Muối 1/3 Muỗng canh",
+      "thuchien": {
+        "b1": "Khổ qua bỏ ruột, cắt khoanh mỏng; cà chua bổ múi cau; dọc mùng tước vỏ, thái lát mỏng; thơm thái lát.",
+        "b2": "Bắc nồi lên bếp, làm nóng 1 muỗng canh dầu ăn, xào thơm 5gr hành boa rô thái lát. Tiếp theo cho 40gr cà chua, 50gr thơm vào xào trong 1 phút, cho 1/3 muỗng canh muối rồi xào thêm 2 phút rồi cho 300ml nước vào nồi.",
+        "b3": "Nấu sôi, nêm gia vị với 1 muỗng canh hạt nêm Maggi, 1 muỗng canh đường, khuấy đều rồi nấu sôi. Tiếp theo cho khổ qua vào nấu trong 3 phút rồi cho dọc mùng vào nấu thêm 2 phút nữa.",
+        "b4": "Rắc thêm một ít hành boa rô nữa là nồi canh chua thanh mát phù hợp với những ngày hè nóng bức đã hoàn thành rồi. Món canh rực rỡ, không bị đắng mà chua thanh thanh sẽ là lựa chọn tuyệt vời cho những ngày chay vào mùa hè đấy!"
+      },
+      "luuy": "",
+      "menu": "nauan",
+      "list": "Súp"
+    },
+    {
+      "id" : 32,
+      "name": "Gỏi Xoài Xanh Trộn Gân Bò",
+      "img": "https://i.pinimg.com/originals/22/f8/89/22f8890b7179297b62600aac27d87b58.jpg",
+      "review": "Xoài chua chua, quyện lẫn với gân bò dai dai, giòn giòn, cay của vị gừng, ớt rất lạ miệng. Món này mà dùng làm cho khai vị thì rất tuyệt. Tại sao lại không làm thử nhỉ?",
+      "nguyenlieu": "Xoài xanh 1 Trái, Gân 250 Gr, Gừng 1 Củ, Nước mắm 1 Muỗng canh, Ớt 1 Trái, Đường trắng 1 Muỗng canh, Húng lũi 100 Gr, Muối 1 Muỗng cà phê",
+      "thuchien": {
+        "b1": "Gân bò rửa sạch, cho vào nồi nước cùng 1 muỗng cà phê muối, nấu đến khi gân mềm. Xoài gọt vỏ, rửa sạch, cắt sợi.",
+        "b2": "Gừng gọt vỏ, giã nhỏ, ớt cắt nhỏ còn húng lũi rửa sạch, cắt nhỏ như hình bên.",
+        "b3": "Vớt gân bò ra, cắt miếng nhỏ. Sau đó, trộn gân bò với ớt, gừng, nước mắm, đường trắng trong 1 cái tô.",
+        "b4": "Cuối cùng cho xoài vào, trộn đều. Cho món ăn ra đĩa, thêm húng lũi vào và dùng ngay thôi! Ăn rất ngon mà không ngấy nè."
+      },
+      "luuy": "",
+      "menu": "nauan",
+      "list": "Xào"
+    },
+    {
+      "id" : 33,
+      "name": "Gỏi Gân Bò",
+      "img": "https://i.pinimg.com/originals/bb/f9/45/bbf9450c33e5f7fb1076c26fb22afe30.jpg",
+      "review": "Món gỏi gân bò thơm ngon, dai dai, sần sật này sẽ đem lại bữa cơm gia đình thêm mới lạ, hấp dẫn. Không những vậy, món này có thể dành tặng ông xã nhâm nhi lai rai cùng bạn bè những lúc rảnh rỗi.",
+      "nguyenlieu": "Gân bò 300 Gr, Khế 3 Trái, Hành tây 1 Củ, Sả 2 Cây, Gừng 1/2 Củ, Mè trắng 20 Gr, Rau răm 50 Gr, Ớt 1 Trái, Tỏi băm 1 Muỗng cà phê, Chanh 1/2 Trái, Nước mắm 2 Muỗng canh, Muối 1 Muỗng cà phê, Đường trắng 2 Muỗng canh, Giấm 1 Muỗng canh",
+      "thuchien": {
+        "b1": "Khế rửa sạch, cắt viền, cắt lát. Gừng cạo vỏ, rửa sạch, cắt sợi. Sả rửa sạch, đập giập, bằm nhỏ. Ớt rửa sạch, bằm nhỏ. Rau răm nhặt bỏ gốc già, rửa sạch.",
+        "b2": "Hành tây bóc vỏ, cắt mỏng, ngâm với nước có pha 1 muỗng canh đường trắng, 1 muỗng canh giấm cho bớt hăng.",
+        "b3": "Gân bò rửa sạch, để ráo. Cho gân bò vào nồi cùng 1 muỗng cà phê muối, gừng, đổ ngập nước, luộc chín. Gắp gân bò ra, cắt thành miếng mỏng vừa ăn.",
+        "b4": "Pha nước mắm trộn: Hòa tan 1 muỗng canh đường trắng, 2 muỗng canh nước lọc, 2 muỗng canh nước mắm, chanh vắt lấy nước cốt, 1 muỗng cà phê tỏi băm, ớt trong chén, khuấy đều. Mè trắng cho vào chảo, rang sơ qua cho thơm.",
+        "b5": "Cho gân bò, hành tây, sả, rau răm vào 1 cái tô lớn. Rưới đều hỗn hợp nước mắm đã pha vào, trộn đều để khoảng 15-20 phút cho ngấm. Xếp từng lát khế xung quanh đĩa, cho hỗn hợp gỏi vào là có thể thưởng thức rồi."
+      },
+      "luuy": "",
+      "menu": "nauan",
+      "list": "Xào"
+    },
+    {
+      "id" : 34,
+      "name": "Chân Gà Trộn Xoài Xanh",
+      "img": "https://i.pinimg.com/originals/da/64/53/da64530cbeea30ca8454eb9f91dd9615.jpg",
+      "review": "Chân gà trộn xoài xanh một món ăn chơi khoái khẩu được nhiều người yêu thích. Xoài xanh chua, giòn sần sật, trộn cùng chân gà luộc, mắm, sả, tắc, gừng, ớt, cay thơm hấp dẫn.",
+      "nguyenlieu": "Chân gà 15 Cái, Xoài xanh 1 Trái, Cà rốt 1 Củ, Trái tắc 3 Trái, Sả 3 Củ, Ớt 2 Trái, Gừng 1 Miếng, Tỏi 2 Tép, Đường trắng 40 Gr, Ngò gai 1 Cây, Ớt bột 1 Muỗng canh, Nước mắm 4 Muỗng canh",
+      "thuchien": {
+        "b1": "Chân gà rửa sạch, luộc với chút giấm, muối, gừng để khử mùi. Luộc khoảng 15 phút vớt ra bát nước lạnh. Sau đó tiếp tục vớt chân gà ra đĩa và để tủ lạnh khoảng 30 phút nhé để chân gà dai và giòn hơn trước khi trộn. Chặt đôi chân gà, tiếp tục chẻ nhỏ phần móng. Xoài xanh để cả vỏ cho giòn, xắt miếng vừa ăn.",
+        "b2": "Cà rốt gọt vỏ tỉa hoa hoặc xắt mỏng. Sả thái mỏng, gừng thái sợi, tỏi ớt băm nhỏ.",
+        "b3": "Cách pha nước chấm trộn gỏi: 4 muỗng canh nước mắm ngon, 40g đường, 50ml giấm, 2 tép tỏi, 2 trái ớt hiểm, 1 muỗng canh ớt bột trộn thật đều để đường tan hết.",
+        "b4": "Xếp chân gà ra một tô lớn, thêm xoài xanh, cà rốt, gừng, ớt, tỏi, sả. Nếu thích thơm hơn các bạn cho vài lát quất vào nhé (cho ít thôi không sẽ đắng). Sau đó đổ nước trộn gỏi lên và mang bao tay vào trộn thật đều. Để vào ngăn mát khoảng 20 phút cho ngấm rồi mang ra ăn.",
+        "b5": "Khi ăn Chân gà trộn xoài xanh có thể thêm vài lá ngò gai vào cho thơm nhé."
+      },
+      "luuy": "",
+      "menu": "nauan",
+      "list": "Vặt Xào"
+    },
+    {
+      "id" : 35,
+      "name": "Gân Bò Ngâm Chua Ngọt Dai Ngon",
+      "img": "https://i.pinimg.com/originals/a4/27/b0/a427b07ade16c9aa388d21ffb75a864b.jpg",
+      "review": "Gân bò ngâm chua ngọt dai ngon với những miếng gân bò bóp muối gừng cho sạch rồi luộc liu riu khoảng 1 tiếng đồng hồ cho chín tới. Sau đó, ngâm vào hỗn hợp giấm đường 3-4 ngày là được.",
+      "nguyenlieu": "Gân bò 300 Gr, Muối 1 Muỗng canh, Gừng 20 Gr, Tỏi 5 Tép, Ớt 2 Trái, Giấm 100 ml, Đường trắng 80 Gr, Nước 250 ml",
+      "thuchien": {
+        "b1": "Gân bò tươi mua về lọc bớt màng mỡ, bóp với muối rồi rửa cho sạch. Gừng rửa sạch, đập dập hoặc nướng sơ cho thơm rồi đập dập. Cho gân bò vào nồi, đổ ngập nước rồi cho muối, gừng vào luộc cùng. Đậy nắp nồi đun đến khi sôi thì hớt bọt ở trên rồi đun liu riu trong khoảng 1 tiếng rưỡi đến khi gân bò chín vừa, nở trong. Lưu ý không đun quá khiến gân bò bị mềm nhũn, không ngon. Sau khi đun hơn một tiếng có thể cắt một miếng nhỏ thử độ chín của gân bò. Trong khi chờ gân bò luộc chín thì đun nước, dấm và đường đến khi đường tan hết là được. Để nguội phần nước ngâm. Chuẩn bị sẵn một bát nước lạnh (đã đun sôi để nguội) to. Khi gân bò chín vớt ra ngâm ngay vào bát nước lạnh để gân bò được giòn. Sau khi gân bò đã nguội hẳn thì vớt ra để ráo, cho lên thớt lọc sạch thêm mỡ nếu muốn. Thái miếng vừa ăn và xếp vào lọ thủy tinh sạch đã tiệt trùng.",
+        "b2": "Tỏi ớt để nguyên hoặc thái miếng, xếp xen kẽ cùng phần gân bò trong lọ. Đổ phần nước ngâm chua ngọt đã chuẩn bị ngập hết phần gân bò. Có thể dùng dụng cụ gài ép xuống để đảm bảo gân bò luôn ngập trong nước ngâm. Để lọ gân bò ở nơi thoáng mát trong khoảng 3 đến 4 ngày đến khi gân bò ngấm đều là dùng được. Sau đó nên bảo quản trong tủ lạnh.",
+        "b3": "",
+        "b4": ""
+      },
+      "luuy": "",
+      "menu": "nauan",
+      "list": "Muối"
     }
   ]
 }
