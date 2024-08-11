@@ -582,6 +582,51 @@
       "luuy": "",
       "menu": "nauan",
       "list": "Muối"
+    },
+    {
+      "id" : 36,
+      "name": "Sinh tố cam sữa chua đẹp da giữ dáng đầy dinh dưỡng",
+      "img": "https://i.pinimg.com/originals/05/c4/d2/05c4d2cbb27945f75d2fa960eb56afd4.jpg",
+      "review": "Chỉ một vài bước đơn giản trong 10 phút thôi là bạn đã có ngay ly sinh tố cam sữa chua thanh mát và đầy dinh dưỡng rồi đấy. Sinh tố cam sữa chua vô cùng tốt cho sức khỏe và bổ sung một lượng vitamin C thiết yếu cho cơ thể bạn đấy nhé.",
+      "nguyenlieu": "Cam tươi : 2 quả, Sữa chua có đường : 1 hộp, Nước cam hộp, Sữa tươi : 1 gói, Sữa đặc, Dầu dừa, Đường, Đá bào",
+      "thuchien": {
+        "b1": "Bạn bổ đôi quả cam ra rồi vắt lấy nước ra cốc. Bạn có thể để lại một vài múi cam để trang trí. Sau đó bạn dùng rây lọc qua nước cam để bỏ hạt. Để sinh tố giàu chất dinh dưỡng bạn sử dụng cam tươi sẽ tốt hơn cam để trong tủ lạnh vài ngày rồi nhé.",
+        "b2": "Bạn cho nước cam vắt vào máy xanh sinh tố, đổ thêm 100ml nước cam hộp cùng sữa tươi, 1 muỗng cà phê sữa đặc, 1 muỗng cà phê dầu dừa vào, cuối cùng cho thêm một cốc đá bào vào xay cùng hỗn hợp nha.",
+        "b3": "Bạn bật nút xay tầm 2 phút là sẽ có được hỗn hợp sinh tố cam sữa rồi đấy. Bạn cho hỗn hợp ra ly sau đó mở hộp sữa chua đổ lên ly sinh tố rồi trang trí bằng một vài lát cam mỏng hay một vài múi cam nhé."
+      },
+      "luuy": "Một chú ý nho nhỏ cho bạn là để sinh tố của bạn ngon thì còn phù hợp ở lượng đường và sữa mà bạn cho vào nữa nhé. Nếu cam chua thì bạn nên cho thêm đường và sữa vào còn nếu cam ngọt rồi thì giảm bớt lượng đường, sữa đặc xuống nha.",
+      "menu": "phache",
+      "list": "Sinh-tố"
+    },
+    {
+      "id" : 37,
+      "name": "Sinh tố dưa lưới, cần tây giúp nhanh đốt cháy mỡ thừa",
+      "img": "https://i.pinimg.com/originals/01/42/36/01423640b9467a4d539e280afc3169f2.jpg",
+      "review": "Ngoài công dụng tiêu mỡ, chất xơ, carotene, chất sắt phong phú trong món sinh tố này còn giúp cơ thể giải độc, tăng cường sức sống và khả năng miễn dịch, chống ung thư và các virut gây bệnh.",
+      "nguyenlieu": "Dưa lưới: 1/2 quả, Cần tây: 1/2 nhánh, Sữa đậu nành không đường: 250ml, Bột đậu xanh: 1 thìa cà phê",
+      "thuchien": {
+        "b1": "Cần tây rửa sạch, xắt khúc.",
+        "b2": "Dưa gọt vỏ, bỏ hạt, xắt miếng nhỏ cho vào máy xay sinh tố cùng các nguyên liệu còn lại.",
+        "b3": "Xay thật nhuyễn rồi rót ra cốc là dùng được."
+      },
+      "luuy": "",
+      "menu": "phache",
+      "list": "Sinh-tố"
+    },
+    {
+      "id" : 38,
+      "name": "Cà phê Latte",
+      "img": "https://i.pinimg.com/originals/10/eb/a6/10eba64359208d745588fa4f90cfcbe7.jpg",
+      "review": "Cafe latte được tạo hình bắt mắt với lớp bọt sữa phía trên, vị đậm của cà phê hòa lẫn với vị béo của sữa.",
+      "nguyenlieu": "60ml cà phê đen, 30ml vanilla, 250ml sữa, Chocolate bào, Phần si rô: [100g đường, 120ml nước, 5ml vanilla]",
+      "thuchien": {
+        "b1": "Cho nguyên liệu của phần si rô vào chảo vừa đun vừa khuấy trong khoảng 5 phút cho đường tan hết, sau đó cho vào chung với cà phê và khuấy đều.",
+        "b2": "Đun sữa thật nóng rồi đổ sữa và vanilla vào ly cà phê, khuấy đều.",
+        "b3": "Đổ phần bọt sữa còn lại, và rắc ít chocolate bào lên để trang trí."
+      },
+      "luuy": "Nếu thích bạn còn có thể đánh kem tươi đến khi tạo bọt cứng rồi bắt lên ly Latte để dùng kèm nhé!",
+      "menu": "phache",
+      "list": "Cà-phê"
     }
   ]
 }
