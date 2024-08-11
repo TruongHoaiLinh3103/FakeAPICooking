@@ -627,6 +627,35 @@
       "luuy": "Nếu thích bạn còn có thể đánh kem tươi đến khi tạo bọt cứng rồi bắt lên ly Latte để dùng kèm nhé!",
       "menu": "phache",
       "list": "Cà-phê"
+    },
+    {
+      "id" : 39,
+      "name": "Cocktail Special gift cho Giáng sinh",
+      "img": "https://i.pinimg.com/originals/7e/41/ba/7e41ba6511b4800f3546651b853cba41.webp",
+      "review": "Đúng như tên gọi, ly cocktail này sẽ là món quà dễ thương nhất, ngọt ngào nhất, nồng nàn nhất và ngon nhất trong trong đêm Giáng sinh.",
+      "nguyenlieu": "30ml nước ép ổi, 45ml rượu grey goose, 15ml rượu Contreau, 15ml si-rô lựu, 50g đá viên nhỏ",
+      "thuchien": {
+        "b1": "Cho tất cả các thành phần vào ly pha chế, đậy nắp lại, lắc khoảng 3 phút cho các vị hòa quyện với nhau và làm lạnh cocktail.",
+        "b2": "Rót ra ly Martini, trang trí lát chanh lên miệng ly cho đẹp."
+      },
+      "luuy": "",
+      "menu": "phache",
+      "list": "Cocktail"
+    },
+    {
+      "id" : 40,
+      "name": "Sinh tố táo",
+      "img": "https://i.pinimg.com/originals/7a/49/43/7a4943b2e85d709467c1fb70dadc8e47.jpg",
+      "review": "Sinh tố táo có tác dụng giảm cân hiệu quả.",
+      "nguyenlieu": "2 chén sữa chua vani tách béo, ¾ chén nước táo để lạnh, 1 quả táo cỡ trung bình, gọt vỏ, thái hạt lựu và cho vào ngăn đá tủ lạnh, ½ muỗng cà phê bột quế, ¼ muỗng cà phê hạt điều",
+      "thuchien": {
+        "b1": "Cho sữa chua và nước táo vào trong máy trộn.",
+        "b2": "Thêm táo xắt hạt lựu để đông lạnh và quế, hạt điều vào xay nhuyễn mịn.",
+        "b3": "Rót sinh tố táo ra ly và thưởng thức."
+      },
+      "luuy": "",
+      "menu": "phache",
+      "list": "Sinh-tố"
     }
   ]
 }
