@@ -670,6 +670,19 @@
       "luuy": "",
       "menu": "nauan",
       "list": "Khác"
+    },
+    {
+      "id" : 42,
+      "name": "Cách Phân Biệt Thịt Lợn Ngon Và Thịt Lợn Dỡ / Miếng Thịt Lợn Màu Đỏ Và Thịt Lợn Màu Hồng Nhạt",
+      "img": "https://i.pinimg.com/originals/d5/0a/db/d50adb38c1256cc9bfa21930bd885d2d.jpg",
+      "review": "Nên mua thịt lợn nào?",
+      "nguyenlieu": "Thịt lợn",
+      "thuchien": {
+        "b1": "Bạn nên chọn những miếng thịt lợn tươi mới có màu sắc sáng, màu thịt ngon sẽ là màu hồng nhạt hay đỏ nhạt, phần mỡ sẽ có màu trắng trong hơi ngà ngà. Dùng dao cắt thử miếng thịt theo chiều dọc sẽ thấy thớ thịt hơi se lại, bề mặt ráo, lớp bì mềm, đây là thịt tươi ngon."
+      },
+      "luuy": "",
+      "menu": "nauan",
+      "list": "Khác"
     }
   ]
 }
