@@ -656,6 +656,16 @@
       "luuy": "",
       "menu": "phache",
       "list": "Sinh-tố"
+    },
+    {
+      "id" : 41,
+      "name": "Cách cuốn bánh tráng không bị vỡ",
+      "img": "https://i.pinimg.com/originals/7a/49/43/7a4943b2e85d709467c1fb70dadc8e47.jpg",
+      "review": "Nếu chiều bạn dùng thì trưa hãy mang bánh để những nơi lạnh",
+      "nguyenlieu": "Bánh tráng trong hình",
+      "luuy": "",
+      "menu": "nauan",
+      "list": "Khác"
     }
   ]
 }
