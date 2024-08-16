@@ -659,10 +659,14 @@
     },
     {
       "id" : 41,
-      "name": "Cách cuốn bánh tráng không bị vỡ",
-      "img": "https://i.pinimg.com/originals/7a/49/43/7a4943b2e85d709467c1fb70dadc8e47.jpg",
-      "review": "Nếu chiều bạn dùng thì trưa hãy mang bánh để những nơi lạnh",
+      "name": "Cách Quấn Bánh Tráng Không Bị Bể Cực Hay / Mẹo Làm Cho Bánh Tráng Quấn Luôn Dẻo Không Nhúng Nước",
+      "img": "https://i.pinimg.com/originals/1a/44/0b/1a440b0cef70eec37228a14c26c3f54b.webp",
+      "review": "Bánh tráng luôn dẻo mà không cần nhúng nước",
       "nguyenlieu": "Bánh tráng trong hình",
+      "thuchien": {
+        "b1": "Nếu chiều dùng thì trưa mang bánh để ở nơi có nhiệt độ thấp",
+        "b2": "Bánh qua bước 1 không cần nhúng nước vẫn dùng được"
+      },
       "luuy": "",
       "menu": "nauan",
       "list": "Khác"
