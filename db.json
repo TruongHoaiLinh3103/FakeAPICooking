@@ -659,23 +659,83 @@
     },
     {
       "id" : 41,
-      "name": "Cách Quấn Bánh Tráng Không Bị Bể Cực Hay / Mẹo Làm Cho Bánh Tráng Quấn Luôn Dẻo Không Nhúng Nước",
-      "img": "https://i.pinimg.com/originals/14/f7/f1/14f7f10518bbff47d580e1a78b3573ae.jpg",
-      "review": "Nếu chiều dùng thì trưa mang bánh để ở nơi có nhiệt độ thấp. Bánh trong khi dùng không cần phải nhúng nước",
-      "nguyenlieu": "Bánh tráng trong hình",
+      "name": "Thịt ba rọi xào mắm ruốc – ngon cơm cho cả nhà",
+      "img": "https://i.pinimg.com/originals/99/34/c5/9934c5d5d5a98dd43e4753c97ba4fb1c.jpg",
+      "review": "Chúc cả nhà ngon miệng với món ăn này nha, nếu có ý định làm món này các Mẹ hãy nhớ nấu cơm nhiều nhiều nha, không lại tiếc hùi hụi vì hết giữa chừng đó.",
+      "nguyenlieu": "Thịt ba rọi (ba chỉ): 300g; Mắm ruốc: 2 muỗng canh; Sả cây; Ớt hiểm; Gia vị thông thường: đường, bột ngọt và hạt nêm; Dầu ăn; Tỏi, hành tím băm nhuyễn.",
+      "thuchien": {
+        "b1": "Sả cây cắt khoanh rồi băm nhuyễn.",
+        "b2": "Thịt ba chỉ rửa sach, cắt miếng vừa ăn cho vào 1 cái tô lớn.",
+        "b3": "Ướp vào thịt: 1 muỗng cà phê hành tím băm, 1 muỗng cà phê tỏi băm, sả băm, 1 muỗng hạt nêm, 1 muỗng đường và ½ muỗng cà phê bột ngọt. Vì trong mắm ruốc có vị mặn nên không được ướp muối hay nước mắm. Để thịt thấm 30 phút.",
+        "b4": "Cho chảo lên bếp, bật lửa, chảo nóng thì cho 1 muỗng canh dầu ăn vào, cho sả băm, tỏi băm và hành băm vào phi thơm. Sau đó cho thịt vào xào cho săn lại, cho ớt đập dập hay cắt khoanh vào xào chung.",
+        "b5": "Thịt săn lại thì cho 2 muỗng mắm ruốc vào xào chung cho đều, cho thêm nước lọc vào, đun nhỏ lửa đến khi nước sền sệt lại là chín. Tắt bếp."
+      },
+      "luuy": "Thịt không quá mặn, thơm lừng mùi mắm ruốc và sả. Món này xào với nhiều sả mới ngon. Vị cay của ớt sẽ làm tăng thêm hương vị cho món ăn, nhưng bạn nào không ăn cay được thì không bỏ ớt cũng không sao. Dùng với cơm nóng và dưa leo cắt khoanh.",
+      "menu": "nauan",
+      "list": "Kho"
+    }{
+      "id" : 42,
+      "name": "Cá thu sốt me",
+      "img": "https://i.pinimg.com/originals/67/66/6b/67666b48af25a615fcd1093432f4deae.jpg",
+      "review": "Cá thu sốt me món ăn hấp dẫn mang lại nhiều dinh dưỡng cho bữa cơm gia đình!",
+      "nguyenlieu": "Cá thu tươi: 300g , me khô: 1 muỗng to, 1/4 củ hành tây, Đường, tỏi khô, hành khô, hạt tiêu và ớt nếu muốn ăn cay.",
+      "thuchien": {
+        "b1": "Cá cắt lát mỏng vừa phải ướp với gia vị khoảng 30 phút rồi chiên vàng đều hai mặt. Gắp cá ra đĩa để riêng.",
+        "b2": "Me khô cho vào bát ăn cơm, chế vào hơn một lưng bát nước sôi rồi quấy cho me tan ra, lọc lấy nước, bỏ hạt.",
+        "b3": "Dùng chảo đã rán cá lúc trước gạn bớt dầu ăn ra, cho tỏi khô và hành khô băm nhỏ vào phi thơm vàng, vớt ra để riêng một góc cùng với đĩa cá rán.",
+        "b4": "Cho thêm vào chảo một muỗng dầu ăn, đổ nước cốt me vào, nêm nước mắm, gia vị và đường đun sôi lên, cho hành tây vào đun cùng, nêm lại gia vị cho vừa miệng rồi cho cá vào sốt. Đun nhỏ lửa và thỉnh thoảng lật để cá ngấm sốt đều hai mặt, đến khi sốt me bắt đầu sánh lại thì rắc thêm hạt tiêu và ớt băm nhỏ vào. Cho cá ra đĩa rồi rưới sốt me vào, rắc tỏi và hành khô đã phi vàng lên trên ăn nóng với cơm. Bạn có thể mua sốt me đóng chai đã được chế biến sẵn có bán trong siêu thị, chỉ việc nêm lại đường và mắm cho vừa khẩu vị thôi. Tuy nhiên sốt này không đậm đà và ngon bằng sốt tự chế đâu nhé!"
+      },
       "luuy": "",
       "menu": "nauan",
-      "list": "Khác"
+      "list": "Chiên"
     },
     {
-      "id" : 42,
-      "name": "Cách Phân Biệt Thịt Lợn Ngon Và Thịt Lợn Dỡ / Miếng Thịt Lợn Màu Đỏ Và Thịt Lợn Màu Hồng Nhạt",
-      "img": "https://i.pinimg.com/originals/1e/e3/ad/1ee3ad74d471cf63c0356dd28c1c0baa.jpg",
-      "review": "Nên mua thịt lợn nào? ",
-      "nguyenlieu": "Thịt lợn",
+      "id" : 43,
+      "name": "Mắm ruốc thịt băm",
+      "img": "https://i.pinimg.com/originals/13/54/0d/13540dc8e521524cbfdaca9371612c62.jpg",
+      "review": "Chế biến mắm ruốc thịt băm vừa nhanh mà món ăn lại vừa hấp dẫn, ăn kèm với dưa leo, cà chua và rau luộc, ngon ơi là ngon.",
+      "nguyenlieu": "200g thịt ba rọi, 1/2 chén sả, 2 trái ớt, 2 tép tỏi, 2 củ hành tím, 2 muỗng sup mắm ruốc",
+      "thuchien": {
+        "b1": "Thịt ba rọi cạo rửa sạch, cho vào nồi nước luộc sơ với chút muối và vài giọt nước mắm, vớt ra chần sơ qua nước lạnh rồi bằm nhỏ(không cần bằm nhuyễn, nước luộc thịt cho rau vào làm canh)",
+        "b2": "Sả, ớt, hành tỏi bằm nhuyễn. Cho dầu vô chảo phi thơm các thứ nguyên liệu rồi cho thịt vào xào.",
+        "b3": "Cho mắm ruốc, đường tí xíu nước mắm, nêm cho vừa khẩu vị là được, đảo đều cho tí xíu nước vào để thịt không bị khô quá, thử lại vừa ăn là được."
+      },
       "luuy": "",
       "menu": "nauan",
-      "list": "Khác"
+      "list": "Xào"
+    },
+    {
+      "id" : 44,
+      "name": "Thử làm món chả ốc thơm ngon",
+      "img": "https://i.pinimg.com/originals/03/e3/fa/03e3fa696a3dfc195adf9b93710066da.jpg",
+      "review": "Với ốc bươu, giò sống cùng các nguyên liệu như gừng, sả, nấm mèo... bạn đã có thể chế biến nên món chả ốc thơm ngon cho gia đình mình.",
+      "nguyenlieu": "500 g thịt ốc bươu; 500 g giò sống (hay còn gọi là mọc); Sả cây cắt khúc từng đoạn nhỏ; 1 thìa canh sả bằm; 1 thìa canh gừng bằm nhuyễn; 1 thìa cà phê tiêu; Lá chanh, gừng thái lát; Vài trái chanh; Xấp lá chuối rửa sạch lau khô",
+      "thuchien": {
+        "b1": "Ốc bươu mua về ngâm với muối sau đó bóp rồi rửa sạch cho hết nước đen. Tiếp tục bóp với chanh tươi cho ra hết nhớt. Xả lại với nước sạch cho đến khi nước trong, bóp rồi để ra rổ cho ráo nước. Cho ốc bươu vào máy xay, xay sơ đừng quá nhuyễn để khi ăn còn có thể cảm nhận được thịt ốc.",
+        "b2": "Trộn ốc bươu đã xay với giò sống, gừng, sả bằm, tiêu cho thật đều. Không cần nêm nếm thêm gia vị vì giò sống khi mua thường đã được nêm sẵn.",
+        "b3": "Đầu tiên là lá chuối, tiếp đến lá chanh, cho chả ốc lên trên, đặt đoạn sả nhỏ ở giữa, cuối cùng là lát gừng mỏng và gói lá chuối lại.",
+        "b4": "Xếp chả ốc đã gói vào xửng rồi hấp chín trong khoảng 20 phút. Lúc nào lá chuối đổi màu cùng hương thơm của món ăn tỏa ra là được."
+      },
+      "luuy": "",
+      "menu": "nauan",
+      "list": "Nem-chả"
+    },
+    {
+      "id" : 45,
+      "name": "Cá cam chiên sốt cà chua",
+      "img": "https://i.pinimg.com/originals/fc/92/e3/fc92e3bcef71d7d3e79f8c3992be1d73.jpg",
+      "review": "Món cá cam chiên sốt cà vừa có vị ngọt thơm đậm đà của cá biển vừa có vị chua nhẹ của cà chua quyện vào hương thơm hành lá, thì là.",
+      "nguyenlieu": "500 g cá cam; 200 g cà chua; 2 củ hành tím; 2 cây hành lá; Rau thì là; Gia vị: hạt nêm, hạt tiêu, muối, dầu ăn.",
+      "thuchien": {
+        "b1": "Cá cam rửa sạch bỏ ruột, cắt khúc vừa ăn.",
+        "b2": "Cà chua rửa sạch thái múi cau; hành lá, thì là rửa sạch thái nhỏ; hành tím bóc vỏ thái nhỏ.",
+        "b3": "Đun nóng dầu ăn trong chảo, cho cá vào chiên chín rồi gắp ra đĩa.",
+        "b4": "Phần dầu ăn còn thừa trong chảo thì cho hành tím vào xào thơm, tiếp đó cho cà chua vào đảo chung. Bạn nêm ít hạt nêm, muối cho vừa ăn rồi thêm khoảng 100 ml nước vào đun và đậy nắp chảo cho cà chua nhanh nhừ. Khi cà chua nhừ và nước sốt sánh lại thì thêm hạt tiêu, hành lá, thì là thái nhỏ vào đảo qua rồi tắt bếp.",
+        "b5": "Chan nước sốt lên đĩa cá đã chiên và ăn nóng."
+      },
+      "luuy": "",
+      "menu": "nauan",
+      "list": "Chiên"
     }
   ]
 }
