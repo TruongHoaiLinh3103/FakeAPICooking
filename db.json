@@ -673,7 +673,8 @@
       "luuy": "Thịt không quá mặn, thơm lừng mùi mắm ruốc và sả. Món này xào với nhiều sả mới ngon. Vị cay của ớt sẽ làm tăng thêm hương vị cho món ăn, nhưng bạn nào không ăn cay được thì không bỏ ớt cũng không sao. Dùng với cơm nóng và dưa leo cắt khoanh.",
       "menu": "nauan",
       "list": "Kho"
-    }{
+    },
+    {
       "id" : 42,
       "name": "Cá thu sốt me",
       "img": "https://i.pinimg.com/originals/67/66/6b/67666b48af25a615fcd1093432f4deae.jpg",
