@@ -737,6 +737,94 @@
       "luuy": "",
       "menu": "nauan",
       "list": "Chiên"
+    },
+    {
+      "id" : 46,
+      "name": "Dưa góp ngồng cải chua cay giòn giòn",
+      "img": "https://i.pinimg.com/originals/b8/c2/fc/b8c2fcc979e1ae830f6de856ec3d7a08.jpg",
+      "review": "Món dưa góp làm từ ngồng cải có vị chua, cay, mặn, ngọt, giòn giòn giúp giảm cảm giác ngán của các món ăn trong ngày Tết.",
+      "nguyenlieu": "3 cái ngồng cải, 1 củ cà rốt, vài tép tỏi, 8 thìa nước mắm, 1 bát con nước lọc, 4 thìa canh đường, 6 thìa canh giấm, 1-2 quả Ớt",
+      "thuchien": {
+        "b1": "Cà rốt cạo vỏ, thái giống như trên.",
+        "b2": "Pha nước mắm chua, cay, mặn, ngọt, gồm có: 1 bát con nước lọc, 8 thìa canh nước mắm, 6 thìa canh giấm, 4 thìa canh đường, 1/2 củ tỏi giã nhỏ, ớt thái lát. Nên pha đậm đà chút cho dưa góp nhanh ngấm.",
+        "b3": "Ngồng cải bỏ bớt phần lá, ngâm nước muối loãng, rửa sạch, để ráo. Thái thành những lát mỏng, dài.",
+        "b4": "Cho ngồng cải, cà rốt vào trộn cho đều. Thỉnh thoảng đảo đều cho ngấm. Trời nóng thì sau 2 ngày có thể ăn được, trời lạnh phải sau 3 ngày mới ngấm. Mới ăn có thể hơi có vị hăng, cay cay nhẹ.",
+        "b5": "Khi dưa góp bắt đầu có vị chua cho vào lọ thuỷ tinh, bỏ vào ngăn mát tủ lạnh để ăn dần."
+      },
+      "luuy": "",
+      "menu": "nauan",
+      "list": "Muối"
+    },
+    {
+      "id" : 47,
+      "name": "Trứng cá kho dưa",
+      "img": "https://i.pinimg.com/originals/5c/17/f3/5c17f3c31820df6225edb15fdfdf295f.jpg",
+      "review": "Một ngày mát trời như hôm nay bạn hãy ra chợ mua trứng cá rồi thử làm món trứng cá kho dưa nhé, cũng ngon lắm đấy.",
+      "nguyenlieu": "Trứng cá 5 lạng; Thịt dọi 2 lạng; Dưa muối chua; Củ riềng; Mắm, muối, đường, ớt, nước hàng",
+      "thuchien": {
+        "b1": "Thịt thái miếng vuông ướp mắm, muối, nước hàng và 1 chút đường. Trứng cá rửa sạch.",
+        "b2": "Thái riềng thành những lát mỏng rồi xếp dưới đáy nồi vừa thơm lại vừa giúp nồi cá không bị bén trong quá trình đun.",
+        "b3": "Tiếp đến là lớp dưa muối chua, trứng cá và trên cùng là thịt lợn đã được ướp.",
+        "b4": "Bạn đun nhỏ lửa cho cạn hết nước ướp rồi hãy cho thêm nước, đun thêm khoảng 30 đến 45 phút nữa là được ăn.",
+        "b5": "Món trứng cá ngậy, bùi kết hợp với vị chua của dưa và vị béo ngậy của miếng thịt lợn sẽ giúp bạn ngon miệng đấy."
+      },
+      "luuy": "",
+      "menu": "nauan",
+      "list": "Kho"
+    },
+    {
+      "id" : 48,
+      "name": "Giòn rụm khoai tây nhân thịt chiên xù",
+      "img": "https://i.pinimg.com/originals/c7/ff/fd/c7fffdf082b5c0c9eddb2b5537388936.jpg",
+      "review": "Món khoai tây nhân thịt chiên xù là một trong những món ăn nổi tiếng từ đất nước Nhật Bản - có tên gọi là Korokke...Korokke được rất nhiều người yêu thích bởi lớp vỏ ngoài giòn rụm và lớp bên trong mềm thơm.",
+      "nguyenlieu": "4 củ khoai tây to; 1 củ hành tây; Nửa củ cà rốt; 2 chiếc nấm đông cô tươi; 450g thịt bò xay; 4 quả trứng; 2 thìa canh dầu ăn, 1 thìa cà phê tiêu muối; 200g bột chiên xù; 70g bột mỳ; Dầu ăn để chiên.",
+      "thuchien": {
+        "b1": "Khoai tây gọt vỏ, bổ làm 4 rồi rửa qua sau đó cho vào nồi luộc chín mềm, bở. Cà rốt, hành tây và nấm đông cô thái hạt lựu. Khi khoai chín, bạn đổ khoai ra rổ, để ráo nước rồi cho lại vào nồi, vặn mức lửa thấp nhất để nước còn đọng lại bay hơi hết mà không làm cháy khoai. Tắt bếp và nghiền khoai. Bạn hãy nghiền kỹ nhưng không cần nhuyễn mịn như khi làm món khoai tây nghiền mà để lại những hạt khoai nhỏ, khi ăn sẽ thú vị hơn rất nhiều.",
+        "b2": "Làm nóng 2 thìa canh dầu ăn trong chảo với lửa vừa, cho hành tây vào xào. Tới khi hành tây mềm và trở nên trong suốt thì bạn thêm nấm cùng cà rốt vào đảo tiếp khoảng 3 phút.",
+        "b3": "Cho thịt bò vào chảo, dùng muỗng gỗ dằm thịt bò cho tơi ra. Khi thịt đã chín và tơi, bạn nêm nếm cho vừa miệng với tiêu muối. Đổ thịt bò xào vào chung với nồi khoai tây bạn đã nghiền từ trước. Trộn sơ, đập thêm một quả trứng vào nồi. Trộn đều, kỹ và nhanh tay để khoai, thịt và trứng quyện vào nhau.",
+        "b4": "Khi hỗn hợp vẫn còn ấm, bạn nặn thành từng viên có kích cỡ tùy ý. Nếu sợ ngán bạn nên nặn viên hơi to một chút. Chuẩn bị 1 bát bột mỳ, 1 bát bột chiên xù cùng 1 bát có 3 quả trứng đánh tan. Lần lượt lăn từng viên khoai qua bột mỳ, trứng rồi tới bột chiên xù.",
+        "b5": "Làm nóng dầu ăn trong chảo sâu lòng, thả các viên khoai vào chiên cho tới khi chúng có màu vàng nâu đều đẹp mắt là được. Vì bên trong các nguyên liệu đều đã chín, bởi vậy bạn không cần phải lo lắng sợ chiên không đủ lâu.",
+        "b6": "Chiên xong bạn gắp khoai ra đĩa đã lót sẵn giấy thấm dầu để khoảng 5 phút cho dầu ráo bớt rồi mới bày lên đĩa."
+      },
+      "luuy": "",
+      "menu": "nauan",
+      "list": "Chiên"
+    },
+    {
+      "id" : 49,
+      "name": "Bò bóp thấu siêu ngon cho cuối tuần",
+      "img": "https://i.pinimg.com/originals/c2/84/65/c28465c45dded572c6f308d6ab7efef8.jpg",
+      "review": "Gỏi bò bóp thấu là món ăn kết hợp thịt bò tái kết hợp vị chua chua từ khế, vị hơi chát của chuối xanh, và mùi thơm từ rau thơm rất ngon miệng.",
+      "nguyenlieu": "Thịt bò thăn mềm: 500g; Chuối xanh: 500g; Khế chua: 3 trái; Hành tây: 1 củ; Cà rốt: 1 củ; Ớt sừng: 2 trái; Cần tây trang trí; Rau thơm, rau răm; Đậu phộng rang; Gia vị thông thường: dầu ăn, dầu mè, hạt nêm, đường, muối, nước mắm; Hành tím băm nhuyễn; Tỏi băm nhuyễn; Nước cốt chanh; Dấm gạo",
+      "thuchien": {
+        "b1": "Pha dấm và đường thành hỗn hợp chua chua ngọt ngọt. Chuối xanh gọt vỏ xanh đi, bào thành miếng và ngâm trong nước chanh pha loãng để không bị đen. Vắt ráo và cho vào thố, cho nước dấm dường vào để chuối thấm. Hành tây cắt sợi và ngâm trong nước dấm đường. Cho hành tây ngâm dấm đường vào tủ lạnh để hành tây được giòn. Cà rốt gọt vỏ, rửa sạch, thái sợi và ngâm trong nước dấm đường. Khế gọt những đường xung quanh múi khế bỏ đi và thái sợi. Ớt sừng bỏ hạt, thái sợi. Cần tây chẻ nhỏ. Làm nước mắm trộn: 2 muỗng canh nước mắm với 2 muỗng canh đường, cho lên bếp nấy với lửa thật nhỏ để đường tan hết, cho một ít ớt băm nhuyễn vào. Thịt bò thái miếng mỏng theo chiều ngang. Cho ½ chén nước dấm đường vào một nồi nhỏ, đun sôi thì cho tất cả thịt vào, đảo nhanh tay khi thấy thịt chín tái là vớt ra ngay. Không nên làm quá lâu thịt sẽ dai mà mất độ ngọt.",
+        "b2": "Cho tất cả các nguyên liệu đã chuẩn bị vào một thố lớn: thịt, chuối xanh vắt khô, hành tây vắt khô, cà rốt, khế, nước mắm đã nấu vào trộn đều, cho thêm 2 muỗng canh nước cốt chanh. Bạn thử xem thấu có vị chua chua, ngọt ngọt là được. Trộn đều tất cả hỗn hợp lên. Cho cần, một nửa đậu phông rang và rau răm vào trộn đều.",
+        "b3": "Cho bò bóp ra dĩa, cho thêm một nửa đậu phộng còn lại lên lớp mặt.",
+        "b4": "Món này có thể dùng làm món khai vị với bánh phồng tôm cũng khá hấp dẫn."
+      },
+      "luuy": "Thịt vẫn giữ độ ngọt, không bị dai. Bò bóp thấu có vị chua nhẹ, hương thơm đặc trưng. Các nguyên liệu không có mùi quá nồng, màu sắc tươi ngon, thấm gia vị và không bị nát.",
+      "menu": "nauan",
+      "list": "Xào"
+    },
+    {
+      "id" : 50,
+      "name": "Vịt quay tại nhà vừa ngon vừa đảm bảo",
+      "img": "https://i.pinimg.com/originals/57/dc/91/57dc916c6a7b36ddf24549a66fb8d2e3.jpg",
+      "review": "Vịt quay là món ăn ngon miệng được rất nhiều người yêu thích. Bạn cũng hoàn toàn có thể tự làm ở nhà ngon không kém ngoài hàng mà còn đảm bảo an toàn nữa.",
+      "nguyenlieu": "Vịt : 1 con; Rượu trắng; Gừng; Thảo quả: 2 quả; Hoa hồi: 3 hoa; Tiêu sọ; Ớt; Nấm mèo; Dầu màu điều; Xì dầu; Mật ong; Đường phèn; Gia vị thông thường: dầu ăn, hạt nêm, bột ngọt.",
+      "thuchien": {
+        "b1": "Vịt mua về thì rửa sạch, xát hỗn hợp rượu trắng và gừng lên toàn thân vịt, sau đó rửa lại bằng nước sạch, để ráo. Làm như vậy vịt sẽ không bị hôi lông.",
+        "b2": "Cho chảo lên bếp, cho hoa hồi , thảo quả, ớt và tiêu hạt vào rang cho nóng, sau đó cho nước dừa vào nấu với lửa lớn. Cho nấm mèo ngâm nở cắt làm đôi, và đường phèn  vào nấu chung.",
+        "b3": "Cho một chảo khác lên bếp cho dầu mày điều và xì dầu vào khấy nhanh tay cho tan hết, sau đó cho vào nồi nước dùng. Nêm vào đó 1 muỗng hạt nêm và 1 muỗng bột ngọt.",
+        "b4": "Cho vịt vào ngập trong nước dùng, nấu cho đến khi vịt vừa mềm. Chú ý giai đoạn này nấu với lửa nhỏ để gia vị thấm vào thịt vịt.",
+        "b5": "Vịt chín thì vớt vịt ra, tiếp tục nấu nước dùng cho cạn nước, tạo thành hỗn hợp sền sệt.",
+        "b6": "Cho chảo lên bếp, chảo nóng cho dầu ăn vào, cho dầu hơi nhiều tí, sau đó dùng vá để múc dầu xối lên mình vịt, làm giống như gà xối mỡ vậy, cứ mút dầu sôi chế lên thân vịt đến khi nào da vịt bắt đầu vàng nâu là được.",
+        "b7": "Pha mật ong với ít nước lọc, sau đó dùng cọ quét khắp mình vịt để tạo độ bóng cho da vịt.",
+        "b8": "Như vậy món vịt đã xong, bạn có thể cắt ra thành từng miếng nhỏ vừa ăn và đãi cả nhà rồi. Món vịt quay có thể ăn với bánh mì hay xôi kèm đồ chua thì rất ngon."
+      },
+      "luuy": "Da vịt vàng đều, không bị cháy đen, da sáng bóng. Thịt vịt thấm gia vị.",
+      "menu": "nauan",
+      "list": "Nướng"
     }
   ]
 }
