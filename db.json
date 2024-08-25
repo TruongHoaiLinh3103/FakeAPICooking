@@ -805,7 +805,7 @@
       "luuy": "Thịt vẫn giữ độ ngọt, không bị dai. Bò bóp thấu có vị chua nhẹ, hương thơm đặc trưng. Các nguyên liệu không có mùi quá nồng, màu sắc tươi ngon, thấm gia vị và không bị nát.",
       "menu": "nauan",
       "list": "Xào"
-    },
+   },
     {
       "id" : 50,
       "name": "Vịt quay tại nhà vừa ngon vừa đảm bảo",
@@ -825,6 +825,42 @@
       "luuy": "Da vịt vàng đều, không bị cháy đen, da sáng bóng. Thịt vịt thấm gia vị.",
       "menu": "nauan",
       "list": "Nướng"
+    },
+    {
+      "id" : 51,
+      "name": "Củ năng om nấm chay",
+      "img": "https://i.pinimg.com/originals/90/79/80/907980febbb02077c7e8457eb73ce250.jpg",
+      "review": "Món củ năng om nấm chay được làm từ nguyên liệu chính là củ năng, nấm và các nguyên liệu chay khác như đậu hũ, cà rốt, củ cải trắng. Món ăn bắt mắt với nước om hơi sanh sách màu vàng nhạt đặc trưng, các nguyên liệu chín vừa, giòn nhẹ. Khi thưởng thức món ăn thơm mùi sả cà ri, rau củ chín mềm thấm vị, béo thơm đậm đà.",
+      "nguyenlieu": "M: muỗng canh - m: muỗng cafe; Củ năng 200g; Củ cải trắng 200g; Đậu hũ 2 miếng; Mộc nhĩ 3 tai; Nấm hương 5 tai; Cà rốt 1/2 củ; Sả cây 4 cây; Nước cốt dừa 1 chén; Đậu phộng luộc nguyên vỏ 60g; Nước dão dừa 1 tô; Bột cà ri 1M: Dầu màu điều 10g (2M);: Hành tây 1/2 củ; Tiêu xanh 2 nhánh; Hạt nêm Ajingon Nấm 12g (1M); RAU NÊM: Sả cây 4 cây, hành tây 1/2 củ, tàu hủ ky lá chiên, rau om, ngò gai; Bữa sáng: Ăn kèm bánh mỳ, Tráng miệng: Yaourt Trái cây; Gia vị: Dầu ăn, ớt sừng, boa rô cắt lát, đậu phộng rang; Bột ngọt AJI-NO-MOTO®; Hạt nêm Aji-ngon® Nấm",
+      "thuchien": {
+        "b1": "Củ năng gọt vỏ cắt đôi & củ cải trắng rửa sạch cắt móng ngựa 3cm. Sả cây đập dập cắt khúc 4 cm. Hành tây cắt múi cau to. Rau om, ngò gai cắt nhỏ.",
+        "b2": "Cho 2M dầu điều vào chảo cho sả đập dập và boa rô vào phi thơm, cho củ năng, cà rốt, củ cải trắng và đậu phộng vào xào. Thêm 1M bột cà ri hòa nước, 1M hạt nêm Ajingon Nấm, 1/2M đường, 1m bột ngọt Ajiomoto, cho thấm.",
+        "b3": "Cho tiếp nấm hương vào, thêm nước dão dừa, nấu khoảng 10 phút, cho tiếp đậu hủ, tiêu xanh vào.",
+        "b4": "Nêm gia vị hạt nêm Ajingon Nấm, đường. Nước hơi sanh sánh, cho mộc nhĩ, nấm hương, hành tây, ớt sừng vào, nêm thêm 1/2M nước tương. Nấu lửa nhỏ. Đợi sôi trở lại, cho thêm nước cốt dừa vào. Tắt lửa",
+        "b5": "Múc ra dĩa sâu, rắc rau om ngò gai, ớt, đậu phộng rang, tàu hủ ky chiên lên mặt. Dọn kèm bánh mì, muối ớt chanh"
+      },
+      "luuy": "Xào cho củ năng, củ cải trắng và cà rốt chín 75% mới cho tiếp các nguyên liệu khác để chín đều. Cho nước cốt dừa vào sau và không nấu lâu để không bị vón cục. Kiểm tra củ năng không bị chua, bên ngoài khong bị nhớt.",
+      "menu": "nauan",
+      "list": "Chay"
+    },
+    {
+      "id" : 52,
+      "name": "Salad bơ bacon",
+      "img": "https://i.pinimg.com/originals/2e/d3/73/2ed3736aafdde6646336c7475500c24e.jpg",
+      "review": "Món Salad bơ bacon kết hợp giữa vị béo của bơ, bùi của khoai tây, giòn nhẹ của dưa leo, chua nhẹ của xốt mayonnaise và vị đậm đà của bacon. Đầu bếp sẽ hướng dẫn bạn cách nấu sao cho các nguyên liệu khi ăn có độ mềm vừa phải nhưng không bị nát làm cho món ăn đẹp mắt hấp dẫn hơn. Cùng Món Ngon Mỗi Ngày vào bếp thực hiện ngay món ăn dinh dưỡng này cho cả nhà thưởng thức nhé!",
+      "nguyenlieu": "M: muỗng canh - m: muỗng cafe; Bơ trái 200g; Khoai tây 200g; Bacon xông khói 100g; Dưa leo giống Nhật 100g; Húng lủi 10g; Xốt Mayonnaise Aji-mayo vị nguyên bản 36g (3M); Sữa tươi không đường 5g (1M); Mù tạt vàng 4g (1/2m); Chanh vàng 1/2 trái; Bữa chiều: Ăn kèm Mì Nưa Xào Tôm Nấm, Tráng miệng: Yaourt; GIA VỊ: Muối, tiêu, đường, mù tạt vàng, sữa tươi không đường; Xốt Mayonnaise Aji-mayo® Vị Nguyên Bản77",
+      "thuchien": {
+        "b1": "Bơ trái cắt đôi, bỏ hạt, bóc vỏ, lấy phần thịt, cắt miếng vừa ăn.",
+        "b2": "Khoai tây gọt vỏ, rửa sạch, cắt cùng cỡ với bơ, cho vào 1 tô sứ, đổ nước xâm xấp, sau đó bao màng co, đâm vài lỗ trên bề mặt, cho vào lò vi sóng khoảng 5 phút, nhiệt độ cao.",
+        "b3": "Dưa leo cắt đôi, bỏ hạt, cắt lát mỏng, sau đó ướp với 1 ít đường, xả sạch, vắt ráo. Húng lủi cắt nhỏ.",
+        "b4": "Bacon cắt miếng dài 3cm, xào sơ cho chín.",
+        "b5": "Pha xốt: Trộn đều 3M xốt mayonnaise Aji-mayo, 1M sữa tươi không đường, 1/2m mù tạt vàng, 1M nước cốt chanh vàng.",
+        "b5": "Trộn đều bơ, khoai tây (đã nguội), dưa leo, bacon và húng lủi với 1 ít muối, tiêu, sau đó trộn đều với xốt đã pha.",
+        "b6": "Cho salad ra dĩa, trang trí với 1 ít lá húng lủi, rắc vỏ chanh mài lên mặt dùng làm món khai vị."
+      },
+      "luuy": " Xào bacon vừa thơm và tươm mỡ, không quá giòn để món salad có cấu trúc tương đồng. Dưa leo ướp ít đường để giữ độ giòn của dưa, giúp món salad ngon hơn.",
+      "menu": "nauan",
+      "list": "Xào"
     }
   ]
 }
