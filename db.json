@@ -861,6 +861,63 @@
       "luuy": " Xào bacon vừa thơm và tươm mỡ, không quá giòn để món salad có cấu trúc tương đồng. Dưa leo ướp ít đường để giữ độ giòn của dưa, giúp món salad ngon hơn.",
       "menu": "nauan",
       "list": "Xào"
+},
+    {
+      "id" : 53,
+      "name": "Canh ốc mồng tơi",
+      "img": "https://i.pinimg.com/originals/21/db/3f/21db3ffba4d83de7a7d1c34c197abeb4.jpg",
+      "review": "Món canh ốc mồng tơi với nước canh trong, nhân chín đều, ốc và mướp giòn thật hấp dẫn! Màu xanh của mướp và rau củ tạo nên món ăn tươi mát muốn ăn ngay khi nấu xong. Vị ngọt thanh kết hợp với hương thơm riêu cua chắc chắn là một trải nghiệm ngon miệng trong bữa cơm gia đình.",
+      "nguyenlieu": "M: muỗng canh - m: muỗng cafe; Thịt ốc bươu (đã bỏ đuôi) 75g; Giò sống 75g'; Mồng tơi 200g; Mướp khía 200g; Nấm rơm 50g; Hành tím băm 1m; Gừng 1/2 củ; ; GVNS Aji-Quick® Bún riêu cua 1 gói; ĂN KÈM Cơm; Bữa trưa: Ăn kèm Cơm, Nấm Kho Tộ, Tim Heo Xào Măng Tây, Tráng miệng: Trái cây; Gia vị nêm sẵn Aji-Quick® Bún Riêu Cua",
+      "thuchien": {
+        "b1": "Thịt ốc bươu bỏ phần đuôi ốc, chần sơ với nước có ít gừng đật dập, để ráo, cắt hạt lựu. Ướp thịt ốc với 1m gừng băm, sau đó trộn đều với giò sống.",
+        "b2": "Mồng tơi lặt lấy lá, cắt đôi. Mướp bào vỏ, cắt khúc 3cm, bỏ ruột.",
+        "b3": "Phi thơm hành tím với 1M dầu ăn, cho 1.5 lít nước vào đun sôi, nêm 1 gói Gia Vị Nêm Sẵn Aji-Quick® Bún Riêu Cua vào khuấy đều.",
+        "b4": "Lần lượt nhồi chả ốc vào mướp ngang mặt và thả vào nồi, khi các viên nhồi nổi lên trên bề mặt, tiếp tục cho mồng tơi vào nấu chín. Tắt lửa.",
+        "b5": "Múc canh ra tô, dùng nóng với cơm trắng"
+      },
+      "luuy": "Thịt ốc bươu ngâm nước có pha ít giấm khoảng 15 phút sau đó rửa sạch để giảm mùi tanh và loại bỏ độ nhớt của ốc. Chọn mướp suôn, đều, đường kính 3cm để viên mướp nhồi chín đều, đẹp mắt. Chọn ốc cỡ vừa để thịt ốc không bị dai.",
+      "menu": "nauan",
+      "list": ""
+    },
+    {
+      "id" : 54,
+      "name": "Panna Cotta Kem Muối",
+      "img": "",
+      "review": "Món bánh Panna Cotta Kem Muối là một sự kết hợp độc đáo giữa vị ngọt mịn màng của panna cotta và vị mặn nhẹ của kem muối. Khi thưởng thức, bạn sẽ cảm nhận được sự mềm mịn, mát lạnh của panna cotta tan chảy trong miệng, hòa quyện với vị mặn nhẹ nhàng của kem muối và giòn ngọt của nho tạo nên một trải nghiệm ẩm thực thú vị và mới lạ.Món này không chỉ ngon mà còn rất đẹp mắt, khi kết hợp màu xanh nhẹ của trà matcha sữa cùng màu trắng của kem muối bên trên được tô điểm màu tím hồng của nho. Bánh Panna Cotta là một món ăn tráng miệng nổi tiếng từ nước Ý, dịch trong tiếng Ý có nghĩa là “kem nấu”. Món bánh thường được làm từ kem, sữa, đường và gelatine, sau đó được làm lạnh để tạo ra chiếc bánh mịn màng và dẻo dai. (theo wiki)",
+      "nguyenlieu": "M: muỗng canh - m: muỗng cafe; Whipping cream 260g; Phô mai con bò cười 15g (3 viên vuông nhỏ); Gelatine bột 2g; Đường 20g; Nho nâu không hạt 8 trái to; Trà Matcha sữa blendy 4 gói; RAU NÊM: lá húng lủi, hoa trang trí bánh; Gia vị: Muối; Blendy® Trà Matcha Sữa; ",
+      "thuchien": {
+        "b1": "Ngâm gelatine: cho hết lượng gelatine bột vào cùng với 10g nước lạnh ngâm cho gelatine nở.",
+        "b2": "Nấu kem: Cho 200g kem béo và 20g đường vào nồi sau đó đun với lửa nhỏ cho nóng, tiếp theo cho 4 gói Trà Matcha Sữa Blendy (chừa lại một ít trang trí) vào dùng phới đánh cho tan, sau đó cho hết lượng gelatine đã ngâm nở vào tắt bếp và khuấy cho tan gelatine. Cho hỗn hợp kem vào trong ly thủy tinh dung tích 50ml (4 ly) sau đó để vào ngăn mát tủ lạnh cho đông lại.",
+        "b3": "Đánh kem muối: Cho 60g kem béo còn lại vào thố cùng với 15g phô mai viên cùng với 1 ít muối và dùng máy đánh cho kem bông nhẹ.",
+        "b4": "Trình bày: Sau khi panna cotta đã đông lại cho kem muối lên trên trang trí thêm nho cắt khoanh và phủ thêm ít bột trà xanh lên trên, trang trí thêm lá húng lủi và hoa trang trí.",
+        "b5": "Bánh dùng lạnh.",
+        "b6": "THỰC ĐƠN BỮA ĂN: Bữa phụ chiều"
+      },
+      "luuy": "Không nên nấu hỗn hợp kem sữa quá nóng để tránh giảm độ đông đặc của gelatine. Dùng Trà Matcha Sữa Blendy để bánh có hương vị độc đáo và màu sắc đẹp mắt.",
+      "menu": "nauan",
+      "list": ""
+    },
+    {
+      "id" : 55,
+      "name": "Sườn kho khoai tây",
+      "img": "",
+      "review": "Món sườn kho khoai tây có hương vị rất đậm đà và hấp dẫn. Sườn non được kho mềm, thấm đều gia vị, kết hợp với khoai tây bùi bùi và phảng phất mùi thơm của củ nén tạo nên một món ăn ngon miệng và bổ dưỡng. Nước kho sánh mịn, có vị ngọt tự nhiên từ sườn và khoai tây, khi ăn kèm với cơm trắng đảm bảo rất hao cơm. Món này không chỉ ngon mà còn rất dễ nấu, phù hợp cho những bữa cơm gia đình.",
+      "nguyenlieu": "M: muỗng canh - m: muỗng cafe; Sườn non 250g; Khoai tây 150g; Nấm rơm 50g; Ớt hiểm 1 trái; Hành lá 1 nhánh; Dầu điều 10g (2M); Nước tương Phú Sĩ 9g (1.5M); Hạt nêm Aji-ngon heo 8g (2m); Bột ngọt Ajinomoto 4g (1m); Đường 8g (1M); Tiêu xanh 1 nhánh; Củ nén 25g; Ớt sừng 1 trái; RAU NÊM: Hành lá cắt nhỏ; ĂN KÈM Cơm; Bữa trưa: Ăn kèm Cơm, Bông Cải Xào Nước Tương, Canh Cá Kèo Rau Đắng; GIA VỊ: Tiêu, đường, dầu điều, tiêu xanh; Bột ngọt AJI-NO-MOTO®; Hạt nêm Aji-ngon® Heo; Nước tương "Phú Sĩ"",
+      "thuchien": {
+        "b1": "Sườn non cắt khúc 3cm",
+        "b2": "Nấm rơm ngâm rửa sạch, cắt đô",
+        "b3": "Ớt hiểm đập dập",
+        "b4": "Hành lá đầu hành lá đập diập cắt nhỏ, lá cắt nhỏ",
+        "b5": "Tiêu xanh đập dập",
+        "b6": "Củ nén nửa để nguyên, nửa băm nhỏ ướp sườn",
+        "b7": "Ớt sừng cắt quả trám",
+        "b8": "Sườn non ướp 1M củ nén băm, 1m hạt nêm Aji-ngon® Heo 1/2M nước tương Phú Sĩ, để thấm",
+        "b9": "Khoai tây cắt khối vuông răng cưa miếng vừa ăn, chiên sơ, để ráo",
+        "b10": "Cho 1M đường vào 2M dầu điều, thắng màu caramel, tiếp theo xào thơm củ nén nguyên còn lại, cho sườn vào xào săn, cho nước vào xâm xấp, kho lửa lớn, vớt bọt, sau đó hạ lửa nhỏ, nêm 1M nước tương, 1m bột ngọt, 1m hạt nêm Aji-ngon Heo, 1 trái ớt hiểm đập dập, 1 nhánh tiêu xanh đập dập, thêm khoai tây và nấm rơm, kho đến khi nước hơi sánh lại, đảo đều, tắt lửa.",
+        "b11": "Cho sườn kho khoai tây ra dĩa, rắc tiêu xay, hành lá và ớt sừng cắt quả trám lên trên, dùng nóng với cơm trắng."
+},
+      "luuy": "Ướp sườn với củ nén để tăng mùi thơm cho món ăn. Dùng nước tương Phú Sĩ khi kho, giúp món ăn đậm đà và thơm ngon.",
+      "menu": "nauan",
+      "list": ""
     }
-  ]
-}
+
