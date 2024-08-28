@@ -919,6 +919,100 @@
       "luuy": "Ướp sườn với củ nén để tăng mùi thơm cho món ăn. Dùng nước tương Phú Sĩ khi kho, giúp món ăn đậm đà và thơm ngon.",
       "menu": "nauan",
       "list": "Kho"
+    },
+    {
+      "id" : 56,
+      "name": "Cháo cá nấu bắp nếp",
+      "img": "",
+      "review": "Ai đã từng thưởng thức món cháo cá nấu bắp nếp thơm mùi bắp đều không thể quên được vị ngọt đồng quê tự nhiên của nó. Được nấu từ gạo, bắp nếp non bào nhỏ hòa thêm nước cốt dừa, món ăn có màu trắng sữa, sánh đều, vị ngọt béo thanh tao nhẹ nhàng. Thịt cá lóc ngọt, chắc và đầy bổ dưỡng, chấm nước mắm tỏi ớt chua ngọt khơi trọn vị giác người ăn. Một món ăn đáng thưởng thức!",
+      "nguyenlieu": "M: muỗng canh - m: muỗng cafe; Thịt cá lóc 300g (1 con phi lê); Gạo dẻo 100g; Bắp nếp 240g (2 trái); Dừa nạo 200g (1 chén nước cốt); Nấm rơm búp 100g; Cà rốt 50g; Hành tím 5 củ; Dầu 12g (1M); Hạt nêm Aji-ngon® Heo 6g (1.5m); Muối 2g (1/2m); Nước mắm 12g (1M); RAU NÊM: Hành lá, ngò rí; THỰC ĐƠN BỮA ĂN Bữa tối: Ăn kèm Tráng miệng: Chuối; GIA VỊ: Muối, tiêu, hành tím phi, dầu phi hành, nước mắm, hạt nêm Heo,; Hạt nêm Aji-ngon® Heo",
+      "thuchien": {
+        "b1": "Nấu nước dùng với xương cá, đầu cá, rễ ngò, hành tím nướng.",
+        "b2": "Chắt lấy nước dùng, cho gạo vào nấu cháo.",
+        "b3": "Cá lóc phi lê cắt dày 3mm, ướp với 1/2m tiêu, 1/2m hạt nêm Aji-ngon® Heo, 1M hành tím phi bóp nhỏ.",
+        "b4": "Hành ngò cắt nhỏ. Nấm rơm ngâm với nước bột năng pha ít muối (hoặc nước vo gạo pha ít muối) cắt đôi.",
+        "b5": "Phi dầu với đầu hành lá, xào sơ cá, trút ra để riêng.",
+        "b6": "Cho bắp, cà rốt vào nấu chung với cháo, nêm 1m hạt nêm Aji-ngon® heo và 1/2m muối, cho tiếp nấm rơm và cá vào. Sau cùng cho nước cốt dừa vào, nấu vừa chín, thêm 1M nước mắm, tắt lửa.",
+        "b7": "Múc cháo ra tô, thêm hành ngò, hành phi, tiêu. Dọn kèm với nước mắm, ớt băm và chanh."
+       },
+      "luuy": " Chọn bắp sữa còn tươi mới, cuống lá còn xanh thì bắp sẽ ngon hơn. Thêm nước cốt dừa để cháo tăng vị béo thơm.",
+      "menu": "nauan",
+      "list": ""
+    },
+    {
+      "id" : 57,
+      "name": "Viên xúc xích trứng cút chiên",
+      "img": "",
+      "review": "Công thức hướng dẫn làm món “Viên xúc xích trứng cút chiên” đậm đà thơm ngon. Viên trứng vàng giòn bên ngoài, mềm mịn béo bùi lòng đỏ bên trong, hòa quyện với hương vị xúc xích hun khói, bị đậm đà vừa ăn của chả và vị chua nhẹ của xốt mè rang không thể cưỡng. Món ăn là một lựa chọn tuyệt vời cho bữa tiệc hoặc là món ăn vặt cho những buổi họp mặt bạn bè.",
+      "nguyenlieu": "M: muỗng canh - m: muỗng cafe; Giò sống 300 g; Xúc xích hun khói 25g (1/2 cây) (3M); Trứng cút 12 trứng; Bắp mỹ luộc chín 1M; Cần tây 1M; Cà rốt 50g (2M); GVNS AjiQuick bột Chiên Giòn 1 gói; RAU NÊM: Salad, rau húng lủi, dưa chuột, cà bi, hành tỏi, tiêu xanh; THỰC ĐƠN BỮA ĂN Bữa phụ chiều; Gia vị: Hành tím băm, tiêu; Gia vị nêm sẵn Aji-Quick® Bột chiên giòn",
+      "thuchien": {
+        "b1": "Hành tây, cần tây, cà rốt cắt nhỏ, tiêu xanh đập dập. Xúc xích cắt hạt lựu.",
+        "b2": "Trộn đều giò sống với 3M xúc xích, 2M cà rốt, 1M bắp, 1M cần tây, 1/2M tiêu xanh +1/2M hành tím băm +1/3m tiêu xay.",
+        "b3": "Múc ra 2M Gia Vị Nêm Sẵn AjiQuick bột Chiên Giòn, phần còn lại pha với nước.",
+        "b4": "Lăn trứng cút qua bột khô, sau đó bọc chả xung quanh từng trứng cút, rồi lăn qua một lớp bột khô, tiếp tục nhúng qua bột chiên giòn AjiQuick đã pha nước.",
+        "b5": "Chiên ngập dầu cho giòn bên ngoài.",
+        "b6": "Cho rau thơm, dưa cà bi, salad vào giữa đĩa. Cắt dọc viên trứng xúc xích xếp xung quanh, khi ăn chấm với Xốt mè rang “Aji-Xốt”, Món ăn ngon đi kèm: CANH SƯỜN CỦ SEN A-TI-SÔ."
+       },
+      "luuy": "Lăn trứng cút và viên xúc xích trứng cút qua lớp GVNS AjiQuick bột Chiên Giòn giúp tăng độ kết dính. Chọn xúc xích hun khói để có mùi thơm đặc trưng cho món ăn",
+      "menu": "nauan",
+      "list": ""
+    },
+    {
+      "id" : 58,
+      "name": "Lẩu sườn khoai môn",
+      "img": "",
+      "review": "Món lẩu sườn khoai môn hấp dẫn với sự kết hợp vị ngọt của sườn non và vị dẻo bùi của khoai môn, thoảng mùi thơm đặc trưng khi ăn với chao, cay nhẹ của sa tế, sả. Cách nấu sao cho nước lẩu sanh sánh, sườn mềm, khoai môn chín mềm không bị quá nát. Món ăn có nhiều ích lợi cho sức khỏe với khoai môn cải thiện hệ tiêu hóa, giảm lượng đường trong máu, ngăn ngừa ung thư, bảo vệ da, đặc biệt là sườn non rất tốt để xây dựng khối cơ xương khi kết hợp với thực đơn dinh dưỡng.Món lẩu sườn khoai môn hấp dẫn với sự kết hợp vị ngọt của sườn non và vị dẻo bùi của khoai môn, thoảng mùi thơm đặc trưng khi ăn với chao, cay nhẹ của sa tế, sả. Cách nấu sao cho nước lẩu sanh sánh, sườn mềm, khoai môn chín mềm không bị quá nát. Món ăn có nhiều ích lợi cho sức khỏe với khoai môn cải thiện hệ tiêu hóa, giảm lượng đường trong máu, ngăn ngừa ung thư, bảo vệ da, đặc biệt là sườn non rất tốt để xây dựng khối cơ xương khi kết hợp với thực đơn dinh dưỡng.",
+      "nguyenlieu": "M: muỗng canh - m: muỗng cafe; Sườn non heo 400g; Sả 2 cây; Tỏi băm 1/2M; ; Hành tím băm 1/2M; Gừng 1m; Khoai môn cao 200g; Chao đỏ 3 viên; Nước dừa tươi 500ml; Sa tế 1M; Hạt nêm Aji-ngon® HEO 12g (1M); Nước mắm 8g (1M); Đường 4g (1m); Dầu ăn 5g (1M); Ăn tối kèm: Bún tươi, Tráng miệng: Mận; RAU NÊM: Ngò gai/ lá quế; ĂN KÈM: Cơm/ bún, rau muống/ cải bẹ xanh; Gia vị: Dầu ăn, nước nắm, tiêu, đường; Hạt nêm Aji-ngon® Heo",
+      "thuchien": {
+        "b1": "Sườn non heo rửa qua nước muối, để ráo nước, chặt khúc 2cm",
+        "b2": "Sả đập giập",
+        "b3": "Khoai môn cao chẻ dọc, cắt khúc 3cm.",
+        "b4": "Ướp sườn với 1/2m tiêu, 1m đường, 1M Hạt nêm Aji-ngon® HEO, 1M nước mắm, 1M sa tế, 3 viên chao đỏ. Ướp 15 phút.",
+        "b5": "Chiên rám mặt khoai môn.",
+        "b6": "Phi thơm hành, tỏi, gừng, sả cho sườn vào xào săn, thêm 500ml nước dừa tươi, 500ml nước lọc, nấu 20 phút ở lửa vừa. Thêm khoai môn vào nấu đến khi khoai mềm."
+        "b7": "Ăn kèm với cơm/ bún, rau muống/ cải bẹ xanh."
+       },
+      "luuy": "Dùng hạt nêm Aji-ngon Heo để món ăn đậm đà hơn. Chiên rám mặt khoai môn để nước lẩu sánh hơn. Dùng chao đỏ để màu sắc và mùi vị đặc trưng hơn.",
+      "menu": "nauan",
+      "list": ""
+    },
+    {
+      "id" : 59,
+      "name": "Canh lươn bồn bồn",
+      "img": "",
+      "review": "Nấu canh với lươn và bồn bồn mang lại một món canh chua mới, tuy quen mà lạ, có tác dụng làm ấm bụng, giúp cả nhà thưởng thức bữa ăn thêm phần thú vị và vui vẻ. Cùng vào bếp làm ngay món canh lươn bồn bồn cho cả nhà thưởng thức thôi nào!",
+      "nguyenlieu": "M: muỗng canh - m: muỗng cafe; Lươn 300g; Bồn bồn ngâm chua 250g; ; Cà chua 180g ( 2 trái ); Đậu bắp 80g ( 5 trái ); Me vắt 40g; ; Ớt sừng 1 trái; Ớt hiểm 2 trái; Rau om, ngò gai; Tỏi phi 2M; Bột ngọt AJI-NO-MOTO® 12g (2m); Nước mắm 12g (1,5M); Muối 8g (1m); Đường 3M; Hạt nêm Aji-ngon® HEO 1m; RAU NÊM: Rau om, ngò gai; ĂN KÈM Cơm, Bắp bò xào xốt tiêu xanh, Mướp hương nhồi tôm hấp; GIA VỊ: Muối, đường, nước mắm; Hạt nêm Aji-ngon® Heo; Bột ngọt AJI-NO-MOTO®",
+      "thuchien": {
+        "b1": "Lươn làm sạch, cắt khúc 5cm, ướp 1m bột ngọt AJI-NO-MOTO® và 1m Hạt nêm Aji-ngon® HEO.",
+        "b2": "Bồn bồn cắt đôi. Cà chua cắt múi cau. Đậu bắp cắt xéo. Rau om, ngò gai cắt nhỏ. Me vắt lấy 3/4 chén nước. Ớt sừng cắt lát. Ớt hiểm đập dập.",
+        "b3": "Phi 2M tỏi băm, sau đó vớt tỏi cho vào lươn.",
+        "b4": "Đun sôi 1,5 lít nước, thêm lươn, cà chua và bồn bồn, nêm 1m muối, 3M đường, cho nước me, đậu bắp vào, thêm 1,5M nước mắm, tắt bếp, cho rau om, ngò gai, và ớt vào.",
+        "b5": "Dùng nóng với cơm. Món ăn ngon đi kèm: Mướp hương nhồi tôm hấp."
+       },
+      "luuy": "Ướp lươn trước để lươn thấm gia vị khi nấu canh sẽ ngon hơn. Bồn bồn ngâm chua mua về nên bỏ bớt phần già, rửa sạch, vắt kĩ để giảm bớt vị chua.",
+      "menu": "nauan",
+      "list": ""
+    },
+    {
+      "id" : 60,
+      "name": "Cá hồi hạnh nhân xốt chanh dây",
+      "img": "",
+      "review": "Món cá hồi xốt chanh dây vàng giòn kết hợp hoàn hảo giữa sự tươi ngon cá hồi, hạnh nhân bùi bùi và xốt chanh dây. Cách làm viên cá vàng giòn bên ngoài nhưng bên trong mọng nước, hạnh nhân tẩm đều. Vị tươi ngon của cá hồi, xốt béo, vị chua nhẹ và thơm đặc trưng của chanh dây. Cá hồi: Cá hồi là nguồn giàu protein, axit béo omega-3, vitamin D và khoáng chất như selen và iodine, tốt cho tim mạch. Hạnh nhân: Hạnh nhân chứa nhiều chất chống oxy hóa, chất xơ và chất béo tốt cho tim mạch. Chanh dây: Chanh dây giàu vitamin C, có tác dụng tăng cường hệ miễn dịch và giúp hấp thụ sắt tốt hơn",
+      "nguyenlieu": "M: muỗng canh - m: muỗng cafe; Cá hồi phi lê bỏ da 300g; Hạnh nhân lát 40g; ; Chanh dây 30g (1M); Xốt Mayonnaise Aji-mayo® Vị Nguyên Bản 20g (2M); Mù tạt vàng 1m; Ăn tối kèm: Bánh mì sandwich, Salad nấm linh chi; GIA VỊ: Dầu ăn; Gia vị nêm sẵn Aji-Quick® Bột tẩm khô chiên giòn; Xốt Mayonnaise Aji-mayo® Vị Nguyên Bản",
+      "thuchien": {
+        "b1": "Cá hồi phi lê bỏ da rửa sạch, cắt khối/miếng vuông 2cm",
+        "b2": "Hạnh nhân lát giã bể vụn.",
+        "b3": "Chanh dây lọc lấy nước (khoảng 2M).",
+        "b4": "Tẩm cá hồi qua hạnh nhân lát, dùng tay nắn cho hạnh nhân bám chặt vào cá.",
+        "b5": "Tẩm cá qua Gia vị nêm sẵn Aji-Quick® BỘT TẨM KHÔ CHIÊN GIÒN",
+        "b6": "Bắt chảo dầu nóng, cho cá đã tẩm vào chiên đến khi chín vàng.",
+        "b7": "Vớt cá ra, để ráo dầu.",
+        "b8": "Pha xốt: trộn đều hỗn hợp 1m mù tạt vàng, 1M nước cốt chanh dây, và 2M Xốt Mayonnaise Aji-mayo® Vị Nguyên Bản đến khi hòa quyện.",
+        "b9": "Khi ăn cá chấm kèm với xốt chanh dây"
+       },
+      "luuy": " Không nên giã hạnh nhân quá nát để cảm nhận được hạnh nhân khi ăn. Dùng xốt mayonnaise Aji-mayo vị nguyên bản để pha xốt giúp xốt sánh quyện, tạo hương vị đặc trưng cho món ăn. Bỏ da cá hồi trong món ăn giúp món ăn đồng nhất và không bị tanh.",
+      "menu": "nauan",
+      "list": ""
     }
   ]
 }
