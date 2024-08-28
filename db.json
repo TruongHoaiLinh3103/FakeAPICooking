@@ -1013,6 +1013,63 @@
       "luuy": " Không nên giã hạnh nhân quá nát để cảm nhận được hạnh nhân khi ăn. Dùng xốt mayonnaise Aji-mayo vị nguyên bản để pha xốt giúp xốt sánh quyện, tạo hương vị đặc trưng cho món ăn. Bỏ da cá hồi trong món ăn giúp món ăn đồng nhất và không bị tanh.",
       "menu": "nauan",
       "list": ""
+    },
+    {
+      "id" : 61,
+      "name": "Cá nục kho mía",
+      "img": "",
+      "review": "Cá nục kho mía mang đến một hương vị đậm đà, hài hòa giữa vị ngọt thanh của nước mía, vị mặn của nước mắm, vị cay của ớt, vị thơm của hành, tỏi. Thịt cá nục thấm vị săn, quyện cùng nước kho sánh lại tạo nên sự hấp dẫn khó cưỡng., Lựa chọn cá nục:Chọn cá nục tươi, có vảy bám chặt với thân, không có mùi hôi. Hậu môn cá tươi có màu trắng nhạt thụt sâu vào bên trong và bụng cá lép.",
+      "nguyenlieu": "M: muỗng canh - m: muỗng cafe; Cá nục con nhỏ 400g; Mía cây 3 đốt; Hành tím 50g; Hành lá 20g; Ớt trái 3 trái; Tỏi băm 30g; Hạt nêm Aji-ngon® HEO 4g (1m); Nước mắm 40g (5M); Đường 4g (1m); Bột ngọt AJI-NO-MOTO® 6g (1m); Tương ớt 1M; Nước màu 1M; Ăn trưa kèm: Cơm, Cánh gà xào ớt xiêm, Canh rau dền khoai sọ; GIA VỊ: nước mắm, đường, nước màu, tiêu, tương ớt; Hạt nêm Aji-ngon® Heo; Bột ngọt AJI-NO-MOTO®",
+      "thuchien": {
+        "b1": "Sơ chế cá nục: Cá làm sạch ruột, cắt bỏ phần mang cá, rửa dưới vòi nước chảy để loại bỏ hết chất nhầy, ngâm cá vào nước muối pha loãng hoặc nước vo gạo khoảng 15 phút để khử mùi tanh. Sau đó rửa lại sạch và để ráo",
+        "b2": "Mía cây bỏ mắt, cắt làm 4 theo chiều dọc.",
+        "b3": "Hành tím lột vỏ, cắt đôi.",
+        "b4": "Hành lá cắt khúc 3cm.",
+        "b5": "Ớt trái khứa xéo.",
+        "b6": "Ướp cá với tất cả gia vị cùng 1m Hạt nêm Aji-ngon® HEO, 1m Bột ngọt AJI-NO-MOTO®, 1m đường, 5M nước mắm, 1M nước màu, đầu hành lá và tỏi băm, để thấm.",
+        "b7": "Xếp 1 lớp mía vào nồi đất, xếp cá lên trên, thêm ớt trái, 1M tương ớt và 2 chén nước vào, kho lửa lớn đến khi nước sôi vớt bọt, sau đó đậy nắp, hạ lửa liu riu.",
+        "b8": "Kho cá 30 phút đến khi cá thấm và mềm, nước sánh cạn, rút mía ra. Cho hành lá, tiêu vào, tắt lửa.",
+        "b9": "Dùng kèm cơm nóng."
+       },
+      "luuy": "Đập dập mía để chất ngọt của mía dễ thấm vào thịt cá khi kho. Lót mía dưới đáy nồi giúp cá không bị sém đồng thời giúp món cá kho ngon ngọt hơn.",
+      "menu": "nauan",
+      "list": ""
+    },
+    {
+      "id" : 62,
+      "name": "Phở tái lăn",
+      "img": "",
+      "review": "hãy thưởng thức món phở tái lăn, bạn sẽ cảm nhận được sự hòa quyện của nước dùng đậm đà, hương vị thơm ngon từ hành tây, hành lá và gừng. Miếng thịt bò tái lăn mềm ngọt, cùng với bánh phở mềm mịn, tạo nên một trải nghiệm ẩm thực độc đáo. Đây là món ăn truyền thống của Việt Nam, thường được thưởng thức vào buổi sáng hoặc bữa tối. ",
+      "nguyenlieu": "M: muỗng canh - m: muỗng cafe; Bò phi lê 100g; Gầu bò 100g; Phở 600g; Hành tây 1 củ lớn; Hành lá 3 cây; Gừng 1M; Tỏi băm 1M; Cải ngọt 100g; Dầu 1M; RAU NÊM: Ngò gai, lá quế, ớt sừng; Ăn sáng: Ăn kèm tráng miệng: Táo; GIA VỊ: Dầu ăn; Gia vị nêm sẵn Aji-Quick® Phở Bò",
+      "thuchien": {
+        "b1": "Bò để tủ đá, cắt lát thật mỏng, 1m GVNS AJI-QUICK® PHỞ BÒ, 1,5m đường ướp 1M tỏi băm, 1M gừng băm, để thấm.",
+        "b2": "Hành tây cắt lát mỏng 1/2 củ, phần còn lại nấu nước dùng. Hành lá cắt nhỏ, phần cọng nấu nước dùng.",
+        "b3": "Bánh phở chần nóng, chia ra 4 tô, thêm hành tây, hành lá.",
+        "b4": "Đun sôi 1.5L nước sôi, nêm Gia vị nêm sẵn Aji-Quick Phở Bò còn lại vào, thêm hành tây và đầu hành lá.",
+        "b5": "Làm nóng chảo với 1M dầu ăn, xào thịt bò, cải ngọt và hành tây với lửa lớn, bò vừa chín trút vào các tô phở.",
+        "b6": "Chan nước dùng vào tô phở, dùng nóng."
+       },
+      "luuy": "Xào thịt bò với lửa thật lớn để thịt bò mềm, vừa chín và có mùi thơm hấp dẫn. Ướp tỏi và gừng tạo mùi hương đặc trưng cho món phở bò tái lăn.",
+      "menu": "nauan",
+      "list": ""
+    },
+    {
+      "id" : 63,
+      "name": "Vịt nấu cơm rượu",
+      "img": "",
+      "review": "Món Vịt nấu cơm rượu nổi tiếng với hương vị đặc trưng từ cơm rượu mang nét đặc trưng truyền thống của Việt Nam. Khi thưởng thức món này, bạn có thể cảm nhận được vị ngọt tự nhiên của thịt vịt kết hợp với vị chua nhẹ, ngọt ngào của cơm rượu, tạo nên một hương vị hài hòa và độc đáo. Đây không chỉ là một trải nghiệm ẩm thực thú vị mà còn là cách thể hiện sự tinh tế trong việc kết hợp nguyên liệu và gia vị của người Việt. Mỗi miếng thịt vịt mềm mại, thấm đẫm hương vị cơm rượu, sẽ khiến bạn nhớ mãi không quên. Một cảm nhận khó có thể diễn tả hết bằng lời, mà chỉ có thể trải nghiệm trọn vẹn khi thực sự thử món ăn này. ",
+      "nguyenlieu": "M: muỗng canh - m: muỗng cafe; Thịt vịt xiêm (ức/ đùi) 500g (1/4 con ); Cơm rượu miền Nam (có cả cái) 1 chén đầy; Hành tím băm nhuyễn 2M; Gừng 10g (1m ); Rau cải con 200g; Nước dừa tươi 500ml; Hành lá 2 cọng; Bột nghệ 1/2m; Bột ngọt AJI-NO-MOTO® 1m; Nước mắm 1m; Muối 1m; Hạt nêm Aji-ngon® GÀ 1m; Ăn tối kèm: Bún tươi, Tráng miệng: Lựu; ĂN KÈM: Bún/ bánh hỏi/bánh mì; Gia vị: Dầu ăn, nước mắm, muối; Hạt nêm Aji-ngon® Gà; Bột ngọt AJI-NO-MOTO®",
+      "thuchien": {
+        "b1": "Hành tím băm nhuyễn, gừng giã giập, rau cải con rửa sạch, hành lá cắt nhỏ",
+        "b2": "Thịt vịt xiêm rửa qua gừng giã giập, muối và rượu trắng, để ráo nước",
+        "b3": "Dùng dao khứa nhẹ vài đường trên phần da vịt, chiên áp chảo ở lửa lớn cho vịt ra bớt mỡ, chặt khúc 3cm.",
+        "b4": "Ướp vịt với 1M hành tím băm, 1m gừng đập giập, 1m nước mắm, 1m muối, 1m Bột ngọt AJI-NO-MOTO® , 1/2 chén cơm rượu (có cả cái) tán nhỏ, uớp 25 phút cho thấm gia vị",
+        "b5": "Phi thơm hành tím, cho thịt vịt vào xào săn ở lửa lớn. Thêm 500ml nước dừa và nước lọc và nêm thêm 1m Hạt nêm Aji-ngon® GÀ, nấu ở lửa nhỏ đến khi vịt mềm. Thêm 1/2 chén cơm rượu còn lại, nấu thêm 5 phút.",
+        "b6": "Cho bún ra tô, thêm cải con trên mặt, hành lá, chan nước vừa xăm xắp mặt bún. Dùng nóng. Có thể ăn kèm bánh mì, bánh hỏi tùy thích."
+       },
+      "luuy": "Chọn vịt xiêm, thịt dày và ngon hơn. Áp chảo vịt ở lửa lớn để bỏ bớt mỡ vịt. Rửa vịt qua rượu, gừng, muối để thịt vịt thơm hơn.",
+      "menu": "nauan",
+      "list": ""
     }
   ]
 }
