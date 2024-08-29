@@ -923,7 +923,7 @@
     {
       "id" : 56,
       "name": "Cháo cá nấu bắp nếp",
-      "img": "",
+      "img": "https://pin.it/1lfV8Hw9H",
       "review": "Ai đã từng thưởng thức món cháo cá nấu bắp nếp thơm mùi bắp đều không thể quên được vị ngọt đồng quê tự nhiên của nó. Được nấu từ gạo, bắp nếp non bào nhỏ hòa thêm nước cốt dừa, món ăn có màu trắng sữa, sánh đều, vị ngọt béo thanh tao nhẹ nhàng. Thịt cá lóc ngọt, chắc và đầy bổ dưỡng, chấm nước mắm tỏi ớt chua ngọt khơi trọn vị giác người ăn. Một món ăn đáng thưởng thức!",
       "nguyenlieu": "M: muỗng canh - m: muỗng cafe; Thịt cá lóc 300g (1 con phi lê); Gạo dẻo 100g; Bắp nếp 240g (2 trái); Dừa nạo 200g (1 chén nước cốt); Nấm rơm búp 100g; Cà rốt 50g; Hành tím 5 củ; Dầu 12g (1M); Hạt nêm Aji-ngon® Heo 6g (1.5m); Muối 2g (1/2m); Nước mắm 12g (1M); RAU NÊM: Hành lá, ngò rí; THỰC ĐƠN BỮA ĂN Bữa tối: Ăn kèm Tráng miệng: Chuối; GIA VỊ: Muối, tiêu, hành tím phi, dầu phi hành, nước mắm, hạt nêm Heo,; Hạt nêm Aji-ngon® Heo",
       "thuchien": {
@@ -1070,6 +1070,23 @@
       "luuy": "Chọn vịt xiêm, thịt dày và ngon hơn. Áp chảo vịt ở lửa lớn để bỏ bớt mỡ vịt. Rửa vịt qua rượu, gừng, muối để thịt vịt thơm hơn.",
       "menu": "nauan",
       "list": "Súp"
+    },
+    {
+      "id" : 64,
+      "name": "Bánh rán burger bò",
+      "img": "https://pin.it/2YMlrTDhV",
+      "review": "Bánh rán burger bò xốp mềm, nhân thịt bò vừa chín tới. Màu của bánh rán và các nguyên liệu đi kèm hấp dẫn đẹp mắt. Vị vừa ăn, thơm của bánh rán, vị béo xốt mayonnaise aji-mayo vị nguyên bản.",
+      "nguyenlieu": "M: muỗng canh - m: muỗng cafe; Thịt bò xay 200g; Hành tây 30g; Xà lách 1 cây; Cà chua 1 trái; Tỏi băm nhuyễn 1m; Bột bánh rán pha sẵn vị truyền thống 1 gói; Hạt nêm Heo 4g (1m); Nước tương Phú Sĩ 4g (1m); Dầu mè 4g (1/2m); Muối 1.5g (1/3m); Xốt Mayonnaise Aji-mayo® Vị Nguyên Bản 1M; Ăn sáng kèm: Cà phê sữa, Tráng miệng: Bưởi; GIA VỊ: Dầu ăn, dầu mè, tiêu, bột năng, tương ớt; Hạt nêm Aji-ngon® Heo; Nước tương "Phú Sĩ"; Xốt Mayonnaise Aji-mayo® Vị Nguyên Bản; Bột bánh rán pha sẵn vị truyền thống",
+      "thuchien": {
+        "b1": "Hành tây băm nhuyễn. Cà chua cắt lát mỏng. Xà lách rửa sạch.",
+        "b2": "Thịt bò trộn đều với hành tây, tỏi, ướp 1m Hạt nêm Aji-ngon® HEO, 1 ít tiêu, 1m bột năng, 1m nước tương “Phú Sĩ”, 1/2m dầu mè, để thấm. Tạo hình thành bánh tròn đường kính 8cm",
+        "b3": "Làm nóng ít bơ lạt, áp chảo thịt bò chín đều.",
+        "b4": "Làm bánh rán: Pha 1 gói Bột bánh rán pha sẵn vị truyền thống với 1/3m muối và 160ml nước. Làm nóng chảo, sau đó hạ nhiệt bằng khăn ướt, cho hỗn hợn bánh rán vào chảo tạo hình tròn, đợi khoảng 2 phút cho bánh vàng đều 1 mặt, lật bánh lại và áp chảo thêm 1 phút đến khi bánh chín đều, tiếp tục làm đến khi hết bột.",
+        "b5": "Phết Xốt Mayonnaise Aji-mayo® Vị Nguyên Bản lên 1 mặt bánh, xếp xà lách, cà chua và thịt bò lên 1 miếng bánh, thêm MY & tương ớt, kẹp 1 lát bánh rán khác lên trên và thưởng thức."
+       },
+      "luuy": " Thêm 1 ít bột năng vào nhân thịt bò để thịt bò không bị khô và có độ kết dính sau khi áp chảo. Thêm 1 ít muối vào bột bánh rán để bánh có vị đậm đà hợp với nhân mặn. Sử dụng Bột bánh rán pha sẵn vị truyền thống để tiết kiệm thời gian.",
+      "menu": "nauan",
+      "list": ""
     }
   ]
 }
