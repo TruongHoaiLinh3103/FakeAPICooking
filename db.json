@@ -1087,6 +1087,78 @@
       "luuy": " Thêm 1 ít bột năng vào nhân thịt bò để thịt bò không bị khô và có độ kết dính sau khi áp chảo. Thêm 1 ít muối vào bột bánh rán để bánh có vị đậm đà hợp với nhân mặn. Sử dụng Bột bánh rán pha sẵn vị truyền thống để tiết kiệm thời gian.",
       "menu": "nauan",
       "list": ""
+    },
+    {
+      "id" : 65,
+      "name": "Cá basa fillet chiên trứng",
+      "img": "https://pin.it/6hIOgqL8X",
+      "review": "Cá basa fillet chiên trứng bên trong mềm, ngọt, bên ngoài giòn nhẹ, không ngấm dầu. Màu vàng của lớp bột bên ngoài cá, màu xanh của hành ngò, màu đỏ của cà chua hấp dẫn. Món cá chiên còn thơm mùi ngò rí, hành lá ăn kèm, vị vừa ăn. Món cá basa rất dinh dưỡng giúp hỗ trợ xây dựng khối xương vững chắc.",
+      "nguyenlieu": "M: muỗng canh - m: muỗng cafe; Cá basa fillet đông lạnh 400g; Hành lá 2 cọng; Ngò rí 2 cọng; Trứng gà 55g ( 2 quả ); Nước cốt chanh 1m; Cà chua 84g (1 quả ); Xốt Mayonnaise Aji-mayo® Vị Nguyên Bản 1M; Bột mì đa dụng (11) 2M; Tiêu 1/2m; Hạt nêm Aji-ngon® HEO 2m; Ăn trưa kèm: Cơm, Canh sườn khoai sọ, Mít non kho nấm; Gia vị: Dầu ăn, muối, tiêu; Xốt Mayonnaise Aji-mayo® Vị Nguyên Bản; Hạt nêm Aji-ngon® Heo",
+      "thuchien": {
+        "b1": "Cá basa fillet rã đông, rửa sạch với nước muối loãng, thấm ráo nước, cắt miếng khoảng 60g.",
+        "b2": "Hành lá băm nhuyễn, phần gốc, lá để riêng",
+        "b3": "Ướp cá 15 phút với đầu hành lá băm nhỏ, 1m Hạt nêm Aji-ngon® HEO, 1m nước cốt chanh. Xốc đều.",
+        "b4": "Xốt trứng: Cho 2 quả trứng, 1/2m tiêu, 1m Hạt nêm Aji-ngon® HEO, 2M bột mì đa dụng, ngò rí, hành lá cắt nhỏ, khuấy đều hỗn hợp, để 10 phút cho bột nở.",
+        "b5": "Làm nóng dầu, nhúng đều cá qua hỗn hợp xốt trứng, chiên ở lửa vừa đến khi vàng đều.",
+        "b6": "Cho cá ra dĩa có giấy thấm dầu, trang trí thêm cà chua cắt lát, ngò rí. Ăn kèm Xốt Mayonnaise Aji-mayo® Vị Nguyên Bản. Món ăn ngon đi kèm: Canh sườn khoai sọ."
+       },
+      "luuy": "Áp chảo cá ở lửa vừa để cá không bị ngấm dầu. Ướp cá với nước cốt chanh để cá không bị tanh và giòn hơn.",
+      "menu": "nauan",
+      "list": ""
+    },
+    {
+      "id" : 66,
+      "name": "Mề gà xào cay",
+      "img": "https://pin.it/lA8zosPBG",
+      "review": "Mề gà xào cay giòn giòn đậm đà hấp dẫn. Món ăn còn có vị hơi cay và chua nhẹ lạ vị. Màu nâu vàng bắt mắt kết hợp với màu hành lá, ớt giữ được độ tươi cho món ăn. Món mề gà rất bổ dưỡng giúp gan thận khỏe mạnh cho cả gia đình.",
+      "nguyenlieu": "M: muỗng canh - m: muỗng cafe; Mề gà (trưởng thành) 300g; Hành lá 20g; Ớt sừng 10g; Tỏi băm 25g; Dầu điều 8g (1m); Nước tương 22g (2M); Giấm gạo lên men Ajinomoto 7.5g (1,5M); Ớt bột 1m; Tiêu 1/3m; Dầu hào 8g (2M); Tương ớt 14g (1M); Đường 8g (2m); Ăn trưa kèm: Cơm, Canh tôm chua cay, Ốc bưu xào tiêu xanh, Tráng miệng: Ổi; GIA VỊ: dầu điều, dầu hào, tương ớt, đường; Nước tương "Phú Sĩ"; Giấm gạo lên men Ajinomoto.",
+      "thuchien": {
+        "b1": "Trụng sơ mề gà với nước có rượu và gừng, sau đó khứa hình hoa khế.",
+        "b2": "Xốt xào: Pha hỗn hợp sốt gồm 1/3m tiêu, 1m ớt bột, 2m đường, 1M tương ớt, 2M dầu hào, 2M nước tương, và 1,5M Giấm gạo lên men Ajinomoto.",
+        "b3": "Phi 1/2M tỏi với đầu điều cho thơm, sau đó cho mề gà vào đảo đều cho săn mặt, cho hết lượng xốt cùng 1 chén nước nấu với lửa nhỏ trong vòng 5 phút.",
+        "b4": "Sau 5 phút thì mề gà đã chín thì cho hành cắt khúc và ớt sừng cắt lát mỏng vào đảo đều rồi tắt lửa.",
+        "b5": "Dùng nóng với cơm trắng. Món ăn ngon đi kèm: Canh tôm chua cay."
+       },
+      "luuy": " Trụng sơ mề gà với nước có rượu và gừng để khử mùi tanh. Mề gà khứa hoa khế giúp thấm vị hơn. Có thể sử dụng nguyên bộ nội tạng gà nếu người tiêu dùng ko mua được mề.",
+      "menu": "nauan",
+      "list": ""
+    },
+    {
+      "id" : 67,
+      "name": "Thịt bò chiên trộn cải mầm",
+      "img": "https://pin.it/2nOLZJd05",
+      "review": "Thịt bò chiên trộn cải mầm mềm, chín tới, rau củ giòn nhiều màu sắc hấp dẫn. Món ăn có vị thơm ngọt từ thịt bò, vị vừa ăn, kết hợp với rau củ tươi mát thích hợp cho các món khai vị hay ăn giải nhiệt vào mùa nắng nóng.",
+      "nguyenlieu": "M: muỗng canh - m: muỗng cafe; Thịt thăn bò 300 g; Cần tây 50g (1 bẹ ); Ớt chuông đỏ, vàng 100g (50g mỗi loại ); Cà bi 84g (5 trái ); Hành tây tím 47g (1/2 củ ); Cải mầm 3 màu 80g; Chanh vàng 1 quả; Nước tương Phú Sĩ giảm muối 27g (1,5M ); Dầu ăn 5g (1M ); Bơ lạt 10g (1,5m); Hạt nêm AjiNgon Heo 2g (1/2m); Đường 6g (1/2 M); Giấm 10g (2M); Tiêu 1/3m; AjiQuick bột tẩm khô chiên giòn 21g (Nửa gói); Mè rang 2m; Tỏi băm 1/2M; Ăn trưa kèm: Cơm, Ốc xào khế, Canh chua bông thiên lý; Gia vị Ngò rí, dầu ăn, bơ lạt, mè rang, tiêu xay, tỏi băm; Hạt nêm Aji-ngon® Heo; Gia vị nêm sẵn Aji-Quick® Bột tẩm khô chiên giòn; Nước tương "Phú Sĩ" giảm muối",
+      "thuchien": {
+        "b1": "Mài vỏ chanh lấy 1m. Các loại rau củ cắt quả trám. Thịt bò ướp với 1/2M tỏi băm, 1m Nước tương “Phú Sĩ” GIẢM MUỐI.",
+        "b2": "Tẩm Gia vị nêm sẵn Aji-Quick® BỘT TẨM KHÔ CHIÊN GIÒN vào thịt bò cho đều. Bắc chảo cho dầu đun nóng cho thịt bò vào chiên nhanh. Vớt ra cho lên giấy thấm dầu.",
+        "b3": " Xào rau củ: cho 1M dầu + 1,5m bơ đun nóng cho lần lượt các loại rau củ xào lửa to nhanh tay. Nêm gia vị: 1/3m tiêu, 1/2m Hạt nêm Aji-ngon® HEO, 1/2m đường, 1m + 1M Nước tương “Phú Sĩ” GIẢM MUỐI, 2M giấm. Tắt lửa, trộn vỏ chanh mài vào.",
+        "b4": "Bày rau mầm ra đĩa, để rau xào và thịt bò chiên lên trên, bày ngò rí, tiệu, rắc mè rang. Khi ăn chấm Nước tương “Phú Sĩ” GIẢM MUỐI+ ớt cắt lát."
+       },
+      "luuy": " Chiên thịt bò với lửa to vừa chín tới để thịt giữ được nước ngọt và không bị dai. Thêm vỏ chanh mài tạo hương vị đặc biệt cho món ăn. Xào rau củ với lửa lớn và nhanh để rau củ giữ được độ giòn",
+      "menu": "nauan",
+      "list": ""
+    },
+    {
+      "id" : 68,
+      "name": "Gà hấp tứ quý chay",
+      "img": "https://pin.it/21miBbyRx",
+      "review": "Gà hấp tứ quý chay vị đậm đà, vừa ăn, thơm nấm và nước tương. Món ăn lại rất hấp dẫn với màu vàng của da gà chay bóng bẩy kết hợp với màu của các loại nấm, cà rốt, tàu hũ ky,….",
+      "nguyenlieu": "M: muỗng canh - m: muỗng cafe; Nấm đùi gà 150g; Lá tàu hủ ky khô 60g (1 lá lớn ); Hạt sen 30g; Táo đỏ (không hạt) 30g (10 trái ); ; Nấm đông cô (đã luộc) 30g (10 tai nhỏ ); Cà rốt 30g; Hành tây 30g; Tiêu xanh 1 nhánh; Hành boa rô 20g; Bột năng 10g; ; Hạt nêm Aji-ngon® Nấm 8g (2m ); Bột ngọt 2g (1/2m); Đường 8g (2m); Nước tương "Phú Sĩ" 22g (1M); Dầu mè 4g (1m); RAU NÊM: Hành lá tỉa hoa, ngò rí; ĂN KÈM Ăn trưa kèm: Cơm, Canh dền cơm nấu nghêu, Đậu đũa xào tôm thịt, Tráng miệng: Thanh long; GIA VỊ: đường, dầu mè, tiêu đen; Bột ngọt AJI-NO-MOTO®; ; ; Nước tương "Phú Sĩ"; Hạt nêm Aji-ngon® Nấm",
+      "thuchien": {
+        "b1": "Tẩm nấm đùi gà qua bột năng, xếp vào lá tàu hủ ky thành hình chữ nhật.",
+        "b2": "Gói nấm lại, gói kín và dán mép bằng bột năng, làm đến khi hết nấm và lá tàu hủ ky (2-3 gói).",
+        "b3": "Áp chảo những gói nấm đến khi vàng giòn 2 mặt, để nguội.",
+        "b4": "Cắt ngang gói nấm thành từng miếng dày 1-1.5cm (nhìn như miếng thịt gà)."
+        "b5": "Pha xốt: 1/3m tiêu đen, 1/2m bột ngọt, 2m Hạt nêm Aji-ngon® Nấm, 2m đường, 1m dầu mè, 1M Nước tương “Phú Sĩ”, 1M nước lọc, khuấy tan gia vị.",
+        "b6": "Phi thơm hành boa rô, cho các loại rau củ (trừ hành tây) vào xào chung với xốt."
+        "b7": "Xếp hành tây dưới đĩa oval, xếp miếng gà lên trên, cho các loại rau củ vừa xào xung quanh.",
+        "b8": "Cho đĩa gà vào nồi hấp và hấp 20 phút."
+        "b9": "Lấy đĩa gà ra và trang trí ngò rí, dùng kèm cơm nóng."
+       },
+      "luuy": " Tẩm bột năng vào nấm để nấm dính chặt hơn. Áp chảo tàu hủ ky để có miếng da gà đẹp mắt. Xào xốt với nguyên liệu phụ trước để hương vị hài hòa",
+      "menu": "nauan",
+      "list": ""
     }
   ]
 }
