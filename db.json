@@ -1159,6 +1159,92 @@
       "luuy": "Tẩm bột năng vào nấm để nấm dính chặt hơn. Áp chảo tàu hủ ky để có miếng da gà đẹp mắt. Xào xốt với nguyên liệu phụ trước để hương vị hài hòa",
       "menu": "nauan",
       "list": "Hấp"
+    },
+    {
+      "id" : 69,
+      "name": "Trà sữa matcha khoai môn",
+      "img": "",
+      "review": "Công thức hướng pha chế trà sữa matcha khoai môn ngon lại rất đơn giản. Vị matcha thơm ngọt vừa phải, khoai môn tím nhẹ đẹp mắt. Món trà sữa vị mới giúp bạn cùng bạn bè thư giãn vui vẻ cuối tuần nhé!",
+      "nguyenlieu": "M: muỗng canh - m: muỗng cafe; Khoai môn 250g; Húng lũi; Đá bi 500g; Đường 30g (2,5M ); Blendy Trà sữa matcha gạo rang 6 gói; Blendy® Trà Matcha Gạo Rang.",
+      "thuchien": {
+        "b1": "Khoai môn bào vỏ rửa sạch cắt nhỏ cho vào chén, thêm 2M nước, dùng màng bọc thực phẩm dán lại.",
+        "b2": "Húng lũi rửa sạch để ráo.",
+        "b3": "Cho khoai môn vào lò vi sóng bật chế độ High hấp trong vòng 3 phút, sau đó lấy ra cho 2,5M đường, tán sơ.",
+        "b4": "Pha Blendy® Trà Matcha Gạo Rang với nước theo hướng dẫn trên bao bì.",
+        "b5": "Cho khoai môn đã hấp dưới đáy ly, thêm đá và Blendy® Trà Matcha Gạo Rang, trang trí với lá húng lũi."
+      },
+      "luuy": "Hấp khoai bằng lò vi sóng để tiết kiệm thời gian. Chọn khoai cau, củ tươi, nặng tay, chắc, vỏ bóng để có khoai ngon.",
+      "menu": "nauan",
+      "list": ""
+    },
+    {
+      "id" : 70,
+      "name": "Sườn chay om nấm đùi gà",
+      "img": "",
+      "review": "Công thức hướng dẫn làm món sườn chay om nấm đùi gà thơm ngon lạ vị. Đầu bếp sẽ hướng dẫn cách làm để nguyên liệu chín mềm, thấm vị khi nấu. Vị ngọt của nấm và rau củ đậm đà thấm ăn rất hài hòa. Màu sắc hài hòa, nước sauce có màu vàng cam bắt mắt. Cùng vào bếp làm ngay món chay ngon mới nhé!",
+      "nguyenlieu": "M: muỗng canh - m: muỗng cafe; Sườn chay 50g; Nấm hủ đùi gà 200g; Đậu hạt Hà Lan 100g; Cà rốt 25g (1/4 củ ); Khoai tây 300g (1 củ ); Bông cải xanh 100g; Nước dùng rau củ 1 lít; Hạt nêm Aji-ngon® NẤM 16g (2m+1/2M ); Đường 2g (1/2m); Dầu ăn 15g (3M); Dầu điều 5g (1M); Cà paste 1.5M; Bột năng 1m; Rau nêm Poa rô, hành tây, ngò rí, tiêu xanh 3 nhánh; Gia vị Muối, đường, dầu ăn; Ăn kèm: Cơm, Canh rau dền khoai sọ, Cánh gà xào ớt xiêm; Hạt nêm Aji-ngon® Nấm",
+      "thuchien": {
+        "b1": "Sơ chế sườn chay: ngâm sườn, ép ráo cắt làm 4. Ướp 1m Hạt nêm Aji-ngon® NẤM. Nấm đùi gà cắt khối tam giác.",
+        "b2": "Ướp gia vị: 1m Hạt nêm Aji-ngon® NẤM, 1/2m đường; Sườn chay và nấm bóp nhẹ sau khi ướp để thấm vị. Hành tây, khoai tây, cà rốt, bông cải cắt tương tự nấm.",
+        "b3": "Bắc chảo cho 2M dầu ăn phi boa rô. Vớt cái để riêng, dầu còn lại cho sườn vào xào nhanh cho thơm. Múc sườn ra. Cho thêm 1M dầu vào chảo xào khoai tây sém mặt, xốc nhanh, tiếp tục cho cà rốt, cuối cùng là nấm xào vừa săn. Nêm vào rau 1/2M Hạt nêm Aji-ngon® NẤM, 1,5M cà paste, 1M dầu điều, tiêu xanh (Chừa lại 1 ít) + đậu hạt Hà Lan.",
+        "b4": "Cho rau củ vào nấu với 1L nước dùng + sườn chay. Nấu khoảng 10p cho bông cải và phần tiêu còn lại vào. Cho tất cả chín đều + nước bột năng vào đến khi nước sauce vừa sánh. Cho hành tây, boa rô phi vào, tắt lửa.",
+        "b5": "Rắc ít tiêu, ngò rí lên mặt, múc ra đĩa sâu lòng. Dùng nóng với bánh mì + muối tiêu chanh hoặc nước tương “Phú Sĩ” và ớt cắt lát.",
+      },
+      "luuy": " Xào nhanh sườn qua dầu đã phi boarô cho thơm. Chọn rau củ có nhiều màu sắc khác nhau, giúp món ăn vừa có nhiều chất dinh dưỡng tốt, vừa đẹp mắt. Dùng hạt nêm Aji-ngon Nấm để món ăn có mùi nấm đặc trưng",
+      "menu": "nauan",
+      "list": ""
+    },
+    {
+      "id" : 71,
+      "name": "Lẩu bò thảo mộc",
+      "img": "",
+      "review": "Lẩu bò thảo mộc món lẩu bò hương vị mới thơm ngon với nạm bò vừa chín tới, bò phi lê tái mềm, kỷ tử, đẳng sâm chín mềm thơm mùi các loại thảo mộc, vị lẩu đậm đà. Nước dùng màu nâu nhạt, hài hòa màu sắc giữa thịt và rau rất hấp dẫn!",
+      "nguyenlieu": "M: muỗng canh - m: muỗng cafe; Thịt nạm bò 200g; Bò phi lê 150g; Bò viên 100g; Kỷ tử 10g; Táo đỏ 5 trái; Đẳng sâm 1 cọng (5g); Rau mồng tơi 200g; Rau má 200g; Khoai môn 150g; ĂN KÈM: Ăn trưa, Mì vàng, chao, sa tế; Tráng miệng Quýt; Gia vị nêm sẵn Aji-Quick® Lẩu Bò",
+      "thuchien": {
+        "b1": "Thịt nạm bò nấu mềm với vài lát gừng, 1 củ hành tím chẻ đôi, 1 tép sả đập dập. Táo đỏ, đẳng sâm, rửa sạch nấu chung với thịt nạm bò. Nước luộc bò để riêng, nạm bò cắt lát mỏng.",
+        "b2": "Thịt bò cắt lát mỏng. Bò viên cắt miếng vừa ăn. Xếp ra dĩa.",
+        "b3": "Các loại rau lặt rửa sạch, xếp ra dĩa.",
+        "b4": "Chao tán nhuyễn, mịn.",
+        "b5": "Khoai môn cắt khối áp chảo với một xíu dầu.",
+        "b6": "Đun sôi nước luộc thịt bò nạm, thêm nước cho đủ 1.5L, nêm gói Gia vị nêm sẵn Aji-Quick® LẨU BÒ, thêm các nguyên liệu kỷ tử, táo đỏ, đẳng sâm, nấu sôi, tắt lửa.",
+        "b7": "Khi ăn thêm các nguyên liệu thịt bò và rau vào nhúng nước lẩu, dùng kèm mì vàng, chấm chao sa tế."
+      },
+      "luuy": "Luộc thịt nạm bò với vài lát gừng, hành tím và sả giúp món ăn thơm ngon hơn. Dùng Gia vị nêm sẵn Aji-Quick Lẩu bò để tiết kiệm thời gian và món ăn có hương vị thơm ngon.",
+      "menu": "nauan",
+      "list": ""
+    },
+    {
+      "id" : 72,
+      "name": "Thịt bê xào lăn",
+      "img": "",
+      "review": "Thịt bê mềm ngọt thịt, nước xào sánh nhẹ. Nước xốt có màu vàng nhạt, màu của ớt và lá húng quế. Thơm mùi sả, cà ri, có vị béo nhẹ của nước cốt dừa và Xốt Aji-Mayo. Thịt bê xào lăn thấm vị vừa ăn. Cùng vào bếp nấu ngay món ăn cho gia đình thưởng thức thôi nào!",
+      "nguyenlieu": "M: muỗng canh - m: muỗng cafe; Thịt bê 200 g; Mộc nhĩ 3 tai (Cắt sợi 2 ly); Nấm đông cô 3 tai (Cắt sợi 2 ly); Nước cốt dừa 130ml (2/3 chén ); Nước gião dừa 2 chén; Tàu hủ ky lá chiên 10g; Bún tàu 100g ( 1 lọn nhỏ ); Hành tây 1 củ (Cắt múi cau ); Bánh mì ăn kèm 3 ổ; hạt nêm AjiNgon Heo 6g (3m); Đường 4g (1m); Aji Mayo vị nguyên bản 2M; Dầu ăn 10g (2M); Bột cà ri 1M; Sả 5 cây; Lá húng quế 20g; Đậu phộng rang 3M; Ăn tối kèm: Bánh mì; Rau nêm Hành tây, sả cắt khúc (5 cây) ớt, hành tỏi băm; Gia vị: Muối, đường, tương ớt; Hạt nêm Aji-ngon® Heo; Xốt Mayonnaise Aji-mayo® Vị Nguyên Bản",
+      "thuchien": {
+        "b1": "Chiên một ít lá húng quế với dầu. Ướp thịt bê với 1m Hạt nêm Aji-ngon® HEO, 1/2m đường, 1M bột cà ri, 1M Xốt Mayonnaise Aji-mayo® Vị Nguyên Bản, 1M hành tỏi băm.",
+        "b2": "Bắc chảo cho 2M dầu cho sả và 1 nửa ớt + thịt bê vào xào nhanh lửa to. Cho nấm đông cô vào xào tiếp. Cho 2 chén nước gião dừa vào xăm xắp.",
+        "b3": "Nêm gia vị: 2m Hạt nêm Aji-ngon® HEO, 1/2m đường và 1M Xốt Mayonnaise Aji-mayo® Vị Nguyên Bản, nấu 2 phút. Cuối cùng cho 2/3 chén nước cốt dừa, mộc nhĩ, hành tây, bún tàu và phần ớt còn lại vào nấu sôi. Tắt lửa.",
+        "b4": "Múc thịt ra dĩa, bày đậu phộng rang, lá húng quế (cả tươi và đã chiên), tàu hủ ky chiên. Dọn kèm bánh mì, nước tương “Phú Sĩ” và ớt cắt lát.",
+      },
+      "luuy": "Xào thịt bê nhanh với lửa to.",
+      "menu": "nauan",
+      "list": ""
+    },
+    {
+      "id" : 73,
+      "name": "Mực xào đậu Hà Lan",
+      "img": "",
+      "review": "Đậm đà, thơm ngon, mực xào đậu Hà Lan là một món ăn bắt cơm nhưng lại rất dễ thực hiện và tiết kiệm thời gian. Không những thế, đây còn là món ăn với thành phần dinh dưỡng cân bằng, ít béo, giàu đạm.",
+      "nguyenlieu": "M: muỗng canh - m: muỗng cafe; Mực sữa: 250g; Đậu Hà Lan: 200g; Hành tây: 1 củ ( 90g ); Ớt sừng cắt quả trám: 1 trái; Tỏi băm: 1M; Tương ớt: 1M; Rau răm: 20g; Nước tương "Phú Sĩ" 11g (1M ); Hạt nêm Aji-ngon® Heo 2g (1/2m ); Đường 4g (1m); Giấm gạo lên men Ajinomoto 5g (1M); Bột ngọt AJI-NO-MOTO® 6g (1/3m); ĂN KÈM Cơm, Canh sườn non xuyên tiêu, Khổ qua nhồi nấm kho nước tương; GIA VỊ: Muối, dầu ăn, tiêu, Hạt nêm Aji-ngon® Heo; Tráng miệng: Mận; Hạt nêm Aji-ngon® Heo; Bột ngọt AJI-NO-MOTO®; Giấm gạo lên men Ajinomoto; Nước tương "Phú Sĩ"",
+      "thuchien": {
+        "b1": "Mực sữa rửa sạch, để nguyên con.",
+        "b2": "Pha hỗn hợp gia vị: 1/3m tiêu, 1/3m Bột ngọt AJI-NO-MOTO® , 1/2m hạt nêm Aji-ngon® Heo, 1m đường, 1M nước tương “Phú Sĩ”, 1M giấm gạo lên men Ajinomoto, 1M tương ớt.",
+        "b3": "Đậu Hà Lan tước bỏ xơ, cắt xéo. Hành tây cắt múi cau. Rau răm cắt nhỏ.",
+        "b4": "Chần sơ đậu Hà Lan trong nước sôi có chút muối, vớt ra ngâm đá, để ráo.",
+        "b5": "Phi thơm tỏi, cho mực vào xào lửa lớn, tiếp tục cho hành tây, đậu Hà Lan vào, cho hết hỗn hợp nước gia vị vào, tắt lửa. Cho ớt sừng, rau răm vào và rắc thêm 1 ít tỏi phi sẵn."
+      },
+      "luuy": "Cho ra dĩa. Dùng nóng với cơm.",
+      "menu": "nauan",
+      "list": ""
     }
   ]
 }
