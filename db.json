@@ -1245,6 +1245,94 @@
       "luuy": "Cho ra dĩa. Dùng nóng với cơm.",
       "menu": "nauan",
       "list": ""
+    },
+    {
+      "id" : 74,
+      "name": "Cá hấp mồng tơi",
+      "img": "",
+      "review": "Món cá hấp mồng tơi chín săn chắc, nước xốt đậm đà thơm mùi tiêu xanh, ngọt nước cá. Cách hấp cá chín ngon và rau mồng tơi giữ được màu xanh tự nhiên. Món ăn rất thích hợp cho người muốn bồi bổ máu giúp cơ thể khỏe mạnh hơn.",
+      "nguyenlieu": "M: muỗng canh - m: muỗng cafe; Cá chim 800g (1 con); Tiêu xanh 2 nhánh; Mồng tơi 400g; Tỏi xay 1M; Hành tím xay 1M; Hành lá 2 nhánh; Ớt hiểm băm 1 trái; Dầu hào 1m; Tương ớt 4g (1m); Hạt nêm Aji nấm 8g (2m); Nước mắm 4g (1m); Đường 4g (1m); ĂN KÈM: Cơm trắng/ bún; Gia vị: Dầu ăn, dầu mè (1m), đường, nước mắm; Hạt nêm Aji-ngon® Nấm",
+      "thuchien": {
+        "b1": "Giã nhuyễn 1m hành tím, 1m tỏi, 1 quả ớt hiểm. Hành lá cắt sợi. Mồng tơi cắt khúc 15cm.Tiêu xanh cho vào bao nylong đập giập.",
+        "b2": "Khứa nhẹ vài đường ở hai bên mình cá, ướp cá với: 1m Aji nấm, 1m nước mắm, 1m hành tím giã, 1m tỏi giã, 1 nhánh tiêu xanh, ớt hiểm giã 15 phút.",
+        "b3": "Hấp cá đến khi chín (30 phút), chần mồng tơi vừa chín tới để ráo.",
+        "b4": "Nước xốt: phi thơm hành tím, tỏi, tiêu xanh còn lại với 2m dầu ăn, thêm 1/2 chén nước, 1m Aji nấm, 1m đường, 1m tương ớt, 1m dầu hào, nấu cạn còn 2/3, nếm vị đậm đà, sau cùng thêm dầu mè vào đảo đều.",
+        "b5": "Xếp mồng tơi phía dưới, cá lên trên, hành lá trên cùng. Dội nước xốt nóng lên mình cá. Dùng nóng với cơm/bún."
+      },
+      "luuy": "Hấp cá từ nước sôi để cá được săn chắc. Chần mồng tơi vừa chín để giữ độ giòn của mồng tơi khi ăn. Xếp mồng tơi, cá chung với nhau để mồng tơi thấm nước ngọt của cá khi dùng.",
+      "menu": "nauan",
+      "list": ""
+    },
+    {
+      "id" : 75,
+      "name": "Da heo chiên nước mắm",
+      "img": "",
+      "review": "Cách làm món da heo chiên nước mắm phồng to mặn ngọt giòn tan mà không bị chai khi chiên. Màu vàng của miếng da heo kết hợp với màu sắc tự nhiên của các loại rau bắt mắt hấp dẫn ngay cái nhìn đầu tiên.",
+      "nguyenlieu": "M: muỗng canh - m: muỗng cafe; Da heo 500g; Hành lá 2 cọng; Hành tây 40g (1/2 củ); Ớt sừng 1 trái; Tỏi băm 1M; Bột năng 1M; Muối 4g (1m); Đường 12g (1M); Nước mắm 4g (1M); Hạt nêm Aji heo 4g (1m); RAU NÊM: Ngò rí; ĂN KÈM: Cơm trắng; Gia vị: Dầu ăn, muối, đường, nước mắm; Hạt nêm Aji-ngon® Heo",
+      "thuchien": {
+        "b1": "Cho da heo vào nồi, thêm nước ngập mặt, thêm 1m muối, luộc vừa chín tới 5 phút tính từ lúc nước sôi. Vớt ra xả qua nước lạnh, để nguội. Cắt miếng vuông cạnh 3cm.",
+        "b2": "Hành tây cắt múi cau bảng 2cm, hành lá cắt khúc xéo 3cm, ớt sừng cắt hình thoi cạnh 3cm.",
+        "b3": "Cho 200ml dầu vào chảo đun vừa nóng, cho da heo, bột năng vào chiên lửa vừa, thi thoảng đảo đều. Khi da heo chuẩn bị nở phồng, tăng lửa đảo đều nhanh tay, vớt ra để ráo.",
+        "b4": "Pha nước xốt: phi thơm tỏi băm, cho thêm 4M nước lọc, 1M nước mắm , 1M đường, 1m Aji heo, nấu sệt.",
+        "b5": "Xào thơm hành tây, ớt, cho da heo đã chiên, nước xốt vào xốc nhanh cho thấm vị, thêm hành lá vào sau cùng",
+        "b6": "Cho da heo vào dĩa, trang trí thêm ngò rí. Dùng chung với cơm/ thức uống có cồn."
+      },
+      "luuy": " Luộc da heo từ nước nguội,thêm muối đậm đà khi luộc để da heo thấm vị bên trong và phồng giòn. Chiên da heo lửa nhỏ ban đầu, thêm ít bột năng để hạn chế bắn dầu. Luôn giữ da heo ngập dầu trong quá trình chiên để da heo không bị chai.",
+      "menu": "nauan",
+      "list": ""
+    },
+    {
+      "id" : 76,
+      "name": "Bún thang",
+      "img": "",
+      "review": "Bún thang là một món ngon đặc trưng của Hà Nội sử, tô bún thật hấp dẫn với màu sắc đa dạng và bắt mắt của thịt gà, chả lụa, trứng chiên, trứng vịt muối, điểm chút màu xanh của hành lá rau răm. Nước dùng trong veo có vị ngọt thanh, đậm đà đem đến mùi thơm ngon khó cưỡng. Không còn gì tuyệt vời hơn một tô bún thang nóng hổi trong tiết trời se lạnh của mùa đông!",
+      "nguyenlieu": "M: muỗng canh - m: muỗng cafe; Xương bọng gà 1 cái; Gà ta 1/2 con 600g; Tôm khô rang 12g; Nấm hương 50g (rửa sạch, không ngâm); Trứng vịt 1 quả (50g); Lòng đỏ trứng muối luộc 1 cái (8g, luộc chín); Chà bông tôm 15g; Nước bột năng 1m (4g); Hành tím củ, gừng tươi (Đập dập, nướng thơm); Nước dùng gà; Hạt nêm Aji-ngon® Gà 2m (8g ); Muối hột 1m (2g); Bột ngọt AJI-NO-MOTO® 1m (4g); Đường phèn 1.5m (8g); Nước mắm 1.5M (12g ); Bún 600g; RAU NÊM: Hành lá, rau răm, chanh, ớt; ĂN KÈM Bún tươi, mắm tôm; GIA VỊ: Muối, đường phèn, tiêu, dầu ăn, rượu trắng; Bột ngọt AJI-NO-MOTO®; Hạt nêm Aji-ngon® Gà",
+      "thuchien": {
+        "b1": "Nấu nước dùng: xương bọng gà chần sơ qua nước sôi, rửa sạch. Cho vào nồi với 2 lít nước lạnh, vớt bọt kỹ, cho nấm hương, tôm khô, gừng nướng, hành tím nướng vào, nấu lửa nhỏ trong 30 phút.",
+        "b2": "Gà làm sạch ướp với 1/2m bột ngọt AJI-NO-MOTO(R), một ít tiêu, hành tím băm, để thấm. Cho vào luộc cùng bọng gà chín tới, lọc lấy thịt xé sợi, giữ xương lại tiếp tục nấu nước dùng, đến khi thu được 1.5L nước dùng.",
+        "b3": "Nấm hương, rửa sạch. Gừng tươi, hành tím củ nướng thơm, đập sơ.",
+        "b4": "Trứng vịt đập ra tô nêm vào 1m rượu trắng, 1M nước đánh tan, cho thêm 1m bột năng, cho vào chảo tráng mỏng, cắt sợi. Chả lụa cắt sợi nhỏ. Lòng đỏ trứng vịt muối cắt làm tư.",
+        "b5": "Rau răm, hành lá cắt nhỏ.",
+        "b6": "Nước dùng, nêm 1/2m muối, 1/2m bột ngọt AJI-NO-MOTO®, 1.5m đường phèn, 1.5M nước mắm, 2m hạt nêm Aji-ngon® Gà, nếm vị vừa ăn.",
+        "b7": "Trụng bún vào nước sôi, cho vào tô, xếp chả lụa, trứng chiên, thịt gà xung quanh tô, trên cùng cho chà bông tôm và trứng vịt muối, sau đó cho nước dùng vào dùng nóng. Ăn kèm chanh ớt, mắm tôm."
+      },
+      "luuy": "Dùng muối hột và đường phèn để nước dùng có vị mặn ngọt thanh. Hòa trứng với rượu và nước bột năng để trứng mỏng, dai và không tanh. Dùng hạt nêm Aji-ngon(R) Gà để tăng hương vị gà đặc trưng.",
+      "menu": "nauan",
+      "list": ""
+    },
+    {
+      "id" : 77,
+      "name": "Cơm giòn tôm kho quẹt",
+      "img": "",
+      "review": "Miếng cơm tôm giòn rụm vàng ươm, rau củ vừa chín tới đủ màu sắc, chấm cùng xốt kho quẹt mặn ngọt đậm đà, thơm mùi thịt và tôm khô làm nên một món ăn dân dã mà ngon vét nồi. Biến tấu đơn giản mà cực kỳ vừa miệng, hấp dẫn. Chỉ tích tắc là có món lạ miệng CƠM GIÒN TÔM KHO QUẸT ăn cực ghiền. Vào bếp thử ngay!",
+      "nguyenlieu": "M: muỗng canh - m: muỗng cafe; Tôm thẻ 200g; Cơm trắng 400g; Đậu bắp 100g; Bầu 100g; Cà rốt 100g; Bông cải trắng 100g; Kho quẹt 60g; Dầu ăn 7.5g; GIA VỊ: dầu ăn; Gia vị nêm sẵn Aji-Quick® Bột chiên giòn",
+      "thuchien": {
+        "b1": "Tôm bỏ đầu, bóc vỏ, dùng dap đập hơi dập, sau đó cắt hạt lựu.",
+        "b2": "Cơm trộn đều với 100g bột chiên giòn và tôm cắt hạt lựu, sau đó cho vào túi zipper, cán mỏng còn khoảng 2mm, dùng dao cắt cơm thành từng miếng vuông cạnh 4cm rồi cắt xéo thành hình tam giác.",
+        "b3": "Các loại rau củ cắt miếng vừa ăn, luộc chín trong nước có ít dầu ăn và hạt nêm.",
+        "b4": "Đun nóng dầu ăn, lần lượt cho cơm vào chiên chín vàng giòn, vớt ra để ráo dầu.",
+        "b5": "Cho kho quẹt ra chén, khi ăn chấm cùng cơm tôm giòn và rau củ.",
+      },
+      "luuy": "Chiên cơm lửa vừa để cơm giòn đều và ngon hơn.Cho một ít dầu ăn vào nước luộc rau giúp rau củ có độ bóng & hấp dẫn hơn. Ăn cùng sốt dùng ngay Kho Quẹt chấm cùng rau củ và cơm giòn giúp món ăn hơn, chuẩn vị và tiết kiệm thời gian. Cán trước vài miếng tôm rồi bỏ tủ mát cho dễ cắt.",
+      "menu": "nauan",
+      "list": ""
+    },
+    {
+      "id" : 78,
+      "name": "Salad bít tết",
+      "img": "",
+      "review": "Thịt bò ngoài nâu nhạt, bên trong ngọt mềm, thấm vị, cùng với rau củ lạnh lạnh, giòn giòn, kết hợp cùng xốt mè rang thơm lừng, beo béo, mặn ngọt hài hòa, rất đặc sắc. Vị ngon như nhà hàng nhưng công thức dễ làm ngay tại nhà! Đổi vị món nhà ngay!",
+      "nguyenlieu": "M: muỗng canh - m: muỗng cafe; Bò Sirlion Úc (200g/miếng) 1 miếng; Dưa leo Nhật 80g (1/2 trái); Xà lách búp 100g (1 búp); Cà chua bi 30g (5 quả); Hành tây tím 20g (1/4 củ); Cà rốt 15g (1/4 củ); Bắp hạt vàng 6g (1m); Rong nho 30g; Ngò rí 1 cây; Khoai lang vàng 80g (1/2 củ); Nước cốt hành tím, tỏi 1m (Giã 1m hành và 1m tỏi thêm 1M vắt lấy nước); Gia vị: Dầu ăn, tiêu đen cà bể; Hạt nêm Aji-ngon® Heo; Nước tương "Phú Sĩ"; Xốt mè rang "Aji-Xốt"",
+      "thuchien": {
+        "b1": "Ướp bò với nước cốt hành tỏi, 1/2m tiêu đen, 1m hạt nêm Aji-ngon heo, 1m nước tương Phú Sĩ 10 phút.",
+        "b2": "Cà rốt, hành tây tím, khoai lang tím, khoai lang vàng cắt sợi. Hành tây tím ngâm qua nước lạnh 5 phút, vớt ra để ráo, xà lách cắt miếng vừa ăn, cà chua bi cắt đôi, dưa leo nhật cắt 1/2 mặt trăng độ dày 3 ly. Giữ lạnh.",
+        "b3": "Chiên phần mỡ của miếng bò trước, sau đó chiên hai mặt còn lại đến khi vừa chín, để nguội.",
+        "b4": "Chiên giòn khoai lang tím, khoai lang vàng.",
+        "b5": "Cho xà lách ra dĩa sâu lòng, các thành phần còn lại lên trên, cắt thịt bò lát xéo dày 3 ly để xung quanh, cho khoai lang tím, khoai lang vàng, ngò rí trên cùng. Rưới xốt Aji Mè Rang, trộn đều.",
+      },
+      "luuy": "Tất cả các rau củ giữ lạnh để được giòn,hành tây ngâm qua nước lạnh để không bị hăng. Ướp thịt bò với nước hành tỏi và nước tương để khi chiên thịt không cháy và món ăn có đặc trưng hương vị Châu Á. Bày xà lách lá phía dưới, các thành phần khác trên cùng để khoai chiên không bị mềm và tạo sự bắt mắt.",
+      "menu": "nauan",
+      "list": ""
     }
   ]
 }
