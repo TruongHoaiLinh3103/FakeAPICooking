@@ -1333,6 +1333,37 @@
       "luuy": "Tất cả các rau củ giữ lạnh để được giòn,hành tây ngâm qua nước lạnh để không bị hăng. Ướp thịt bò với nước hành tỏi và nước tương để khi chiên thịt không cháy và món ăn có đặc trưng hương vị Châu Á. Bày xà lách lá phía dưới, các thành phần khác trên cùng để khoai chiên không bị mềm và tạo sự bắt mắt.",
       "menu": "nauan",
       "list": ""
+    },
+    {
+      "id" : 79,
+      "name": "Blendy trà đào cam sả",
+      "img": "",
+      "review": "Ly trà đượm thơm mùi đào, thoang thoảng hương cam sả, vị chua chua ngọt ngọt lan tỏa trong khoang miệng, cùng viên thạch đào sần sật, mê ngay từ ngụm đầu tiên. Thức uống giải khát cực đã lại dễ làm cho cả nhà mình. Chờ gì mà chưa thử? Pha ngay ly blendy trà đào cam sả giải khát thôi nào!"
+      "nguyenlieu": "M: muỗng canh - m: muỗng cafe'; Blendy Trà đào cam sả 44g (4 gói); Đào hộp 200g (lấy đào không lấy nước); Bột rau câu dẻo 3D 4g; Đá viên; Đường 20g (1M); Hạt chia 1m; Gia vị: Đường; Trà Đào hương Cam Sả Blendy®.",
+        "b1": "Hòa tan 4 gói Blendy Trà Đào Cam Sả với 200ml nước lọc.",
+        "b2": "Trộn đều 20gr đường với 4g bột dẻo.",
+        "b3": "Xay nhuyễn 200g đào ngâm với 200ml nước lọc, tắt bếp cho 1m hạt chia và hỗn hợp đường bột dẻo vào khuấy tan. Cho ra khuôn, để lạnh, cắt khối cạnh 1cm.",
+        "b4": "Cho thạch đào dưới ly, cho đá viên vào, chan nước Trà đào cam sả Blendy vào. Trang trí tùy thích, dùng lạnh.",
+      },
+      "luuy": "Trộn đều bột dẻo với đường trước để khi cho vào, thạch sẽ không bị vón cục. Khi cho bột dẻo vào thì không nên để nước đào sôi vì sẽ làm giảm độ đặc của thạch. Dùng Blendy trà đào cam sả ăn cùng với thạch đào để có món nước ngon như ngoài tiệm và nhanh gọn.",
+      "menu": "nauan",
+      "list": ""
+    },
+    {
+      "id" : 80,
+      "name": "Cơm gà nướng nước tương",
+      "img": "",
+      "review": "Cơm có vị vừa ăn, màu nâu nhẹ hoà lẫn hương thơm của nước tương, thịt gà chín săn màu nâu nhạt đẹp mắt, quyện với mùi thơm của nấm và gừng làm nên món ăn hội đủ sắc – hương – vị khó cưỡng. Một công thức độc đáo hợp vị cả nhà mình, không thể không thử.",
+      "nguyenlieu": "M: muỗng canh - m: muỗng cafe; Thịt má đùi gà rút xương 300g; Cơm trắng 600g (4 chén); Gừng cắt sợi 1M (15g); Nấm đông cô khô ngâm mềm 50g; Lá rong biển 5g; Mayonnaise (nguyên bản) AJI-NO-MOTO 50g (2.5M); Hạt nêm Aji-ngon Gà 2.5g (1m); Nước tương Phú Sĩ giảm muối 12g (1M); Bột ngọt 1.3g (1/2m); Đường 2.5g (1m); Hành tỏi băm 2m; Hành lá 2M (cắt khúc); Tiêu 1/4m; Ớt sừng cắt lát; Gia vị: đường; Xốt Mayonnaise Aji-mayo® Vị Nguyên Bản; Hạt nêm Aji-ngon® Gà; Bột ngọt AJI-NO-MOTO®; Nước tương "Phú Sĩ" giảm muối.",
+        "b1": "Gừng rửa sạch cắt sợi, nấm đông cô luộc chín mềm cắt sợ 0.3 cm, Hành củ và tỏi lột vỏ bắm nhuyễn, rong biển bóp nhỏ, hành lá cắt khúc, ớt sừng cắt lát.",
+        "b2": "Thịt má đùi gà rửa sạch cắt miếng dày khoảng 1 cm và ướp với 1/4m tiêu, 1M gừng, nấm đông cô cắt sợi, 1m hạt nêm Aji-ngon Gà, 1M nước tương Phú Sĩ giảm muối, 1/2m bột ngọt Ajinomoto, 2m hành tím và tỏi băm,hành lá cắt khúc và ớt sừng cắt lát.",
+        "b3": "Cơm trộn cùng 2M sốt mayonnaise Aji-mayo vị nguyên bản, 1m hạt nêm Aji-ngon Gà, 1m đường, rong biển bóp nhỏ.",
+        "b4": "Cho cơm vào 1 thố sứ, xếp đều gà lên trên bề mặt thố cơm, nướng lửa mặt nhiệt độ 200 độ trong 15 phút. Sau khi thịt gà đã ngã màu nâu nhạt thì bắt 1/2M sốt mayonnaise Aji-mayo vị nguyên bản lên trên, nướng thêm 3 phút, nhiệt độ 220 độ .",
+        "b5": "Lấy thố cơm đã nướng ra và đặt lên đĩa lót. Dùng nóng, dọn kèm nước tương “Phú Sĩ” có ớt cắt lát."
+      },
+      "luuy": "Trộn mayonaise để hạt cơm bóng và có độ béo nhẹ sau khi nướng. Kết hợp giữa thịt gà, gừng và nấm tạo ra hương vị đặc biệt khi nướng.",
+      "menu": "nauan",
+      "list": ""
     }
   ]
 }
