@@ -1487,6 +1487,93 @@
       "luuy": "Mách nhỏ: bạn có thể cho hỗn hợp này vào bình shaker và lắc để tạo bọt nha. Vậy là chỉ với những bước đơn giản, bạn đã hoàn thành xong cách làm trà vải bạc hà này rồi đó.",
       "menu": "phache",
       "list": "Trà"
+    },
+    {
+      "id" : 88,
+      "name": "Bún riêu cua bắp bò",
+      "img": "",
+      "review": "Món bún riêu cua chắc hẳn không còn xa lạ trong bữa cơm gia đình Việt Nam. Hôm nay, đầu bếp chương trình Món Ngon Mỗi Ngày sẽ biến tấu món ăn thêm vị mới lạ khi kết hợp với thịt bắp bò hấp dẫn. Bắp bò làm cho nước dùng có vị ngọt đặc trưng mới lạ, thịt bò chín tới, mềm ngọt thịt, ăn kèm các loại rau tươi mát giúp giải nhiệt mùa nắng nóng.",
+      "nguyenlieu": "M: muỗng canh - m: muỗng cafe; Bắp bò hoa: 300g; Bún: 600g; Chả bò: 100g; Cà chua chín 100g ( 1 trái ); Rau muống: 50g; Hành tây: 50g (nửa củ); Bắp chuối: 50g; Giá: 50g; Rau thơm: 50g; Dầu điều: 30g (2M); Gia vị nêm sẵn Aji-Quick® Bún riêu cua : 54g (1 gói); Nước mắm: 8ml (1M); Hạt nêm: 2.5g (1/2 muỗng cf); Đường: 10g (2m); Hạt nêm Aji-ngon® Heo; Giấm gạo lên men Ajinomoto",
+      "thuchien": {
+        "b1": "Bắp bò cắt lát thật mỏng ngang sớ. Cà chua cắt múi to. Hành tây cắt mỏng ngang củ, rau răm, ngò gai cắt nhỏ.",
+        "b2": "Bắt chảo cho 2M dầu điều đun nóng, phi 2M hành tỏi cho thơm, cho cà chua vào xào.",
+        "b3": "Đun 1,5 L nước sôi cho gói gia vị Gia vị nêm sẵn Aji-Quick® Bún riêu cua, thêm cà chua vào nấu 5 phút cho thêm 2M Giấm gạo lên men Ajinomoto, 1M nước mắm vào.",
+        "b4": "Trụng bún cho nóng đặt vào tô, thêm chả bò lên trên, trụng bắp bò cho vào tô, chan nước dùng nóng, rắc lên hành tây, ngò gai, ớt. Khi ăn dọn kèm giá, rau thơm, chanh ớt. Mắm tôm tùy thích."
+      },
+      "luuy": "Mách Nhỏ: Trụng thịt bò vừa chín để thịt giữ độ mềm và ngọt. Tuỳ theo ý thích, có thể thêm giấm vào tạo vị chua thơm cho món ăn. Sử dụng gói Gia vị nêm sẵn Aji-Quick® Bún riêu cua cho vị riêu cua chuẩn vị, nhanh gọn.",
+      "menu": "",
+      "list": ""
+    },
+    {
+      "id" : 89,
+      "name": "Bò cuộn rong biển",
+      "img": "",
+      "review": "Món bò cuộn rong biển vị đậm đà, vừa ăn, thơm ngon từ thịt bò kết hợp với rong biển. Cách làm bò cuộn chắc, không bị bỏ, màu sắc đẹp mắt hấp dẫn tự nhiên của rong biển.",
+      "nguyenlieu": "M: muỗng canh - m: muỗng cafe; Bò xay: 200g; Thanh cua: 200g; Rong biển lá khô: 3 lá (12g); Hành tây: 1/2 củ (40g); Đậu phộng: 1/2m (6.5g); Gói bột chiên giòn: 2M; Xà lách: 3/4 bắp (60g); Tiêu: 1/2m; Tỏi băm: 1/2m; Hành lá: 1 nhánh; Dầu ăn: 1M (10g); Xốt Mayonnaise Aji-mayo® Vị Nguyên Bản: 20g; Nước tương: 1M (13g); Xốt Mayonnaise Aji-mayo® Vị Nguyên Bản; Gia vị nêm sẵn Aji-Quick® Bột tẩm khô chiên",
+      "thuchien": {
+        "b1": "Hành tây cắt hạt lựu, hành lá cắt nhỏ.",
+        "b2": "Thanh cua chẻ làm 3 theo chiều dọc.",
+        "b3": "Rong biển, cắt làm 6.",
+        "b4": "Trộn nhân: cho bò xay, hành tây cắt hạt lựu, 2M Aji-Quick® BỘT TẨM KHÔ CHIÊN GIÒN, 1/2m tiêu xay, 1M dầu ăn.",
+        "b5": "Cuộn rong biển với nhân: Trải rong biển ra mâm, cho thịt đã ướp, thanh cua vào phần rong biển rồi cuộn lại như cuộn bò lá lốt. Cuộn lần lượt cho đến khi hết thịt.",
+        "b6": "Áp chảo: Cho khoảng 1M dầu ăn vào chảo với lửa nhỏ, khi dầu nóng thì cho lần lượt từng cuốn rong biển vào áp chảo. Quan sát thấy thịt bò thơm lên và rong biển co lại thì trở mặt, áp chảo cho đến khi cuộn rong biển vàng đều ( khoảng 5 phút ).",
+        "b7": "Pha sốt: Cho vào tô 3M Xốt Mayonnaise Aji-mayo® Vị Nguyên Bản, 1M Nước tương “Phú Sĩ”, 1/2m tỏi băm nhuyễn, 1/2m tiêu rang thơm giã nhuyễn.",
+        "b8": "Dầu hành: 2M cho hành lá cắt nhỏ vào chén, thêm 1M dầu ăn nóng vào.",
+        "b9": "Xếp xà lách lên dĩa, cho cuộn rong biển vào, rắc đậu phông rang giã lên trên, rưới thêm dầu hành. Chấm kèm với Xốt Mayonnaise Aji-mayo® Vị Nguyên Bản Nước tương “Phú Sĩ”."
+      },
+      "luuy": "Mách Nhỏ: Chọn thịt bò xay có lẫn mỡ sẽ giúp món ăn ngon hơn. Dùng gói gia vị nêm sẵn Aji-Quick® BỘT TẨM KHÔ CHIÊN GIÒN bước trộn nhân giúp món ăn tăng hương vị, ngon hơn.",
+      "menu": "",
+      "list": ""
+    },
+    {
+      "id" : 90,
+      "name": "Blendy gạo rang kem chuối",
+      "img": "",
+      "review": "Hướng dẫn pha trà sữa Blendy gạo rang kem chuối béo thơm hương trà xanh cùng vị chuối laba giải nhiệt mùa nắng nóng.",
+      "nguyenlieu": "M: muỗng canh - m: muỗng cafe; Blendy® Trà Matcha Gạo Rang: 4 gói; Kem lạnh vani: 200g; Chuối laba: 1 quả; Kem sữa đánh bông: 100g; Đậu phộng rang nâu: 1m; ĂN KÈM: Dâu tây; Blendy® Trà Matcha Gạo Rang",
+      "thuchien": {
+        "b1": "Pha 4 gói Blendy® Trà Matcha Gạo Rang theo công thức hướng dẫn giữ lạnh. Chuối lột vỏ cắt nhỏ. Kem lạnh giữ đông, kem đánh cho vào bao bắt bông kem giữ lạnh. Đậu phộng rang cà bể đôi.",
+        "b2": "Cho nước trà xanh, chuối, kem lạnh vào máy sinh tố xay nhuyễn.",
+        "b3": "Chế hỗn hợp trên ra ly, bắt bông kem lên trên. Rắc đậu phộng trên cùng. Trang trí vài lát dâu cắt hình trái tim.",
+        "b4": "Món ăn ngon đi kèm: Tôm chiên xiên sả trái tim",
+      },
+      "luuy": "Mách nhỏ: Giữ lạnh hỗn hợp trà sau khi pha để đảm bảo độ lạnh của thức uống. Có thể thay chuối bằng loại hoa quả khác tùy thích.",
+      "menu": "",
+      "list": ""
+    },
+    {
+      "id" : 91,
+      "name": "Gỏi gà cần tây",
+      "img": "",
+      "review": "Gỏi gà cần tây ngọt mặn chua cay nhẹ đặc trưng của món gỏi, lại thêm vị béo nhẹ thơm của xốt mayonnaise. Cách làm gỏi gà không khô, ngọt thịt, cách pha nước trộn gỏi ngon vừa ăn. Thành phần món ăn là những nguyên liệu giúp bổ máu cho cơ thể.",
+      "nguyenlieu": "M: muỗng canh - m: muỗng cafe; Gà ta: 1/2 con (500g); Cần tây: 100g; Đậu rồng non: 100g; Cà rốt: 1.5 củ (150g); Hành tây tím: 1/2 củ (50g); Bánh tráng mè: 1.5 cái đã nướng (90g); Đường: 1M (10g); Mè: 1M (8g); Xốt Mayonnaise Aji-mayo® Vị Nguyên Bản: 20g; Hành phi: 2g; Muối: 1/2m (2g); Bột ngọt: 1.5m (8.5g); Nước mắm: 1M (8ml); Gạo nấu cháo: 3/4 chén (140g); Bột ngọt AJI-NO-MOTO®; Xốt Mayonnaise Aji-mayo® Vị Nguyên Bản",
+      "thuchien": {
+        "b1": "Sơ chế gà: luộc chín trong nước có thêm 1m hạt nêm, 2 củ hành tím nướng, gỡ thịt, xé sợi. Ướp thịt gà với 1/2m tiêu, 1/2m Bột ngọt AJI-NO-MOTO®, 2m nước chanh, hành tây tím cắt sợi.",
+        "b2": "Sơ chế rau: Đậu rồng và cần tây cắt lát xéo, ngò gai húng lủi cắt nhỏ.",
+        "b3": "Pha nước trộn gỏi: 1/2m muối, 1m Bột ngọt AJI-NO-MOTO®, 1M đường, 1/2M nước cốt chanh, 1m tỏi, ớt băm tùy, 1M nước mắm.",
+        "b4": " Trộn thịt gà với đậu rồng, cần tây, cà rốt, nươc trộn gỏi, 3M Xốt Mayonnaise Aji-mayo® Vị Nguyên Bản, ớt sợi. Cuối cùng là mè rang, hành phi, rau húng lủi, ngò gai.",
+        "b5": "Trình bày ra đĩa và ăn kèm bánh tráng mè nướng.",
+      },
+      "luuy": "Mách Nhỏ: Sau khi luộc gà, để nguội rồi mới xé thịt để giữ nước ngọt bên trong thịt gà. Để các loại rau vào tủ mát trước khi trộn rau sẽ giòn và ngon hơn.",
+      "menu": "",
+      "list": ""
+    },
+    {
+      "id" : 92,
+      "name": "Canh chua cá lóc đậu tương",
+      "img": "",
+      "review": "Món canh chua cá lóc đậu tương vị đậm đà, vừa ăn, thơm nhẹ của sả và tương hột. Món ăn hấp dẫn với màu của rau và miếng cá chín tới không nát, nước dùng không tanh mùi cá, dễ ăn. Cùng vào bếp thực hiện ngay món canh chua cá mới này nhé!",
+      "nguyenlieu": "M: muỗng canh - m: muỗng cafe; Cá lóc: 250g; Sả: 2 cây; Rau muống: 150g; Rau cần nước: 150g; Cọng súng: 50g; Me vắt: 50g; Tương hột: 50g; Ớt hiểm băm: 1 trái; Tỏi băm: 1M; Đường: 20g (1.5M); Muối: 1g (1.5m); Bột ngọt AJI-NO-MOTO® : 10g (2m); Dầu ăn: 10g (2M); Ăn trưa - Ăn kèm: Cơm, Tráng miệng ổi; Bột ngọt AJI-NO-MOTO®",
+      "thuchien": {
+        "b1": "Cá lóc cắt khúc vừa ăn.",
+        "b2": "Các loại rau sơ chế sạch, cắt khúc vừa ăn. Rau om, ngò gai cắt nhỏ.",
+        "b3": "Cho 2M dầu ăn phi thơm tỏi, sả, ớt băm, cho cá vào xào sơ, thêm tương hột vào đảo đều.",
+        "b4": "Cho 1.2l vào nấu sôi, nêm 1.5M đường, 2m Bột ngọt AJI-NO-MOTO®, 1.5m muối, nước me, thêm rau vào nấu sôi, tắt lửa. Thêm rau om ngò gai.",
+        "b5": "Múc canh ra tô, thêm rau om, ngò gai. Dùng nóng với cơm/bún..",
+      },
+      "luuy": "Mách Nhỏ: Xào sơ cá với tỏi, sả, ớt giúp cá thơm ngon hơn. Sử dụng tương hột kết hợp với sả tạo mùi hương đặc trưng cho món canh.",
+      "menu": "",
+      "list": ""
     }
   ]
 }
