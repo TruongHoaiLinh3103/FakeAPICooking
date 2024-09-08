@@ -1366,6 +1366,127 @@
       "luuy": "Trộn mayonaise để hạt cơm bóng và có độ béo nhẹ sau khi nướng. Kết hợp giữa thịt gà, gừng và nấm tạo ra hương vị đặc biệt khi nướng.",
       "menu": "nauan",
       "list": "Nướng"
+    },
+    {
+      "id" : 81,
+      "name": "Pha chế cà phê ngũ sắc",
+      "img": "https://i.pinimg.com/originals/3a/5f/77/3a5f7781495bf784cc8afb691a86f881.jpg",
+      "review": "Không quá mất nhiều thời gian và công sức bạn sẽ có một cốc cafe mang phong cách hoàn toàn khác với những cốc cafe đơn điệu thường ngày. Đặc biệt trong dịp cuối tuần hay mỗi khi bạn bè tụ tập tại nhà bạn, cafe sắc màu sẽ là món quà thú vị gây bất ngờ cho những người xung quanh.",
+      "nguyenlieu": "120ml cà phê; 5 thìa súp sữa đặc có đường; Kem xịt; Kẹo màu; 1 bát đá bào",
+      "thuchien": {
+        "b1": "Lần lượt cho đá bào, cà phê, sữa đặc có đường vào máy xay sinh tố.",
+        "b2": "Xay trong 2 phút cho hỗn hợp thật mịn, đẹp mắt.",
+        "b3": "Rót sinh tố ra 2/3 ly, sau đó xịt kem vào cho đầy.",
+        "b4": "Có thể trang trí kẹo màu lên trên cho đẹp mắt."
+      },
+      "luuy": "",
+      "menu": "phache",
+      "list": "Cà-phê"
+    },
+    {
+      "id" : 82,
+      "name": "Trà táo bạc hà mát lạnh",
+      "img": "https://i.pinimg.com/originals/e6/58/a3/e658a367d4b6858fbd664d3ee47ad02a.jpg",
+      "review": "Chỉ với vài phút là bạn đã có thức uống ngọt mát, thơm mùi bạc hà để giải nhiệt ngày hè rồi.",
+      "nguyenlieu": "1-2 túi trà lọc táo; Vài lá bạc hà; Đường, đá lạnh, vài lát chanh tươi (tuỳ thích)",
+      "thuchien": {
+        "b1": "Cho túi trà vào cốc nước nóng, để yên khoảng 5 phút rồi bỏ túi trà đi.",
+        "b2": "Nếu không dùng trà táo bạn có thể lấy túi trà thường, thêm 1/2 quả táo rửa sạch vỏ, xắt miếng nhỏ.",
+        "b3": "Thêm đường, đá lạnh, trên rắc lá bạc hà và trang trí bằng lát chanh tươi."
+      },
+      "luuy": "",
+      "menu": "phache",
+      "list": "Trà"
+    },
+    {
+      "id" : 83,
+      "name": "Kem trà xanh",
+      "img": "https://i.pinimg.com/originals/93/c8/ba/93c8baae248cfc014504249b16b3654a.jpg",
+      "review": "Kem trà xanh (matcha) ăn vừa mát, bổ và nếu ai đã thích hương vị trà xanh rùi thì sẽ nghiện món kem thơm ngon này.",
+      "nguyenlieu": "3 lòng đỏ trứng gà; 60g đường; 250 ml sữa tươi không đường; 200 ml kem tươi; 8g matcha (bột trà xanh); 1/2 thìa bột ngô",
+      "thuchien": {
+        "b1": "Đun sữa tươi đến khoảng 80 độ C thì tắt bếp, hoặc khi thấy sữa tươi sôi nhẹ quanh mép nồi thì tắt bếp.",
+        "b2": "Đánh bông mịn lòng đỏ trứng gà, đường và bột trà xanh đến khi đường tan, hỗn hợp mịn.",
+        "b3": "Đổ sữa tươi vào hỗn hợp trứng và khuấy thật đều.",
+        "b4": "Bắc lên bếp đun hỗn hợp trứng sữa, khuấy đều tay và liên tục đến khi hỗn hợp mịn dần và hơi đặc lại một chút. Nên nhớ trứng an toàn khi đạt 71 độ C. Không nên đun hỗn hợp trứng lên đến 85 độ C, hỗn hợp sẽ bị vón cục.",
+        "b5": "Dùng máy đánh trứng đánh hỗn hợp cho tới khi nguội hẳn. Công đoạn này giúp đưa không khí vào hỗn hợp, làm kem trở nên xốp hơn.",
+        "b6": "Đánh bông kem tươi và cho kem tươi từng chút một vào hỗn hợp trứng sữa và đánh đều tay để hỗn hợp đều, mịn.",
+        "b7": "Cho hỗn hợp kem vào hộp để trong ngăn đá. Sau 3h lấy ra và dùng máy đáy trứng đánh thật đều rồi tiếp tục cho vào tủ lạnh. Làm như vậy khoảng 3, 4 lần. Kem sẽ bông xốp. Nếu bạn có máy làm kem thì việc làm kem sẽ trở nên đơn giản hơn. Chỉ cần cho hỗn hợp vào máy và sau 25- 35 phút sẽ có ngay món kem ngon tuyệt này."
+      },
+      "luuy": "",
+      "menu": "phache",
+      "list": "Kem"
+    },
+    {
+      "id" : 84,
+      "name": "Trà chanh hương sả",
+      "img": "https://i.pinimg.com/originals/02/5a/72/025a7260e203ef1ea659c85507bed65a.jpg",
+      "review": "Với cốc trà chanh pha với đường đã quá quen thuộc, thêm ít sả tươi thái nhỏ và vài viên đá mát lạnh sẽ cho bạn cảm giác thoải mái, thư thái, nhất là vào những ngày hè nóng.",
+      "nguyenlieu": "2 cây sả, 2 túi trà lọc lipton, 1 quả chanh; 2 muỗng đường, 800ml nước, đá viên.",
+      "thuchien": {
+        "b1": "Lột bỏ những phần xấu xí bên ngoài cây xả, cắt bỏ gốc, cắt xéo thành từng miếng nhỏ.",
+        "b2": "Chanh cắt thành những lát mỏng.",
+        "b3": "Lót sả vào nồi nhỏ, cho 800ml nước vào, bắc lên bếp đun. Đợi khi nước sôi thì cho đường và đun thêm 3 phút nữa, sau đó tắt bếp và nhúng 2 túi trà lọc vào.",
+        "b4": "Khi nước trà nguội, vứt bỏ túi trà, rót nước vào từng cốc, thả vài lát chanh, vài viên đá và thưởng thức."
+      },
+      "luuy": "Với trà chanh hương sả, bạn có thể gia giảm đường, chanh tùy theo sở thích. Và có thể thêm cả trân châu vào đun cùng sả để nhâm nhi. Hương chanh cộng với sả có tác dụng làm hưng phấn tinh thần, sảng khoái, đem lại cảm giác thoải mái, rất thích hợp với thời tiết mùa hè.",
+      "menu": "phache",
+      "list": "Trà"
+    },
+    {
+      "id" : 85,
+      "name": "Cách pha trà xanh long lanh",
+      "img": "https://i.pinimg.com/originals/28/9d/58/289d5864b762ef5ab60e29a4ee7dee5e.png",
+      "review": "Có rất nhiều bạn thích uống chè xanh (chè tươi) nhưng lại chưa biết cách pha chế và hãm chè sao cho nước trong và có màu xanh đẹp. Mới để có một lúc thì bình chè lại chuyển qua màu đỏ rồi, chả đẹp mắt và không còn vị chát thường thấy nữa. Tôi sẽ mách bạn vài mẹo nhỏ để pha được một ấm tích ...",
+      "nguyenlieu": "200gr lá chè tươi (ra hàng rau, hàng lá nhiều lắm nha); 2 lát gừng tươi; 3 lit nước sôi nóng (nhớ là thật sôi)",
+      "thuchien": {
+        "b1": "Lá trà ngâm qua nước, rửa sạch bụi trên lá, ngâm 10 phút  trước khi vớt ra",
+        "b2": "Nước sôi tráng ấm tích hoặc tráng bình pha",
+        "b3": "Ta vò nhẹ lá trà, sao cho lá bị gẫy gập, nhưng không bị dập nhé",
+        "b4": "Cho lá trà vào bình, thả 2 lát gừng tươi vào cùng, lấy nửa lít nước sôi đổ vào tráng chè lắc qua và đổ đi.",
+        "b5": "Nước sôi còn lại vào ấm, không đậy nắp bình và để chè ngấm 20 phút",
+        "b6": "Có bạn cho thêm cục đá lạnh vào bình sau 20’ chè ngấm nữa đó, để chè có màu xanh trong suốt.",
+        "b7": "Vậy là chúng ta sẽ có một bình chè tươi cực thơm ngon và trong xanh lắm nhé."
+      },
+      "luuy": "",
+      "menu": "phache",
+      "list": "Trà"
+    },
+    {
+      "id" : 86,
+      "name": "Khúc biến tấu với ca cao",
+      "img": "https://i.pinimg.com/originals/56/e8/39/56e8399c858101027e7244eeb604aa81.jpg",
+      "review": "Ca cao là loại thực phẩm được các bạn gái rất yêu thích bởi vị đắng ngọt rất riêng. Tuy nhiên, loại thực phẩm này có chứa khá nhiều calo nên nếu thường xuyên ăn, cơ thể bạn trông sẽ thật tròn trịa. Để giúp cân bằng năng lượng và cũng là thay đổi khẩu vị, hãy kết hợp ca cao với hoa quả.",
+      "nguyenlieu": "Dưa hấu, đu đủ, thanh long; Ca cao, đường; Sữa tươi; Lá bạc hà",
+      "thuchien": {
+        "b1": "Dùng dao cắt nhỏ các loại hoa quả và bỏ riêng ra từng chiếc bát.",
+        "b2": "Trộn đều sữa với bột ca cao để tạo thành một hỗ hợp có màu socola.",
+        "b3": "Trộn dung dịch ca cao cùng với một chút bột, đánh tan và đun sôi sau đó bắc ra để nguội",
+        "b4": "Bỏ những miếng hoa quả đã được cắt nhỏ vào trong hỗ hợp ca cao đã được để nguội",
+        "b5": "Ca cao khi đun sôi sẽ có màu nâu đậm và lớp kem trắng nổi phía trên. Bạn hãy khéo léo đặt các miếng hoa quả sao cho chúng nổi trên bề mặt cốc",
+        "b6": "Cuối cùng, thêm vào đó vài giọt chanh, bỏ vào tủ lạnh và thưởng thức."
+      },
+      "luuy": "",
+      "menu": "phache",
+      "list": "Ca-cao"
+    },
+    {
+      "id" : 87,
+      "name": "Trà vải bạc hà",
+      "img": "https://i.pinimg.com/originals/e9/1d/95/e91d950e9c0c5f5a10ce63a476b45b3e.jpg",
+      "review": "Trà vải bạc hà không chỉ có màu sắc bắt mắt mà còn giúp bạn nạp lại năng lượng cho một ngày làm việc mệt mỏi. Một thoáng vị chua nhẹ của chanh hoà với vị the mát của bạc hà cùng hương vải ngọt ngào và vị chát nhẹ của trà giúp ly nước trở nên cân bằng, vừa miệng hơn. Nguyên liệu và cách làm thì cực kì đơn giản mà không mất nhiều thời gian. Nhưng để làm được trà vải bạc hà thơm ngon đúng điệu không phải ai cũng biết.",
+      "nguyenlieu": "2 gói trà túi lọc; 500ml nước nóng 80 độ; 600ml nước; 300g đường; 60g lá bạc hà tươi; 9 – 10 quả vải thiều; 100g quả mâm xôi hoặc dâu tây; 1 quả chanh",
+      "thuchien": {
+        "b1": "Để thực hiện cách pha trà vải bạc hà, đầu tiên bạn lấy 1 chiếc bình thủy tinh sạch. Cho trà túi lọc vào rồi đổ một ít nước sôi để làm nóng bình và trà.",
+        "b2": "Tiếp đó, bạn đổ hết phần nước này đi nha. Bạn cho thêm phần nước sôi còn lại vào trong bình, đợi khoảng 5 phút thì bạn nhấc bỏ túi trà ra, để trà vừa pha ở nơi mát để trà nhanh chóng nguội đi nhé.",
+        "b3": "Bạn cho 600ml nước vào chiếc nồi nhỏ, bỏ thêm đường vào hòa tan rồi đặt lên bếp để nấu sôi lên. Đến khi thấy nước sôi thì bạn thả lá bạc hà đã rửa sạch vẩy ráo vào (chú ý giữa lại một vài lá bạc hà tươi để trang trí sau nha). Đợi nước sôi lại thì bạn vặn nhỏ lửa đun liu riu khoảng từ 1 đến 2 phút thì tắt bếp đi.",
+        "b4": "Bạn cho nước bạc hà vào một chiếc bình thủy tinh khác, để cho mát. Khi này, bạn sẽ có được phần siro bạc hà nguyên chất.",
+        "b5": "Rửa sạch chanh, lấy một ít muối hạt để chà vỏ khử đi vị đắng thì bạn mới dùng dao thái chanh thành các lát mỏng. Bóc vỏ vải, bỏ hạt đi. Vải là thành phần quan trọng nhất để tạo nên hương vị thơm ngon của món trà này, mâm xôi (hoặc dâu tây) bạn rửa nhẹ dưới vòi nước cho sạch rồi để ráo nước.",
+        "b6": "Bạn cho 100ml siro bạc hà vào bình trà, cho thêm hoa quả gồm mâm xôi, chanh và vải vào, quấy đều lên rồi mang trữ ở trong ngăn mát tủ lạnh và dùng dần. Nếu bạn muốn dùng ngày thì hãy cho thêm đá viên hoặc đá bào vào để trà có độ lạnh vừa ý là có thể thưởng thức ngay."
+      },
+      "luuy": "Mách nhỏ: bạn có thể cho hỗn hợp này vào bình shaker và lắc để tạo bọt nha. Vậy là chỉ với những bước đơn giản, bạn đã hoàn thành xong cách làm trà vải bạc hà này rồi đó.",
+      "menu": "phache",
+      "list": "Trà"
     }
   ]
 }
