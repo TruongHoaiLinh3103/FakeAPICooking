@@ -1574,6 +1574,79 @@
       "luuy": "Mách Nhỏ: Xào sơ cá với tỏi, sả, ớt giúp cá thơm ngon hơn. Sử dụng tương hột kết hợp với sả tạo mùi hương đặc trưng cho món canh.",
       "menu": "",
       "list": ""
+    },
+    {
+      "id" : 93,
+      "name": "Canh cá rau cần",
+      "img": "",
+      "review": "Món canh cá rau cần thơm ngọt chua thanh. Thịt cá lóc chín mọng nước, rau cần chín giòn giòn hấp dẫn. Cùng vào bếp nấu ngay món canh ngon cho gia đình thưởng thức thôi nào!",
+      "nguyenlieu": "M: muỗng canh - m: muỗng cafe; Cá lóc: 600g (1 con); Rau cần cạn: 1 bó (200g) Chọn rau non màu sáng; Cà chua: 150g (1.5 trái); Đường: 10g (2m); Mắm: 9g (1/2M); Muối: 0.5g (1/5m); Hạt nêm: 7.5g; Bột ngọt: 2g; Dầu ăn: 13.5g; Hạt nêm Aji-ngon® Heo; Bột ngọt AJI-NO-MOTO®; Giấm gạo lên men Ajinomoto",
+      "thuchien": {
+        "b1": "Cá lóc lạng lấy thịt 2 bên, cắt khúc 5 cm. Xương cá đem nấu nước dùng cùng 3 củ hành tím nướng.",
+        "b2": "Nấu 30 phút gạn lấy 1,2 lít nước dùng.",
+        "b3": "Cho 2M đầu ăn phi đầu hành lá băm thơm lên, tắt lửa cho cá vào với 1/2m Hạt nêm Aji-ngon® HEO ướp cá với đầu hành phi.",
+        "b4": "Rau cần cắt khúc 5 cm thân lá để riêng. Cà chua chẻ 6.",
+        "b5": "Đun nước dùng cá cho sôi, nêm gia vị: 1/5m muối, 1/3m bột ngọt, 2m Hạt nêm Aji-ngon® HEO, 2m đường, 4M giấm gạo lên men Ajinomoto, cho cà chua và cá vào nấu. Cho thân rau cần vào nấu thêm 2 phút, cho tiếp lá rau cần vào đảo đều. Tắt lửa, nêm thêm 1/2M nước mắm.",
+        "b6": "Múc canh ra tô, cho thêm hành và rau om vào. Ăn với cơm nóng."
+      },
+      "luuy": "Mách Nhỏ: Phi đầu hành lá ướp vào thịt cá và trứng cá giúp tăng mùi thơm. Chọn rau cần có cọng màu xanh sáng là rau non. Làm sạch rau cần bằng cách ngâm rửa với nước vo gạo hoặc nước pha một ít bột năng.",
+      "menu": "",
+      "list": ""
+    },
+    {
+      "id" : 94,
+      "name": "Bún riêu cua bắp bò",
+      "img": "",
+      "review": "Món bún riêu cua chắc hẳn không còn xa lạ trong bữa cơm gia đình Việt Nam. Hôm nay, đầu bếp chương trình Món Ngon Mỗi Ngày sẽ biến tấu món ăn thêm vị mới lạ khi kết hợp với thịt bắp bò hấp dẫn. Bắp bò làm cho nước dùng có vị ngọt đặc trưng mới lạ, thịt bò chín tới, mềm ngọt thịt, ăn kèm các loại rau tươi mát giúp giải nhiệt mùa nắng nóng.",
+      "nguyenlieu": "M: muỗng canh - m: muỗng cafe; Bắp bò hoa: 300g; Bún: 600g; Chả bò: 100g; Cà chua chín 100g ( 1 trái ); Rau muống: 50g; Hành tây: 50g (nửa củ); Bắp chuối: 50g; Giá: 50g; Rau thơm: 50g; Dầu điều: 30g (2M); Gia vị nêm sẵn Aji-Quick® Bún riêu cua : 54g (1 gói); Nước mắm: 8ml (1M); Hạt nêm: 2.5g (1/2 muỗng cf); Đường: 10g (2m); Hạt nêm Aji-ngon® Heo; Giấm gạo lên men Ajinomoto",
+      "thuchien": {
+        "b1": "Bắp bò cắt lát thật mỏng ngang sớ. Cà chua cắt múi to. Hành tây cắt mỏng ngang củ, rau răm, ngò gai cắt nhỏ.",
+        "b2": "Bắt chảo cho 2M dầu điều đun nóng, phi 2M hành tỏi cho thơm, cho cà chua vào xào.",
+        "b3": "Đun 1,5 L nước sôi cho gói gia vị Gia vị nêm sẵn Aji-Quick® Bún riêu cua, thêm cà chua vào nấu 5 phút cho thêm 2M Giấm gạo lên men Ajinomoto, 1M nước mắm vào.",
+        "b4": "Trụng bún cho nóng đặt vào tô, thêm chả bò lên trên, trụng bắp bò cho vào tô, chan nước dùng nóng, rắc lên hành tây, ngò gai, ớt. Khi ăn dọn kèm giá, rau thơm, chanh ớt. Mắm tôm tùy thích."
+      },
+      "luuy": "Mách Nhỏ: Trụng thịt bò vừa chín để thịt giữ độ mềm và ngọt. Tuỳ theo ý thích, có thể thêm giấm vào tạo vị chua thơm cho món ăn. Sử dụng gói Gia vị nêm sẵn Aji-Quick® Bún riêu cua cho vị riêu cua chuẩn vị, nhanh gọn.",
+      "menu": "",
+      "list": ""
+    },
+    {
+      "id" : 95,
+      "name": "Bò cuộn rong biển",
+      "img": "",
+      "review": "Món bò cuộn rong biển vị đậm đà, vừa ăn, thơm ngon từ thịt bò kết hợp với rong biển. Cách làm bò cuộn chắc, không bị bỏ, màu sắc đẹp mắt hấp dẫn tự nhiên của rong biển. Món ăn bao gồm các nguyên liệu giúp hỗ trợ xây dựng khối cơ xương, rất phù hợp cho thanh thiếu niên dưới 25 tuổi.",
+      "nguyenlieu": "M: muỗng canh - m: muỗng cafe; Bò xay: 200g; Thanh cua: 200g; Rong biển lá khô: 3 lá (12g); Hành tây: 1/2 củ (40g); Đậu phộng: 1/2m (6.5g); Gói bột chiên giòn: 2M; Xà lách: 3/4 bắp (60g); Tiêu: 1/2m; Tỏi băm: 1/2m; Hành lá: 1 nhánh; Dầu ăn: 1M (10g); Xốt Mayonnaise Aji-mayo® Vị Nguyên Bản: 20g; Nước tương: 1M (13g); Xốt Mayonnaise Aji-mayo® Vị Nguyên Bản; Gia vị nêm sẵn Aji-Quick® Bột tẩm khô chiên giòn",
+      "thuchien": {
+        "b1": "Hành tây cắt hạt lựu, hành lá cắt nhỏ.",
+        "b2": "Thanh cua chẻ làm 3 theo chiều dọc.",
+        "b3": "Rong biển, cắt làm 6.",
+        "b4": "Trộn nhân: cho bò xay, hành tây cắt hạt lựu, 2M Aji-Quick® BỘT TẨM KHÔ CHIÊN GIÒN, 1/2m tiêu xay, 1M dầu ăn.",
+        "b5": "Cuộn rong biển với nhân: Trải rong biển ra mâm, cho thịt đã ướp, thanh cua vào phần rong biển rồi cuộn lại như cuộn bò lá lốt. Cuộn lần lượt cho đến khi hết thịt.",
+        "b6": "Áp chảo: Cho khoảng 1M dầu ăn vào chảo với lửa nhỏ, khi dầu nóng thì cho lần lượt từng cuốn rong biển vào áp chảo. Quan sát thấy thịt bò thơm lên và rong biển co lại thì trở mặt, áp chảo cho đến khi cuộn rong biển vàng đều ( khoảng 5 phút ).",
+        "b7": "Pha sốt: Cho vào tô 3M Xốt Mayonnaise Aji-mayo® Vị Nguyên Bản, 1M Nước tương “Phú Sĩ”, 1/2m tỏi băm nhuyễn, 1/2m tiêu rang thơm giã nhuyễn.",
+        "b8": "Dầu hành: 2M cho hành lá cắt nhỏ vào chén, thêm 1M dầu ăn nóng vào.",
+        "b9": "Xếp xà lách lên dĩa, cho cuộn rong biển vào, rắc đậu phông rang giã lên trên, rưới thêm dầu hành. Chấm kèm với Xốt Mayonnaise Aji-mayo® Vị Nguyên Bản Nước tương “Phú Sĩ”."
+      },
+      "luuy": "Mách Nhỏ: Chọn thịt bò xay có lẫn mỡ sẽ giúp món ăn ngon hơn. Dùng gói gia vị nêm sẵn Aji-Quick® BỘT TẨM KHÔ CHIÊN GIÒN bước trộn nhân giúp món ăn tăng hương vị, ngon hơn.",
+      "menu": "",
+      "list": ""
+    },
+    {
+      "id" : 96,
+      "name": "Xúc xích dưa cải",
+      "img": "",
+      "review": "Xúc xích nở bung đẹp mắt, rau củ vừa chín tới giữ được độ giòn. Màu sắc bắt mắt từ màu xanh tươi của dưa cải, ớt chuông và màu xúc xích chín đẹp mắt. Xúc xích dưa cải vị vừa ăn, hòa lẫn mùi xông khói của xúc xích với các nguyên liệu khác.",
+      "nguyenlieu": "M: muỗng canh - m: muỗng cafe; Xúc xích Đức: 400g; Dưa cải: 1 cây; Hành tây tím: 1/2 củ nhỏ; Ớt chuông đỏ, vàng: 1/2 quả/loại; Hành boa-rô: 1/2 cây; Tỏi băm: 1M; RAU NÊM: Ngò rí; ĂN KÈM: Nước tương, ớt xắt; Gia vị: Dầu ăn, dầu mè, tiêu, đường; Nước tương "Phú Sĩ"; Hạt nêm Aji-ngon® Heo",
+      "thuchien": {
+        "b1": "Xúc xích chần qua nước nóng, xả qua nước lạnh cắt miếng vừa ăn.",
+        "b2": "Dưa cải thân lá cắt nhỏ để riêng.",
+        "b3": "Hành tây tím cắt múi cau, hành boa-rô cắt xéo dày 5 ly dài 3cm.",
+        "b4": "Ớt chuông cắt miếng cạnh 3cm.",
+        "b5": "Phi thơm 1M tỏi cho xúc xích và các loại rau vào xào chín. Nêm 1m Hạt nêm Aji-ngon® HEO, 1m đường, 1M nước tương “Phú Sĩ”, 1M dầu mè.",
+        "b6": "Cho ra đĩa rắc ít ngò, tiêu lên trên. Chấm thêm nước tương tùy vị.",
+      },
+      "luuy": "Mách Nhỏ: Chỉ chần xúc xích qua nước nóng (Không sôi) để xúc xích không bị rách màng bao bên ngoài. Có thể thay thế các loại rau quả tùy thích để chế biến cùng với xúc xích và dưa cải.",
+      "menu": "",
+      "list": ""
     }
   ]
 }
