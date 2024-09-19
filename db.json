@@ -1647,6 +1647,96 @@
       "luuy": "Mách Nhỏ: Chỉ chần xúc xích qua nước nóng (Không sôi) để xúc xích không bị rách màng bao bên ngoài. Có thể thay thế các loại rau quả tùy thích để chế biến cùng với xúc xích và dưa cải.",
       "menu": "",
       "list": ""
+    },
+    {
+      "id" : 97,
+      "name": "Cánh gà chiên lá chanh",
+      "img": "",
+      "review": "Cũng là cánh gà và lá chánh nhưng được biến tấu bằng phương pháp chiên đảm báo mang hương vị mới lạ cho bạn và gia đình. Cánh gà chiên với lá chanh ngon hết sẩy, với cánh gà chín đều màu nâu sáng. Vị ngọt của gà hòa quyện với mùi thơm đặc trưng của lá chanh tạo nên món ăn đậm đà, ngon ngây ngất. Cùng vào bếp thực hiện ngay món gà ngon này nhé!",
+      "nguyenlieu": "M: muỗng canh - m: muỗng cafe; Cách gà công nghiệp: 500g; Lá chanh: 10 lá (băm nhỏ 3 lá, cắt sợi 7 lá); Aji-Quick® BỘT TẨM KHÔ CHIÊN GIÒN: 1 gói; Ớt băm: 1 m; ĂN KÈM: Rau mầm 3 màu, cà chua bi; Gia vị: Dầu ăn; Xốt Mayonnaise Aji-mayo® Vị Ngọt Dịu; Gia vị nêm sẵn Aji-Quick® Bột tẩm khô chiên giòn",
+      "thuchien": {
+        "b1": "Cánh gà cắt làm 2, để ráo. Lá chanh lấy 3 lá băm nhỏ 1m, ớt băm nhỏ 1/2M. Ướp cánh gà với ớt băm và lá chanh băm. Tẩm Aji-Quick® BỘT TẨM KHÔ CHIÊN GIÒN vào cánh gà.",
+        "b2": "Bắc chảo dầu, cho lá chanh nguyên lá cắt sợi vào chiên vớt nhanh ra rồi cho cánh gà vào chiên tiếp cho cánh gà chín vừa. Vớt ra, 5 phút sau chiên lại vàng giòn lần 2, vớt ra, lót giấy thấm dầu.",
+        "b3": "Bày cánh gà chiên cùng lá chanh, rau mầm, cà bi, rắc ít lá chanh cắt sợi và ớt sừng băm lên trên. Chấm Xốt Mayonnaise Aji-mayo® Vị Ngọt dịu."
+      },
+      "luuy": "Mách Nhỏ: Tẩm thêm ớt và lá chanh băm giúp cánh gà thơm mùi đặc trưng. Chiên 2 lần để giữ độ giòn cho món ăn. Chiên lá chanh trước để dầu thơm lá chanh trước khi chiên cánh gà món ăn sẽ hấp dẫn hơn.",
+      "menu": "",
+      "list": ""
+    },
+    {
+      "id" : 98,
+      "name": "Đùi gà xốt kiểu Teriyaki",
+      "img": "",
+      "review": "Đùi gà xốt kiểu Teriyaki món ăn mang hương vị Nhật Bản sẽ đổi khẩu vị của gia đình trong những ngày cuối tuần. Thịt gà chín thơm ngon màu nâu caramel sáng bóng bắt mắt. Nước xốt teriyaki thấm vị đậm đà! Cùng vào bếp làm ngay món ngon này cho cả nhà thưởng thức nào!. ? Teriyaki là một phương pháp nấu ăn trong đó thực phẩm được nướng với một lớp men từ nước tương, rượu mirin và đường. Mặc dù món ăn gắn kết với ẩm thực Nhật Bản nhưng phương pháp nấu ăn này cũng thường được sử dụng ẩm thực tại một số nước châu Á khác như ẩm thực Trung Quốc, ẩm thực Indonesia và ẩm thực Thái Lan.",
+      "nguyenlieu": "M: muỗng canh - m: muỗng cafe; Đùi gà gốc 4, không xương bọng: 2 cái; Mirin: 30ml; Sake: 150ml; Gừng non: 1 nhánh nhỏ; Dừa xiêm: 1 quả; Hành lá: 1 nhánh nhỏ; Ớt sừng: 1 quả; ĂN KÈM: Cơm; Gia vị: Dầu ăn; Nước tương "Phú Sĩ"; Gia vị nêm sẵn Aji-Quick® Bột tẩm khô chiên giòn",
+      "thuchien": {
+        "b1": "Đùi gà rửa sạch, rút xương, lọc bỏ phần mỡ, da thừa, khứa nhẹ 2 mặt (Phần da và phần thịt).",
+        "b2": "Gừng non cắt 3 lát 2mm còn lại cắt chỉ ngâm nước lạnh. Ớt, hàng lá cắt chỉ ngâm nước lạnh như gừng.",
+        "b3": "Chuẩn bị chảo nóng cho lớp mỏng dầu vào, tẩm từng miếng đùi gà qua Aji-Quick® BỘT TẨM KHÔ CHIÊN GIÒN cho vào chiên vàng 2 mặt. Trút bỏ hết dầu, thêm 2M Nước tương “Phú Sĩ”, mirin, sake, gừng lát và nước dừa vào xấp mặt thịt. Nấu lửa vừa đến khi nước sốt sánh sệt.",
+        "b4": "Cắt thịt gà thành miếng vừa ăn, cho ra đĩa rưới nước sốt lên trên, trang trí với hành gừng ớt sợi."
+      },
+      "luuy": "Mách Nhỏ: Khứa 2 mặt thịt đùi để thịt thấm vị và không bị thun lại sau khi rim. Chiên thịt gà trước rồi mới rim để món ăn được săn chắc và thơm hơn. Tẩm Aji-Quick® BỘT TẨM KHÔ CHIÊN GIÒN là đủ vị nên không cần ướp thêm gia vị vào thịt gà (Nếu dùng bột mì thì ướp thêm ít muối tiêu).",
+      "menu": "",
+      "list": ""
+    },
+    {
+      "id" : 99,
+      "name": "Cuốn chay đậu hũ rau rừng",
+      "img": "",
+      "review": "Món cuốn chay kết hợp với các loại rau tươi mát giải nhiệt mua nắng nóng. Món ăn lại giòn ngọt của củ hủ dừa và đậu hũ, màu sắc bắt mắt tươi mát. Cùng vào bếp làm ngay món cuốn chay đậu hũ rau rừng thơm ngon, dễ ăn lại đơn giản tại nhà nhé!",
+      "nguyenlieu": "M: muỗng canh - m: muỗng cafe; Đậu hủ trắng: 300g (2 miếng bìa lớn); Củ hũ dừa: 100g; Rau rừng: 100g; Bánh tráng mỏng: 80g (12 cái); Ớt hiểm: 1 trái; Boarô cắt lát: 1M; Nước tương "Phú Sĩ": 1M (16g); Đường: 1m (5g); Hạt nêm: 1/2m (1.5g); Bột ngọt: 1/3M (1.7g); Dầu ăn: 2M (20g); Tương đen: 1M (10g); Hạt nêm Aji-ngon® Nấm; Bột ngọt AJI-NO-MOTO®; Nước tương "Phú Sĩ"",
+      "thuchien": {
+        "b1": "Đậu hũ cắt sợi.",
+        "b2": "Củ hủ dừa cắt sợ, ngâm qua nước có vắt chanh",
+        "b3": "Phi thơm boarô với 2M dầu ăn, cho tiếp củ hủ dừa vào xào khoảng 3 phút, cho tiếp đậu hũ cắt sợi vào xào. Nêm 1/2m Hạt nêm Aji-ngon® NẤM, 1/2m bột ngọt, 1m đường, 1 ít tiêu.",
+        "b4": "Thấm ướt bánh tráng, thêm rau rừng, nhân đã xào vào, cuộn lại, cắt khúc vừa ăn.",
+        "b5": "Nước chấm: 1M dầu 1M đậu phộng xay 1M tương đen 1M nước tương, 1/3m bột ngọt , 1/2M tương ớt, 2m đường, 2M nước, 1m dầu mè.",
+        "b6": "Xếp cuốn ra dĩa, chấm nước chấm và ớt cắt lát."
+      },
+      "luuy": "Mách Nhỏ: Lựa chọn đa dạng các loại rau rừng sẽ giúp cho món ăn có hương vị đặc biệt hơn. Sử dụng củ hũ dừa giúp món ăn đặc sắc hơn.",
+      "menu": "",
+      "list": ""
+    },
+    {
+      "id" : 100,
+      "name": "Cupcake trứng muối chà bông phô mai",
+      "img": "",
+      "review": "Cách làm bánh cupcake trứng muối chà bông phô mai xốp mềm, thơm phô mai và trứng muối. Bánh màu vàng cam hấp dẫn, thơm béo và vị vừa ăn. Bánh cupcake trứng muối là một loại bánh ngọt nhỏ, có hình dạng giống như một chiếc bánh nướng nhỏ, thường được trang trí bằng kem, trứng muối và chà bông. Bánh có vị ngọt dịu rất hấp dẫn và rất dễ trang trí đẹp mắt, bánh thích hợp cho bé tự sáng tạo cùng mẹ khi trang trí món ăn.",
+      "nguyenlieu": "M: muỗng canh - m: muỗng cafe; Trứng muối: 4 quả; Chà bông: 50g; Trứng gà: 4 quả; Phô mai: 40g; Sữa tươi: 40g; Nước cốt chanh: 1m; Gia vị: dầu ăn, đường, muối; Bột bánh rán pha sẵn bữa sáng dinh dưỡng",
+      "thuchien": {
+        "b1": "Trứng muối lấy lòng đỏ, nướng sơ 10 phút với 170 độ, cắt làm 4.",
+        "b2": "Tách riêng lòng đỏ và lòng trắng trứng gà",
+        "b3": "Lòng trắng: Thêm 2M đường, ít muối, 1m nước cốt chanh, đấnh bông bằng máy đánh trứng.",
+        "b4": "Lòng đỏ: Trộn đều với 40g sữa tươi, 40g dầu ăn và 1 gói bột bánh rán bữa sáng dinh dưỡng.",
+        "b5": "Sau đó trộn nhẹ nhàng hỗn hợp lòng đỏ vào hỗn hợp lòng trắng đã đánh bông.",
+        "b6": "Dùng ly cupcake, múc 1 vá hỗn hợp và ly (khoảng nửa ly), sau đó cho phô mai, chà bông, trứng muối, tiếp tục đổ hỗn hợp bánh đầy ly. lần lượt làm đến hết các ly cupcake (14 ly).",
+        "b7": "Làm nóng là nướng ở 170 độ, cho bánh vào nướng 25 phút, lấy bánh ra thêm trứng muối, chà bông lên trên."
+        "b8": "Dùng nóng."
+      },
+      "luuy": "Mách Nhỏ: Rửa trứng muối với rượu và nướng sơ để trứng không bị tanh. Làm nóng lò nướng 10 phút khi nướng để bánh nở đều và đẹp.",
+      "menu": "",
+      "list": ""
+    },
+    {
+      "id" : 101,
+      "name": "Lươn nướng lá chanh",
+      "img": "",
+      "review": "Lươn chín vàng ươm, thơm mùi sả lá chanh. Màu vàng sem sém. Hương vị đậm đà. cay ngọt thơm mùi lá chanh.",
+      "nguyenlieu": "M: muỗng canh - m: muỗng cafe; Thịt lươn: 300 g; Lá chanh: 10 lá; Sả xay: 2M; Tỏi xay: 1M; Ớt hiểm đỏ: 1m; Que xiên tre; Lò nướng điện hoặc than; Gia vị: Tiêu, đường, muối, dầu điều, tương ớt, nước mắm; Hạt nêm Aji-ngon® Heo; Nước tương "Phú Sĩ"; Bột ngọt AJI-NO-MOTO®.",
+      "thuchien": {
+        "b1": "Thịt lươn bụng vàng, lưng nâu, tươi sống, làm sạch, bỏ xương, cắt miếng dài 10-12 cm.",
+        "b2": "Lá chanh bánh tẻ, không già không non. 6 lá chanh cắt nhỏ.",
+        "b3": "Sả xay nhuyễn.",
+        "b4": "Tỏi xay nhuyễn.",
+        "b5": "Ớt hiểm đỏ xay nhuyễn.",
+        "b6": "Trộn gia vị: 1M sả băm, 1/2M tỏi, 1m ớt, 1/2m bột ngọt Bột ngọt AJI-NO-MOTO® , 1/2m Hạt nêm Aji-ngon® HEO, 1/2m đường, 1m lá chanh băm, 1/2m tiêu, 1M dầu điều, 1M tương ớt, 1m Nước tương “Phú Sĩ”, trộn đều các gia vị.",
+        "b7": "Ướp gia vị: Xiên 2 que song song theo chiều ngang miếng thịt lươn, rồi ướp hỗn hợp gia vị với lươn, Để 10 phút."
+        "b8": "Nướng: Nướng lươn với lửa vừa, đến khi lươn chín sem sém vàng và thơm.",
+        "b9": "Ăn kèm nước mắm đặc: 2M nước mắm, 1M đường, 1M nước lọc, 1m lá chanh băm, 1m nước cốt chanh, ớt hiểm băm."
+      },
+      "luuy": "Mách Nhỏ: Gia vị cần xay hoặc băm thật nhuyễn để ướp lươn dễ thấm đều và khi nướng không bị cháy. Xiên lươn theo chiều ngang và dứt khoát để định hình miếng thịt lươn khi nướng.",
+      "menu": "",
+      "list": ""
     }
   ]
 }
