@@ -1763,6 +1763,84 @@
       "luuy": "Mách Nhỏ: Uớp bột bắp để thịt bò không bị ra nước, giữ được độ ngọt. Xả mì udon dưới nước lạnh ngay sau khi luộc để giữ độ dai cho sợi mì.",
       "menu": "",
       "list": ""
+    },
+    {
+      "id" : 103,
+      "name": "Rau củ luộc và cơm chiên giòn chấm kho quẹt",
+      "img": "",
+      "review": "Món cơm chiên giòn ăn kèm rau củ, chấm với kho quẹt đang rất được ưa chuộng. Cùng Món Ngon Mỗi Ngày làm món rau củ luộc và cơm chiên giòn chấm kho quẹt cho gia đình thưởng thức nhé! Rau củ còn giữ độ giòn, cơm chiên giòn. Màu sắc hấp dẫn từ rau củ và cơm. Vị kho quẹt đậm đà, rất thích hợp khi dùng để chấm với các món ăn mà không mất thời gian nấu quá lâu.",
+      "nguyenlieu": "M: muỗng canh - m: muỗng cafe; Bông cải trắng : 100g; Cải thìa: 50g; Cà rốt: 50g; Đậu bắp: 50g; Cơm nguội: 150g; Gia vị: Dầu ăn, Gia vị nêm sẵn Aji-Quick® Bột Chiên Giòn; Xốt dùng ngay Kho Quẹt; Gia vị nêm sẵn Aji-Quick® Bột chiên giòn",
+      "thuchien": {
+        "b1": "Bông cải trắng tách nhỏ, ngâm rửa sạch. Cải thìa rửa sạch, cắt phần cuốn, tạo hình bông hoa, phần lá để riêng. Cà rốt bảo vỏ, tỉa hoa, cắt lát dày 0.5cm. Đậu bắp rửa sạch.",
+        "b2": "Luộc chín các loại rau củ, vớt ra để nguội. Xếp ra dĩa.",
+        "b3": "Cơm nguội trộn đều với 3M Gia vị nêm sẵn Aji-Quick® Bột Chiên Giòn, rồi cho vào túi zip/túi đựng thực phẩm cán mỏng đều. Sau đó cắt thành từng miếng vừa ăn.",
+        "b4": "Chiên cơm: đun nóng dầu ăn, cho các miếng cơm nguội đã cắt vào chiên chín vàng, vớt ra để ráo dầu.",
+        "b5": "Hâm nóng Xốt dùng ngay Kho Quẹt trong lò vi sóng 1 phút",
+        "b6": "Xếp các loại rau và cơm chay ra dĩa, khi ăn chấm Kho quẹt."
+      },
+      "luuy": "Mách Nhỏ: Cán mỏng cơm để khi chiên miếng cơm chiên sẽ giòn hơn. Dùng sản phẩm Xốt dùng ngay Kho Quẹt để tiết kiệm thời gian pha chế và đảm bảo được độ hài hòa của món ăn.",
+      "menu": "",
+      "list": ""
+    },
+    {
+      "id" : 104,
+      "name": "Gỏi cuốn tôm",
+      "img": "",
+      "review": "Gỏi cuốn tôm là món ăn truyền thống của Việt Nam. Món ăn này được làm từ tôm, bún cuốn kèm rau sống như xà lách, giá, hẹ, diếp cá, kinh giới, húng quế. Món cuốn đẹp đều tay, màu sắc hấp dẫn từ tôm và các loại rau. Bạn có thể thưởng thức gỏi cuốn tôm với xốt chấm thơm đậm đà từ Aji Xốt – Xốt mè rang.",
+      "nguyenlieu": "M: muỗng canh - m: muỗng cafe; Tôm: 200g (6 con); Bún: 200g; Bánh tráng: 96g; Xà lách: 100g; Giá: 50g; Hẹ: 50g; Dưa leo: 80g; Rau sống (diếp cá, kinh giới, húng quế): 100g; Xốt mè rang "Aji-Xốt"",
+      "thuchien": {
+        "b1": "Luộc tôm chín, bóc vỏ, bỏ đầu, bỏ chỏ lưng, chẻ đôi tôm theo chiều dọc.",
+        "b2": "Các loại rau lặt rửa sạch. Dưa leo cắt miếng mỏng dài khoảng 6cm.",
+        "b3": "Trứng đánh tan, chiên mỏng để nguội sau đó cắt sợi.",
+        "b4": "Cuốn gỏi cuốn: Thấm ướt bánh tráng, xà lách, bún, giá, dưa leo, trứng chiên, rau thơm và tôm, cuộn bánh tráng lại. Có thể cho thêm lá hẹ hoặc hoa ăn được bên ngoài cho đẹp.",
+        "b5": "Xếp gỏi cuốn tôm ra dĩa, khi ăn chấm kèm 4M Aji Xốt – Xốt mè rang."
+      },
+      "luuy": "Mách Nhỏ: Dùng khăn ẩm lót bên dưới bánh tráng để cuốn giúp dễ tạo hình và cuốn chặt tay hơn. Aji Xốt – Xốt mè rang phù hợp với các món salad và các món chấm.",
+      "menu": "",
+      "list": ""
+    },
+    {
+      "id" : 105,
+      "name": "Đậu hũ hấp trứng",
+      "img": "",
+      "review": "Đậu hũ hấp trứng là món ăn đơn giản và dễ làm hàng ngày trong gia đình. Công thức hướng dẫn nấu món ăn sao cho hỗn hợp trứng đậu hủ kết thành khối, mềm vừa ăn thơm ngon. Món ăn không quá đặc hay quá nhão, màu sắc hài hòa tự nhiên từ các nguyên liệu và đầy đủ dinh dưỡng từ: đậu hũ, cà rốt, trứng, thịt, bộp bắp, rò rí, hành, nước xốt đậm đà hòa quyện cùng bánh trứng, đậu hấp.",
+      "nguyenlieu": "M: muỗng canh - m: muỗng cafe; Đậu hủ non: 50g; Cà rốt: 30g; Trứng gà: 100g; Thịt nạc xay: 20g; Hành tím: 2 củ; Tỏi: 2 tép; Bột bắp: 2m; Hành lá: 1 cọng; Rượu sake/rượu trắng: 1m; RAU NÊM: Ngò rí, ớt sợi; Gia vị: Dầu ăn, muối, đường, dầu hào, tiêu; Hạt nêm Aji-ngon® Heo; Nước tương "Phú Sĩ"",
+      "thuchien": {
+        "b1": "Đậu hủ non chần qua nước sôi, cắt hạt lựu.",
+        "b2": "Cà rốt cắt hạt lựu.",
+        "b3": "Hành tím, tỏi băm nhuyễn.",
+        "b4": "Bột bắp pha với 2M nước, khuấy tan.",
+        "b5": "Hành lá cắt nhỏ.",
+        "b6": "Cho 1M dầu ăn phi thơm hành tỏi băm, cho ra chén/tô.".
+        "b7": "Cho trứng, đậu hũ, 1m hạt nêm Aji-Ngon heo, 1m dầu hành tỏi phi, 1m nước tương, 1/2m đường, tiêu xay, 1m sake, 50ml nước. Khuấy đều.",
+        "b8": "Cho hỗn hợp trứng đậu vào khuôn hoặc bất kỳ dụng cụ sứ sâu lòng tùy ý. Hấp cách thủy ở lửa trung bình 15-17 phút.",
+        "b9": "Cho 1m dầu hành tỏi phi,cho thịt vào xào đến khi tái, thêm cà rốt, hành lá, 1m hành tỏi phi, 1/2m dầu hào, 1/2m đường, 1m hạt nêm. Xào đến khi thịt chín thấm gia vị. Thêm 50ml nước nấu cho sôi, thêm bột bắp nấu đến khi hỗn hợp sánh sệt, thêm ít tiêu hoàn tất."
+        "b10": "Cho hỗn hợp xốt lên mặt đậu hũ, trứng đã hấp. Trang trí thêm ngò rí, ớt sợi."
+      },
+      "luuy": "Mách Nhỏ: Chần đậu qua nước sôi để đậu sạch loại bỏ nước chua bên ngoài, đậu dai chắc hơn. Thêm ít rượu sake để khử mùi tanh của trứng. Điều chỉnh lượng nước và trứng để có độ mềm như ý.",
+      "menu": "",
+      "list": ""
+    },
+    {
+      "id" : 106,
+      "name": "Cơm gạo lứt trộn",
+      "img": "",
+      "review": "Cơm gạo lứt trộn là món ăn vừa bổ dưỡng vừa ngon miệng. Công thức món ăn sử dụng gạo lứt, cà rốt, bắp mỹ, đậu cove và nấm đông cô tươi rất thích hợp cho chị em ăn kiêng mà lại rất ngon. Cơm gạo lứt sau khi nấu ngon, thơm dịu. Cơm kết hợp với các loại rau củ tươi ngọt thanh mát bổ sung thêm nhiều lớp hương vị cho món cơm thuần túy khiến món ăn trở nên hấp dẫn hơn bao giờ hết. Chúc bạn ngon miệng!",
+      "nguyenlieu": "M: muỗng canh - m: muỗng cafe; Gạo lứt: 100g; Gạo thường: 50g; Tỏi: 3 tép; Hành tím: 2 củ; Cà rốt: 50g; Bắp Mỹ: 1/3 trái; Đậu Pháp (cove Nhật): 50g; Nấm đông cô tươi: 20g; RAU NÊM: Hành lá, ngò rí; ĂN KÈM: Món mặn từ thịt gà; Gia vị: muối; Nước tương "Phú Sĩ"; Hạt nêm Aji-ngon® Nấm",
+      "thuchien": {
+        "b1": "Gạo lứt vo sạch, ngâm với 200ml nước trong vòng 20 phút.",
+        "b2": "Gạo thường vo sạch.",
+        "b3": "Tỏi, hành tím băm nhuyễn.",
+        "b4": "Cà rốt cắt hạt lựu.",
+        "b5": "Bắp Mỹ tách lấy hạt.",
+        "b6": "Đậu tước sơ cắt nhỏ 5mm.".
+        "b7": "Nấm đông cô tươi bỏ gốc, rửa nhanh dưới vòi nước lạnh, cắt hạt lựu.",
+        "b8": "Sau khi chín, cho hành lá vào trộn đều. Cho hành tỏi phi vào trộn đều cùng cơm.",
+        "b9": "Trộn đều cơm với hỗn hợp rau củ, trang trí thêm ngò rí, ăn kèm nước tương “Phú Sĩ”."
+      },
+      "luuy": "Mách Nhỏ: Cho thêm dầu ăn vào lúc nấu cơm để hạt cơm bóng đẹp. Lúc luộc mở nắp cho rau xanh. Ngâm gạo lứt trước khi nấu, để hạt gạo mềm, dễ ăn.",
+      "menu": "",
+      "list": ""
     }
   ]
 }
