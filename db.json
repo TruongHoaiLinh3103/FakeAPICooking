@@ -1737,6 +1737,32 @@
       "luuy": "Mách Nhỏ: Gia vị cần xay hoặc băm thật nhuyễn để ướp lươn dễ thấm đều và khi nướng không bị cháy. Xiên lươn theo chiều ngang và dứt khoát để định hình miếng thịt lươn khi nướng.",
       "menu": "",
       "list": ""
+    },
+    {
+      "id" : 102,
+      "name": "Mì udon xào bò",
+      "img": "",
+      "review": "Công thức hướng dẫn làm mì udon xào bò là món ăn ngon và dễ làm. Đầu bếp sẽ hướng dẫn bạn cách làm món mì xào sao cho sợi mì không nát, rau, thịt bò giữ được độ ngọt và không bị cháy, an toàn cho sức khoẻ. Món ăn đẹp mắt khi xào rau củ giữ được màu sắc tươi ngon. Thịt bò chín mềm, cùng với rau củ tươi giòn tạo nên một món ăn hấp dẫn cho bữa cơm của bạn.",
+      "nguyenlieu": "M: muỗng canh - m: muỗng cafe; Thịt nạc bò mềm: 150g; Mì udon: 200g; Cà rốt: 70g (3/4 củ); Nấm đông cô tươi: 30g (6 tai); Hành tây Đà Lạt: 60g (1/2 củ); Ớt chuông xanh: 70g (1/2 trái nhỏ); Tỏi lột vỏ: 3 tép; Hành lá: 1 cọng; Bột bắp: 4g; RAU NÊM: Ngò rí; Gia vị: Nước tương, dầu hào, dầu mè, đường, tiêu; Bột ngọt AJI-NO-MOTO®",
+      "thuchien": {
+        "b1": "Thịt nạc bò mềm luộc chín, để ráo nước bán sẵn siêu thịt dạng đông lạnh hoặc khô.",
+        "b2": "Mì udon cắt lát mỏng.",
+        "b3": "Cà rốt cắt sợi.",
+        "b4": "Nấm đông cô tươi bỏ gốc, cắt sợi vừa ăn.",
+        "b5": "Hành tây Đà Lạt cắt múi cau.",
+        "b6": "Ớt chuông xanh băm nhuyễn.",
+        "b7": "Tỏi lột vỏ cắt sợi."
+        "b8": "Hành lá cắt nhuyễn.",
+        "b9": "Bột bắp pha loãng với 3M nước lọc.",
+        "b10": "Ướp bò với 1/2m nước tương,1/2m Bột ngọt Ajinomoto, 1/2m dầu hào,1m bột bắp, 1/2m dầu mè, tiêu.",
+        "b11" : "Xốt xào: 1/2m nước tương, 1/2m Bột ngọt Ajinomoto, 1/2m dầu hào, 1m đường.",
+        "b12" : "Xào thơm 1/2 lượng tỏi băm, cho thịt bò xào chín vừa.",
+        "b13" : "Xào thơm 1/2 phần tỏi còn lại, cho cà rốt, nấm, hành tây, ớt chuông, 3m gia vị xốt vào xào nhanh. Cho tiếp mì đã luộc & thêm hành lá cắt nhuyễn vào trộn nhanh tay. Cho ra dĩa.",
+        "b14" : "Cho mì ra dĩa, thêm bò, rau trên măt, trang trí thêm ngò rí."
+      },
+      "luuy": "Mách Nhỏ: Uớp bột bắp để thịt bò không bị ra nước, giữ được độ ngọt. Xả mì udon dưới nước lạnh ngay sau khi luộc để giữ độ dai cho sợi mì.",
+      "menu": "",
+      "list": ""
     }
   ]
 }
