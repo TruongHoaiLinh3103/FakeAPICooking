@@ -1841,6 +1841,101 @@
       "luuy": "Mách Nhỏ: Cho thêm dầu ăn vào lúc nấu cơm để hạt cơm bóng đẹp. Lúc luộc mở nắp cho rau xanh. Ngâm gạo lứt trước khi nấu, để hạt gạo mềm, dễ ăn.",
       "menu": "",
       "list": ""
+    },
+    {
+      "id" : 107,
+      "name": "Cá hồi lúc lắc",
+      "img": "",
+      "review": "Cá hồi lúc lắc là một món ăn ngon và độc đáo. Món này được biến tấu từ món bò lúc lắc quen thuộc, với vị ngọt bùi của cá hồi và hương thơm tự nhiên của ớt chuông, hành tây, gừng và các loại rau ăn kèm theo sẽ mang đến cho bạn những bữa cơm gia đình lạ miệng mà vô cùng hấp dẫn.",
+      "nguyenlieu": "M: muỗng canh - m: muỗng cafe; Cá hồi fillet: 250; Ớt chuông vàng: 60 (1/2 quả); Hành tây tím: 25 (1/4 củ); Tỏi: 3 tép; Hành tím: 2 củ.; Gừng: 5g; Ớt sừng: 1 quả; Sữa tươi không đường: 50ml; RAU NÊM: Ngò rí; ĂN KÈM: Xà lách/ dưa leo / cà chua; Gia vị: Dầu ăn, nước mắm, nươc tương, dầu hào, đường, dầu mè; Hạt nêm Aji-ngon® Gà; Gia vị nêm sẵn Aji-Quick® Bột tẩm khô chiên giòn; Giấm gạo lên men Ajinomoto",
+      "thuchien": {
+        "b1": "Cá hồi fillet để phần da, cắt miếng vuông vừa ăn.",
+        "b2": "Ớt chuông vàng chẻ đôi, bỏ hạt cắt xéo 2cm.",
+        "b3": "Hành tây tím 25 cắt múi cau.",
+        "b4": "Tỏi, hành tím, gừng băm nhuyễn.",
+        "b5": "Ớt sừng cắt hình thoi cạnh 2cm",
+        "b6": "Ngâm cá qua sữa tưới 30 phút vớt ra để ráo. Ướp cá với 1m nước tương, 1/2m dầu mè, tiêu trong 15 phút.".
+        "b7": "Nấm đông cô tươi bỏ gốc, rửa nhanh dưới vòi nước lạnh, cắt hạt lựu.",
+        "b8": "Pha xốt: 1/2m nước tương, 1/4m dầu hào, tiêu, 1/2m dầu mè, 1/2m giấm+ 2M nước.",
+        "b9": "Áo cá qua lớp mỏng bột Aji khô chiên giòn. Chiên ngập dầu lửa lớn đến khi cá vừa chín, trút ra để ráo dầu. Cho 1M dầu ăn vào lại chảo, xào thơm gừng, tỏi cho ớt chuông, hành tây, ớt sừng vào xào chín. Thêm cá hồi, nước xốt, hành lá vào sốc đều. Kiểm tra vị vừa ăn.",
+        "b10": "Xếp cà chua/ salad vào dĩa, cho cá hồi lúc lắc lên trên. Thả vài cọng ngò rí trên cùng."
+      },
+      "luuy": "Mách Nhỏ: Ngâm cá qua sữa tươi để khử mùi tanh của cá mà không làm ảnh hưởng đến chất lượng, kết cấu của cá. Để nguyên da cá để thịt cá không bị vụn. Chiên cá với lửa lớn để cá chín cứng bên ngoài mềm bên trong.",
+      "menu": "",
+      "list": ""
+    },
+    {
+      "id" : 108,
+      "name": "Salad táo với hạt óc chó",
+      "img": "",
+      "review": "Các hoa quả cắt sắc cạnh đều nhau giữ được độ giòn. Xốt Mayo bám vào nguyên liệu. Màu sắc tự nhiên của nguyên liệu. Vị ngọt béo từ hoa quả và xốt Mayo, thơm mùi hạt óc chó rang. Cùng vào bếp làm món salad táo với hạt óc chó mới lạ lại tươi mát ngay nhé!",
+      "nguyenlieu": "M: muỗng canh - m: muỗng cafe; Táo Mỹ đỏ: 1 quả; Táo Mỹ xanh: 1 quả; Táo Mỹ vàng: 1 quả; Hạt óc chó ( walnut ): 150g; Cần tây: 1 bẹ; Nho Mỹ nâu: 200g; Chanh: 1 quả; ĂN KÈM: Bánh mì nướng; Gia vị: Muối, tiêu; Xốt Mayonnaise Aji-mayo® Vị Nguyên Bản",
+      "thuchien": {
+        "b1": "Cần tây bào vỏ cắt lát dày 5mm. Nho cắt đôi bỏ hạt. Các loại táo để vỏ bỏ hạt cắt 2cm2 ngâm nước pha ít nước cốt chanh. Tất cả giữ lạnh. Hạt óc chó rang thơm để nguội, bẻ 1/4.",
+        "b2": "Vớt táo để ráo nước. Cho tất cả vào tô thêm 1/3m muối, 1/3m tiêu trộn thấm. Trút bớt nước, thêm 1 chén Xốt Mayonnaise Aji-mayo® Vị Nguyên Bản vào trộn đều.",
+        "b3": "Bày ra đĩa sâu lòng hoặc ly thủy tinh trang trí với ít lá xà lách, dùng lạnh kèm với bánh mì."
+      },
+      "luuy": "Mách Nhỏ: Cần tây bào vỏ và cắt mỏng hơn các nguyên liệu khác để cần tây không bị dai và thấm vị. Ngâm táo và cần tây vô nước pha cốt chanh để táo không bị thâm và tạo mùi thơm từ chanh. Trộn muối tiêu với táo cho thấm trước rồi mới trộn Xốt Mayonnaise Aji-mayo® Vị Nguyên Bản để món ăn không bị chảy nước, xốt bám vào nguyên liệu hơn.",
+      "menu": "",
+      "list": ""
+    },
+    {
+      "id" : 109,
+      "name": "Súp gấc nấm mỡ",
+      "img": "",
+      "review": "Súp gấc nấm mỡ có độ sánh vừa, xen lẫn nấm, cà rốt, … nước súp trong, củ năng giòn, nấm mềm. Màu của các nguyên liệu xen lẫn nhau trong nước súp có màu cam đỏ. Vị ngọt thơm của nấm và nước dùng, giòn giòn của củ năng, thơm boa-rô, giòn của củ năng, sần sật của nấm, giòn của tàu hũ ky.",
+      "nguyenlieu": "M: muỗng canh - m: muỗng cafe; Nước dùng rau củ: 1,2 L; Nấm mỡ nâu và nấm mỡ trắng: 150 g; Cà rốt: 50 g; Củ năng: 100 g; Tàu hũ ky: 40g; Gấc chín: 2M; Đậu hũ non: 1 miếng; Gia vị: Boa-rô cắt lát, tiêu, ngò rí, muối, đường, dầu ăn, bột năng 40g, dầu mè; Hạt nêm Aji-ngon® Nấm",
+      "thuchien": {
+        "b1": "Tàu hũ ky chiên phồng.",
+        "b2": "Gấc bóp cơm hạt 1 trái gấc với 1M rượu trắng, 1M dầu ăn lấy màu gấc.",
+        "b3": "Đậu hũ non cắt vuông 1cm",
+        "b4": "Nấm rửa sạch, lau ráo, cắt lát. Củ năng, cà rốt cắt sợi nhỏ. Boa-rô cắt lát xéo. Bắc chảo với 3M dầu cho boa rô vào phi vàng thơm. Vớt boa rô ra, còn dầu còn lại xào nấm vào cho thơm + 1/2 m hạt nêm, ít tiêu.",
+        "b5": "Nấu sôi nước dùng.",
+        "b6": "Múc 1 chén nước dùng, hoà tan riêng với 2M màu gấc, rồi rây qua, sau đó cho màu nước gấc vào nồi nước dùng.".
+        "b7": "Nước dùng sôi lại lần lượt cho cà rốt, củ năng, sau đó cho nấm vào. Nêm lần lượt lại nước dùng: 1.5m muối, 1/2M đường, 1.5M Hạt nêm Aji-ngon® NẤM, 1m dầu mè cho. Khuấy ít nước bột năng cho súp sánh vừa.",
+        "b8": "Múc súp ra tô, cho ít ngò, rắc tiêu, poa rô phi, tàu hũ ky chiên lên mặt. Dùng nóng."
+      },
+      "luuy": "Mách Nhỏ: Xào nấm với dầu phi boa-rô để nấm thơm ngon hơn. Rây nước gấc để nước súp mịn, không bị lợn cợn. Chọn củ năng tươi, vỏ bóng, to chắc, ruột trắng giòn mới ngon.",
+      "menu": "",
+      "list": ""
+    },
+    {
+      "id" : 110,
+      "name": "Đùi dê quay",
+      "img": "",
+      "review": "Đùi dê quay chín mềm không khô. Màu vàng nâu thịt nướng đặc trưng, không bị cháy khét. Dậy mùi thơm đặc trưng thịt nướng, vị vừa ăn.",
+      "nguyenlieu": "M: muỗng canh - m: muỗng cafe; Đùi dê: 1 cái; Sả băm: 1M (Lấy phần lõi non); Tỏi xay: 2M (Không băm); Bột nướng thịt: 2M; Nước cốt dừa: 1 chén nhỏ; Hạt mắc khén: 1g; Hạt dỗi: 2 hạt; Gừng giã nhuyễn: 1 củ nhỏ (Gừng già); Ớt thóc xanh: 5 quả (Bỏ cuống); Ngò gai cắt nhỏ: 3 lá; Tắc : 1 quả; ĂN KÈM: Muối ớt sả và rau "rừng" như đọt xoài, đọt cốc, quế vị, sao nhái ...; Gia vị: Dầu điều 2M, muối, tiêu, đường, rượu trắng 30ml; Nước tương "Phú Sĩ"; Giấm gạo lên men Ajinomoto; Bột ngọt AJI-NO-MOTO®",
+      "thuchien": {
+        "b1": "Hòa rượu & gừng xát lên phần da để 15 phút. Ngâm ngập đùi dê trong nước muối 10% 2h. Lấy ra để ráo. Ướp đùi dê với 2M tỏi xay, 1M bột nướng thịt, 1/2M Bột ngọt AJI-NO-MOTO®, 2M Nước tương “Phú Sĩ”, 1/2m muối, 1m tiêu, 1 chén nước cốt dừa, 2M dầu điều để 2h.",
+        "b2": "Cho đùi dê vào lò nướng 180oC 15′, sau đó phết Giấm gạo lên men Ajinomoto lên phần da nướng tiếp 200oC đến khi thịt chín, tầm 45′.",
+        "b3": "Làm muối sả: rang thơm hạt dỗi, mắc khén và ớt thóc cho vào cối (tô) cùng với sả, ngò gai, 1m muối, 1m Bột ngọt AJI-NO-MOTO® giã nhuyễn. Khi ăn vắt thêm nước cốt tắc.",
+        "b4": "Bày nguyên đùi lên thớt + muối sả, rau. Dùng tới đâu cắt tới đó, chấm thêm muối sả tùy vị."
+      },
+      "luuy": "Mách Nhỏ: Xát rượu gừng lên phần da để 15 phút cho khử mùi dê.; Ướp với nước cốt dừa để thịt béo và dậy mùi thơm đặc trưng khi nướng. Ngâm nguyên đùi trong nước muối pha loãng để thịt thấm vị.",
+      "menu": "",
+      "list": ""
+    },
+    {
+      "id" : 111,
+      "name": "Pizza khoai tây",
+      "img": "",
+      "review": "Làm pizza chưa đầy 30’, không cần lò nướng vẫn ngon miễn bàn.​​​ Vỏ bánh thơm nức cùng phô mai kéo sợi đảm bảo ăn bao dính!",
+      "nguyenlieu": "M: muỗng canh - m: muỗng cafe; Khoai tây Đà lạt 250g (2 củ); Hành tây 30g (1/3 củ); Cà chua 50g (2/3 quả); Hành lá 1 cọng; Thịt nguội cắt lát 30g (2 lát); Phô mai Mozzarella 65g; Trứng 1 quả; RAU NÊM: Tuỳ ý: 3 lá quế tây (Basil) cắt sợi, 1/2m lá cọ xạ hương tươi; ĂN KÈM: Tương ớt/ tương cà; Gia vị: Dầu ăn, muối, tiêu, đường, tương cà; Hạt nêm Aji-ngon® Heo; Gia vị nêm sẵn Aji-Quick® Bột tẩm khô chiên giòn",
+      "thuchien": {
+        "b1": "Khoai tây bào sợi, rửa sạch để ráo.",
+        "b2": "Hành tây cắt hạt lựu.",
+        "b3": "Cà chua cắt khoanh 3mm.",
+        "b4": "Hành lá cắt nhuyễn.",
+        "b5": "Thịt nguội cắt vuông 2cm.",
+        "b6": "Phô mai Mozzarella bào sợi.".
+        "b7": "Xào hành tây với ít dầu đến khi trong, để nguội. Cho hành tây, khoai tây, trứng, 1/4m Aj heo, tiêu xay, lá xạ hương tươi & quế tây, 2M bột tẩm khô chiên giòn, trộn đều.",
+        "b8": "Cho lớp mỏng dầu ăn vào chảo đường kính 20cm, cho hỗn hợp trên vào trải dẻ đều, chiên đến khi vàng nâu hai mặt. Cho thêm 2M tương cà dàn đều mặt bánh. Lần lượt xếp ham, cà chua, phô mai. Đậy nắp lại chiên thêm 3 phút. Thêm hành lá cắt nhuyễn lên mặt",
+        "b9": "Cho bánh ra dĩa, ăn kèm tương cà/ tương ớt tùy vị"
+      },
+      "luuy": "Mách Nhỏ: Rửa khoai tây với nước để khoai. Chiên ở lửa nhỏ để bánh vàng, giòn.",
+      "menu": "",
+      "list": ""
     }
+
   ]
 }
