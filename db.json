@@ -1935,7 +1935,43 @@
       "luuy": "Mách Nhỏ: Rửa khoai tây với nước để khoai. Chiên ở lửa nhỏ để bánh vàng, giòn.",
       "menu": "",
       "list": ""
+    },
+    {
+      "id" : 112,
+      "name": "Pancake chocolate trái cây nhiệt đới",
+      "img": "",
+      "review": "Lát bánh xốp mềm, quyện sốt caramel thơm lừng; kết hợp cùng trái cây tươi chua chua ngọt ngọt. Đảm bảo chỉ muốn ăn mãi thôi.",
+      "nguyenlieu": "M: muỗng canh - m: muỗng cafe; Táo: 1/2quả; Kiwi: 1 quả; Dâu: 1 quả; Rượu Rum: 1m; Bơ lạt: 10g; Whipping cream: 15ml; Đường: 20g; Bột bánh rán pha sẵn vị Sô-Cô-La",
+      "thuchien": {
+        "b1": "Táo bỏ vỏ,cắt vuông 1cm.",
+        "b2": "Kiwi bỏ vỏ,cắt vuông 1cm.",
+        "b3": "Dâu cắt đôi.",
+        "b4": "Cho 35ml nước vào 75g bột pancake, khuấy đều đến khi hỗn hợp mịn.",
+        "b5": "Nướng bánh theo hướng dẫn trong bao bì.",
+        "b6": "Làm caramel: cho 10g đường, 1m nước lọc thắng tan chảy, đến khi hỗn hợp có màu nâu nhạt, tắt bếp cho từ từ 15ml whipping cream khuấy đều. Sau đó cho thêm 15g bơ lạnh & 1m rượu Rum tiếp tực khuấy tan đều.".
+        "b7": "Phết caramel lên mặt bánh pancake, xếp lần lượt bánh chồng lên nhau. Cho trái cây lên mặt bánh cuối cùng, rưới xốt caramel đều trên mặt trái cây."
+      },
+      "luuy": "Mách Nhỏ: Thắng caramel ở lửa nhỏ. Chọn loại trái cây ít đường, vị chua nhẹ mix sẽ hài hòa hơn.",
+      "menu": "",
+      "list": ""
+    },
+    {
+      "id" : 113,
+      "name": "Lẩu Thái và hoa",
+      "img": "",
+      "review": "Lẩu Thái và hoa món lẩu mới mang hương vị đặc trưng của Thái. Món lẩu đặc sắc với viên cá thác lác giòn dai kết hợp với vị ngọt của tôm và các loại hoa thơm giòn đặc trưng của Việt Nam. Cùng vào bếp làm ngay món mới kết hợp ẩm thực Thái Lan và Việt Nam cuối tuần này cho gia đình thưởng thức thôi nào!",
+      "nguyenlieu": "M: muỗng canh - m: muỗng cafe; Cá thác lác: 300 g; Tôm sú: 300 g; Bông điên điển: 100g; Bông so đũa: 100g; Bông hẹ: 100g; Bông bí: 100g; Bông súng: 100g; Nấm rơm búp: 100g; RAU NÊM: Cần tàu, húng quế, ngò gai, rau om, ớt hiểm xanh đỏ, sả cây; ĂN KÈM: Bún tươi; Gia vị: nước mắm, dầu ăn, tỏi băm; Hạt nêm Aji-ngon® Heo; Gia vị nêm sẵn Aji-Quick® Lẩu Thái",
+      "thuchien": {
+        "b1": "Sơ chế các loại hoa và rau nêm. Tán cá thác lác với 1m tỏi phi, 1m hạt nêm Aji-ngon Heo, 1m ớt sừng băm. Vo thành viên tròn nhỏ.",
+        "b2": "Nấm rơm xào với 1M dầu ăn, 1/3m hạt nêm Aji-ngon Heo, 1/3m tiêu",
+        "b3": "Nấu nước lẩu với gói Gia vị nêm sẵn Aji-Quick® LẨU THÁI, cho nấm vào. Đun sôi, cho tôm và cá vào, ít dầu tỏi phi, 1/2 rau thơm.",
+        "b4": "Bày 1 mẹt rau hoa các loại, 1 đĩa tôm và cá. Khi ăn nhúng các loại hoa, tôm cá vào nước lẩu sôi. Dọn kèm nước mắm, ớt cắt lát."
+      },
+      "luuy": "Mách Nhỏ: Tán cá thác lác cùng gia vị cho kỹ để tạo độ dai cho chả cá. Cho tôm, cá vào nước lẩu Thái đang sôi để giúp chín nhanh, giữ nước ngọt và khử tanh. Thêm tỏi phi tạo hương vị đặc trưng cho Lẩu Thái.",
+      "menu": "",
+      "list": ""
     }
+
 
   ]
 }
