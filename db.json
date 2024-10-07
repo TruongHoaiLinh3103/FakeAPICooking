@@ -114,7 +114,7 @@
       },
       "luuy": "",
       "menu": "phache",
-      "list": "Cocktail"
+      "list": "Nước-trái-cây"
     },
     {
       "id" : 8,
@@ -719,7 +719,7 @@
       },
       "luuy": "",
       "menu": "nauan",
-      "list": "Khác"
+      "list": "Hấp"
     },
     {
       "id" : 45,
@@ -860,7 +860,7 @@
       },
       "luuy": " Xào bacon vừa thơm và tươm mỡ, không quá giòn để món salad có cấu trúc tương đồng. Dưa leo ướp ít đường để giữ độ giòn của dưa, giúp món salad ngon hơn.",
       "menu": "nauan",
-      "list": "Xào"
+      "list": "Ngọt"
     },
     {
       "id" : 53,
@@ -1086,7 +1086,7 @@
       },
       "luuy": "Thêm 1 ít bột năng vào nhân thịt bò để thịt bò không bị khô và có độ kết dính sau khi áp chảo. Thêm 1 ít muối vào bột bánh rán để bánh có vị đậm đà hợp với nhân mặn. Sử dụng Bột bánh rán pha sẵn vị truyền thống để tiết kiệm thời gian.",
       "menu": "nauan",
-      "list": "Khác"
+      "list": "Nướng"
     },
     {
       "id" : 65,
@@ -1658,7 +1658,7 @@
       },
       "luuy": "Mách Nhỏ: Lựa chọn đa dạng các loại rau rừng sẽ giúp cho món ăn có hương vị đặc biệt hơn. Sử dụng củ hũ dừa giúp món ăn đặc sắc hơn.",
       "menu": "nauan",
-      "list": "Khác"
+      "list": "Hấp"
     },
     {
       "id" : 98,
@@ -1725,7 +1725,7 @@
       },
       "luuy": "Mách Nhỏ: Uớp bột bắp để thịt bò không bị ra nước, giữ được độ ngọt. Xả mì udon dưới nước lạnh ngay sau khi luộc để giữ độ dai cho sợi mì.",
       "menu": "nauan",
-      "list": "Súp"
+      "list": "Xào"
     },
     {
       "id" : 101,
@@ -1760,7 +1760,7 @@
       },
       "luuy": "Mách Nhỏ: Dùng khăn ẩm lót bên dưới bánh tráng để cuốn giúp dễ tạo hình và cuốn chặt tay hơn. Aji Xốt – Xốt mè rang phù hợp với các món salad và các món chấm.",
       "menu": "nauan",
-      "list": "Khác"
+      "list": "Hấp"
     },
     {
       "id" : 103,
@@ -1803,7 +1803,7 @@
       },
       "luuy": "Mách Nhỏ: Cho thêm dầu ăn vào lúc nấu cơm để hạt cơm bóng đẹp. Lúc luộc mở nắp cho rau xanh. Ngâm gạo lứt trước khi nấu, để hạt gạo mềm, dễ ăn.",
       "menu": "nauan",
-      "list": "Khác"
+      "list": "Xào"
     },
     {
       "id" : 105,
@@ -1825,7 +1825,7 @@
       },
       "luuy": "Mách Nhỏ: Ngâm cá qua sữa tươi để khử mùi tanh của cá mà không làm ảnh hưởng đến chất lượng, kết cấu của cá. Để nguyên da cá để thịt cá không bị vụn. Chiên cá với lửa lớn để cá chín cứng bên ngoài mềm bên trong.",
       "menu": "nauan",
-      "list": "Khác"
+      "list": "Kho"
     },
     {
       "id" : 106,
