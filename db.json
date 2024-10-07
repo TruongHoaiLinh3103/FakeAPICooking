@@ -49,7 +49,7 @@
       },
       "luuy": "Các bạn không nên lựa chọn loại gạo có nguồn gốc không rõ ràng, chứa chất bảo quản, có thể sẽ gây phản tác dụng đấy nhé. Khi vo gạo bạn chỉ vo đủ sạch, không nên bóp gạo quá kĩ sẽ làm mất chất dinh dưỡng bám trên vỏ cám. Nước gạo rang có thể dùng thêm với đá cho thơm mát.",
       "menu": "phache",
-      "list": "Khác"
+      "list": "Sữa"
     },
     {
       "id" : 4,
@@ -65,7 +65,7 @@
       },
       "luuy": "",
       "menu": "phache",
-      "list": "Khác"
+      "list": "Nước-trái-cây"
     },
     {
       "id" : 5,
@@ -81,7 +81,7 @@
       },
       "luuy": "Tuy thạch nha đam rất ngon và tốt nhưng bạn không nên ăn quá nhiều. Liều lượng thích hợp là từ 10g-20g mỗi ngày, dùng lâu dài với liều lượng thấp như vậy thì không có hại bạn nhé! Bạn có thể ướp đường phèn với đá và chia làm 2 vị: Màu xanh: vị trà xanh hoặc Màu vàng: vị chanh leo. Bạn có thể thêm một chút đá nếu thích, hoặc ăn thạch nha đam với sữa chua, cũng rất tuyệt vời.",
       "menu": "phache",
-      "list": "Khác"
+      "list": "Nước-trái-cây"
     },
     {
       "id" : 6,
@@ -97,7 +97,7 @@
       },
       "luuy": "",
       "menu": "nauan",
-      "list": "Cháo"
+      "list": "Súp"
     },
     {
       "id" : 7,
@@ -114,7 +114,7 @@
       },
       "luuy": "",
       "menu": "phache",
-      "list": "Khác"
+      "list": "Cocktail"
     },
     {
       "id" : 8,
@@ -150,7 +150,7 @@
       },
       "luuy": "",
       "menu": "nauan",
-      "list": "Mì Chay"
+      "list": "Súp"
     },
     {
       "id" : 10,
@@ -184,7 +184,7 @@
       },
       "luuy": "",
       "menu": "nauan",
-      "list": "Chiên Cơm-chiên"
+      "list": "Chiên"
     },
     {
       "id" : 12,
@@ -234,7 +234,7 @@
       },
       "luuy": "",
       "menu": "phache",
-      "list": "Sữa Kem Khác"
+      "list": "Sữa"
     },
     {
       "id" : 15,
@@ -249,7 +249,7 @@
       },
       "luuy": "",
       "menu": "phache",
-      "list": "Sữa Kem Khác"
+      "list": "Sữa"
     },
     {
       "id" : 16,
@@ -317,7 +317,7 @@
       },
       "luuy": "",
       "menu": "nauan",
-      "list": "Khác"
+      "list": "Muối"
     },
     {
       "id" : 20,
@@ -333,7 +333,7 @@
       },
       "luuy": "",
       "menu": "nauan",
-      "list": "Kho Chay"
+      "list": "Kho"
     },
     {
       "id" : 21,
@@ -351,7 +351,7 @@
       },
       "luuy": "",
       "menu": "nauan",
-      "list": "Kho Chay"
+      "list": "Kho"
     },
     {
       "id" :22,
@@ -383,7 +383,7 @@
       },
       "luuy": "",
       "menu": "nauan",
-      "list": "Mì"
+      "list": "Súp"
     },
     {
       "id" : 24,
@@ -416,7 +416,7 @@
       },
       "luuy": "",
       "menu": "phache",
-      "list": "Nước-ép-trái-cây"
+      "list": "Nước-trái-cây"
     },
     {
       "id" : 26,
@@ -432,7 +432,7 @@
       },
       "luuy": "",
       "menu": "nauan",
-      "list": "Khác"
+      "list": "Chiên"
     },
     {
       "id" : 27,
@@ -450,7 +450,7 @@
       },
       "luuy": "",
       "menu": "nauan",
-      "list": "Khác"
+      "list": "Kho"
     },
     {
       "id" : 28,
@@ -565,7 +565,7 @@
       },
       "luuy": "",
       "menu": "nauan",
-      "list": "Vặt Xào"
+      "list": "Xào"
     },
     {
       "id" : 35,
@@ -596,7 +596,7 @@
       },
       "luuy": "Một chú ý nho nhỏ cho bạn là để sinh tố của bạn ngon thì còn phù hợp ở lượng đường và sữa mà bạn cho vào nữa nhé. Nếu cam chua thì bạn nên cho thêm đường và sữa vào còn nếu cam ngọt rồi thì giảm bớt lượng đường, sữa đặc xuống nha.",
       "menu": "phache",
-      "list": "Sinh-tố"
+      "list": "Nước-trái-cây"
     },
     {
       "id" : 37,
@@ -611,7 +611,7 @@
       },
       "luuy": "",
       "menu": "phache",
-      "list": "Sinh-tố"
+      "list": "Nước-trái-cây"
     },
     {
       "id" : 38,
@@ -655,7 +655,7 @@
       },
       "luuy": "",
       "menu": "phache",
-      "list": "Sinh-tố"
+      "list": "Nước-trái-cây"
     },
     {
       "id" : 41,
@@ -719,7 +719,7 @@
       },
       "luuy": "",
       "menu": "nauan",
-      "list": "Nem-chả"
+      "list": "Khác"
     },
     {
       "id" : 45,
@@ -841,7 +841,7 @@
       },
       "luuy": "Xào cho củ năng, củ cải trắng và cà rốt chín 75% mới cho tiếp các nguyên liệu khác để chín đều. Cho nước cốt dừa vào sau và không nấu lâu để không bị vón cục. Kiểm tra củ năng không bị chua, bên ngoài khong bị nhớt.",
       "menu": "nauan",
-      "list": "Chay"
+      "list": "Kho"
     },
     {
       "id" : 52,
@@ -894,8 +894,8 @@
         "b6": "THỰC ĐƠN BỮA ĂN: Bữa phụ chiều"
       },
       "luuy": "Không nên nấu hỗn hợp kem sữa quá nóng để tránh giảm độ đông đặc của gelatine. Dùng Trà Matcha Sữa Blendy để bánh có hương vị độc đáo và màu sắc đẹp mắt.",
-      "menu": "phache",
-      "list": "Kem"
+      "menu": "nauan",
+      "list": "Ngọt"
     },
     {
       "id" : 55,
@@ -937,7 +937,7 @@
        },
       "luuy": "Chọn bắp sữa còn tươi mới, cuống lá còn xanh thì bắp sẽ ngon hơn. Thêm nước cốt dừa để cháo tăng vị béo thơm.",
       "menu": "nauan",
-      "list": "Cháo"
+      "list": "Súp"
     },
     {
       "id" : 57,
@@ -974,7 +974,7 @@
       },
       "luuy": "Dùng hạt nêm Aji-ngon Heo để món ăn đậm đà hơn. Chiên rám mặt khoai môn để nước lẩu sánh hơn. Dùng chao đỏ để màu sắc và mùi vị đặc trưng hơn.",
       "menu": "nauan",
-      "list": "Lẩu"
+      "list": "Súp"
     },
     {
       "id" : 59,
@@ -1012,7 +1012,7 @@
       },
       "luuy": "Không nên giã hạnh nhân quá nát để cảm nhận được hạnh nhân khi ăn. Dùng xốt mayonnaise Aji-mayo vị nguyên bản để pha xốt giúp xốt sánh quyện, tạo hương vị đặc trưng cho món ăn. Bỏ da cá hồi trong món ăn giúp món ăn đồng nhất và không bị tanh.",
       "menu": "nauan",
-      "list": "Xào"
+      "list": "Chiên"
     },
     {
       "id" : 61,
@@ -1051,7 +1051,7 @@
       },
       "luuy": "Xào thịt bò với lửa thật lớn để thịt bò mềm, vừa chín và có mùi thơm hấp dẫn. Ướp tỏi và gừng tạo mùi hương đặc trưng cho món phở bò tái lăn.",
       "menu": "nauan",
-      "list": "Mì"
+      "list": "Súp"
     },
     {
       "id" : 63,
@@ -1175,7 +1175,7 @@
       },
       "luuy": "Hấp khoai bằng lò vi sóng để tiết kiệm thời gian. Chọn khoai cau, củ tươi, nặng tay, chắc, vỏ bóng để có khoai ngon.",
       "menu": "phache",
-      "list": "Trà-sữa"
+      "list": "Trà"
     },
     {
       "id" : 70,
@@ -1192,7 +1192,7 @@
       },
       "luuy": " Xào nhanh sườn qua dầu đã phi boarô cho thơm. Chọn rau củ có nhiều màu sắc khác nhau, giúp món ăn vừa có nhiều chất dinh dưỡng tốt, vừa đẹp mắt. Dùng hạt nêm Aji-ngon Nấm để món ăn có mùi nấm đặc trưng",
       "menu": "nauan",
-      "list": "Chay"
+      "list": "Kho"
     },
     {
       "id" : 71,
@@ -1211,7 +1211,7 @@
       },
       "luuy": "Luộc thịt nạm bò với vài lát gừng, hành tím và sả giúp món ăn thơm ngon hơn. Dùng Gia vị nêm sẵn Aji-Quick Lẩu bò để tiết kiệm thời gian và món ăn có hương vị thơm ngon.",
       "menu": "nauan",
-      "list": "Lẩu"
+      "list": "Súp"
     },
     {
       "id" : 72,
@@ -1298,7 +1298,7 @@
       },
       "luuy": "Dùng muối hột và đường phèn để nước dùng có vị mặn ngọt thanh. Hòa trứng với rượu và nước bột năng để trứng mỏng, dai và không tanh. Dùng hạt nêm Aji-ngon(R) Gà để tăng hương vị gà đặc trưng.",
       "menu": "nauan",
-      "list": "Mì"
+      "list": "Súp"
     },
     {
       "id" : 77,
@@ -1414,8 +1414,8 @@
         "b7": "Cho hỗn hợp kem vào hộp để trong ngăn đá. Sau 3h lấy ra và dùng máy đáy trứng đánh thật đều rồi tiếp tục cho vào tủ lạnh. Làm như vậy khoảng 3, 4 lần. Kem sẽ bông xốp. Nếu bạn có máy làm kem thì việc làm kem sẽ trở nên đơn giản hơn. Chỉ cần cho hỗn hợp vào máy và sau 25- 35 phút sẽ có ngay món kem ngon tuyệt này."
       },
       "luuy": "",
-      "menu": "phache",
-      "list": "Kem"
+      "menu": "nauan",
+      "list": "Ngọt"
     },
     {
       "id" : 84,
@@ -1468,7 +1468,7 @@
       },
       "luuy": "",
       "menu": "phache",
-      "list": "Ca-cao"
+      "list": "Cà-phê"
     },
     {
       "id" : 87,
@@ -1502,7 +1502,7 @@
       },
       "luuy": "Mách Nhỏ: Trụng thịt bò vừa chín để thịt giữ độ mềm và ngọt. Tuỳ theo ý thích, có thể thêm giấm vào tạo vị chua thơm cho món ăn. Sử dụng gói Gia vị nêm sẵn Aji-Quick® Bún riêu cua cho vị riêu cua chuẩn vị, nhanh gọn.",
       "menu": "nauan",
-      "list": "Mì"
+      "list": "Súp"
     },
     {
       "id" : 89,
@@ -1539,7 +1539,7 @@
       },
       "luuy": "Mách nhỏ: Giữ lạnh hỗn hợp trà sau khi pha để đảm bảo độ lạnh của thức uống. Có thể thay chuối bằng loại hoa quả khác tùy thích.",
       "menu": "phache",
-      "list": "Trà-sữa"
+      "list": "Trà"
     },
     {
       "id" : 91,
@@ -1640,7 +1640,7 @@
       },
       "luuy": "Mách Nhỏ: Khứa 2 mặt thịt đùi để thịt thấm vị và không bị thun lại sau khi rim. Chiên thịt gà trước rồi mới rim để món ăn được săn chắc và thơm hơn. Tẩm Aji-Quick® BỘT TẨM KHÔ CHIÊN GIÒN là đủ vị nên không cần ướp thêm gia vị vào thịt gà (Nếu dùng bột mì thì ướp thêm ít muối tiêu).",
       "menu": "nauan",
-      "list": "Khác"
+      "list": "Chiên"
     },
     {
       "id" : 97,
@@ -1658,7 +1658,7 @@
       },
       "luuy": "Mách Nhỏ: Lựa chọn đa dạng các loại rau rừng sẽ giúp cho món ăn có hương vị đặc biệt hơn. Sử dụng củ hũ dừa giúp món ăn đặc sắc hơn.",
       "menu": "nauan",
-      "list": "Chay"
+      "list": "Khác"
     },
     {
       "id" : 98,
@@ -1725,7 +1725,7 @@
       },
       "luuy": "Mách Nhỏ: Uớp bột bắp để thịt bò không bị ra nước, giữ được độ ngọt. Xả mì udon dưới nước lạnh ngay sau khi luộc để giữ độ dai cho sợi mì.",
       "menu": "nauan",
-      "list": "Mì"
+      "list": "Súp"
     },
     {
       "id" : 101,
@@ -1802,7 +1802,7 @@
         "b9": "Trộn đều cơm với hỗn hợp rau củ, trang trí thêm ngò rí, ăn kèm nước tương “Phú Sĩ”."
       },
       "luuy": "Mách Nhỏ: Cho thêm dầu ăn vào lúc nấu cơm để hạt cơm bóng đẹp. Lúc luộc mở nắp cho rau xanh. Ngâm gạo lứt trước khi nấu, để hạt gạo mềm, dễ ăn.",
-      "menu": "",
+      "menu": "nauan",
       "list": "Khác"
     },
     {
@@ -1824,7 +1824,7 @@
         "b10": "Xếp cà chua/ salad vào dĩa, cho cá hồi lúc lắc lên trên. Thả vài cọng ngò rí trên cùng."
       },
       "luuy": "Mách Nhỏ: Ngâm cá qua sữa tươi để khử mùi tanh của cá mà không làm ảnh hưởng đến chất lượng, kết cấu của cá. Để nguyên da cá để thịt cá không bị vụn. Chiên cá với lửa lớn để cá chín cứng bên ngoài mềm bên trong.",
-      "menu": "",
+      "menu": "nauan",
       "list": "Khác"
     },
     {
@@ -1932,7 +1932,7 @@
       },
       "luuy": "Mách Nhỏ: Tán cá thác lác cùng gia vị cho kỹ để tạo độ dai cho chả cá. Cho tôm, cá vào nước lẩu Thái đang sôi để giúp chín nhanh, giữ nước ngọt và khử tanh. Thêm tỏi phi tạo hương vị đặc trưng cho Lẩu Thái.",
       "menu": "nauan",
-      "list": "Lẩu"
+      "list": "Súp"
     }
   ]
 }
