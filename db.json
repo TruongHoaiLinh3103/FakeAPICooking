@@ -1933,6 +1933,81 @@
       "luuy": "Mách Nhỏ: Tán cá thác lác cùng gia vị cho kỹ để tạo độ dai cho chả cá. Cho tôm, cá vào nước lẩu Thái đang sôi để giúp chín nhanh, giữ nước ngọt và khử tanh. Thêm tỏi phi tạo hương vị đặc trưng cho Lẩu Thái.",
       "menu": "nauan",
       "list": "Súp"
+    },
+    {
+      "id" : 112,
+      "name": "Cơm chiên kim chi",
+      "img": "",
+      "review": "Cơm chiên màu đỏ, điểm xuyết màu vàng xanh cực bắt mắt, thơm lừng mùi kim chi và nước tương, vị chua cay kích thích cùng với thịt bò mềm mọng, cực cuốn. Món cơm chiên kim chi dễ làm mà ngon hết ý. Vào bếp thử ngay!",
+      "nguyenlieu": "M: muỗng canh - m: muỗng cafe; Cơm gạo Thái hạt dài: 3 chén; Kimchi (ông Kim,chọn mẻ ngấu nhiều): 1 chén; Thịt bò fillet mềm: 200g; Trứng gà: 4 quả; Hành lá: 2 nhánh; Mè trắng rang: 1M; Tương ớt Hàn Quốc - Gochujang: 1M; Bắp hạt ( bắp Mỹ ) luộc: 1/2 chén; Tỏi băm: 2M; Rong biển khô Hàn Quốc cắt sợi: 1M; Gừng băm: 1m; Gia vị: Dầu ăn, dầu mè Hàn Quốc 1M; Bột ngọt AJI-NO-MOTO®; Nước tương "Phú Sĩ"",
+      "thuchien": {
+        "b1": "Cơm gạo Thái hạt dài nấu khô ráo dùng để chiên cơm.",
+        "b2": "Thịt bò fillet mềm cắt khối 5mm.",
+        "b3": "Kimchi cắt sợi ngang 3mm vắt ráo nước. Ướp thịt bò với 1m gừng, 1m Nước tương “Phú Sĩ”.",
+        "b4": "Hành lá cắt nhỏ đầu lá để riêng. Trứng chiên ốp la.",
+        "b5": "Phi thơm 1M tỏi với dầu ăn cho thịt bò vào xào chín tái trút ra để riêng. Thêm dầu vào chảo tiếp tục phi thơm phần tỏi còn lại với đầu hành.Thêm kimchi, bắp vào xào thơm, thêm3M tương ớt Hàn Quốc, nước kim chi hòa tan đều.",
+        "b6": "Cho cơm, 1m Bột ngọt AJI-NO-MOTO®, 1M Nước tương “Phú Sĩ” vào trộn đều nếm vị vừa ăn, chiên lửa vừa đến khi hạt cơm rám mặt. Cho thịt bò, hành lá, dầu mè vào xốc đều.",
+        "b7": "Cho cơm ra chén, nén chặt, úp ngược ra đĩa cho trứng ốp la trên trên, rắc ít mè trắng rang và rong biển khô trên cùng. Dùng nóng, chan thêm nước tương tùy vị."
+      },
+      "luuy": "Mách Nhỏ: Vắt ráo nước và xào kimchi trước để kimchi được thơm và không bị chua gắt. Cho nước kimchi vào để dễ hòa tan tương ớt hơn, trộn vào cơm sẽ đều hơn. Cho thêm dầu mè sau cùng để giữ được mùi thơm của dầu,tạo mùi đặc trưng món Hàn và hạt cơm sẽ bóng bẩy hơn.",
+      "menu": "nauan",
+      "list": ""
+    },
+    {
+      "id" : 113,
+      "name": "Gỏi cá kiểu Nhật",
+      "img": "",
+      "review": "Món gỏi cá là món ăn đã rất quen thuộc đối với người Việt Nam. Nhưng hôm nay, Món Ngon Mỗi Ngày xin giới thiệu công thức món gỏi cá mới mang phong cách hương vị Nhật Bản. Món gỏi cá lại vàng giòn, cá ngọt thấm gia vị ăn kèm rau xanh giòn ngọt dễ ăn.",
+      "nguyenlieu": "M: muỗng canh - m: muỗng cafe; Cá basa phi lê: 200g Ti; Rau tần ô: 400g; Củ cải trắng: 100g; Hành lá: 3 cây; Ớt sừng: 1/2 trái (cắt sợi); Cà rốt: 50g(cắt sợi); Hành tây: 1/4 củ (cắt lát); Mè trắng rang: 1m; Gia vị: Tiêu, đường, dầu ăn; Giấm gạo lên men Ajinomoto; Hạt nêm Aji-ngon® Heo; Gia vị nêm sẵn Aji-Quick® Bột chiên giòn; Nước tương "Phú Sĩ"",
+      "thuchien": {
+        "b1": "Rau tần ô lặt rửa sạch, lặt lá và cọng riêng, cắt khúc ngắn vừa ăn khoảng 5cm, chần cọng trong nước sôi trước rồi chần lá, trong nước nêm 1/2m Hạt nêm Aji-ngon® Heo, vớt ra xả nước lạnh, vắt ráo.",
+        "b2": "Củ cải trắng gọt vỏ, mài nhuyễn, vắt bớt nước. Hành lá phần đầu trắng băm nhuyễn, phần lá cắt nhỏ. Ớt sừng cắt sợi.",
+        "b3": "Cá basa cắt miếng vừa ăn, ướp với 1m Hạt nêm Aji-ngon® Heo, ½m tiêu và đầu hành băm, để thấm.",
+        "b4": "Pha nước trộn gỏi: Trộn đều 4M Nước tương “Phú Sĩ” với 2M đường, 2M Giấm gạo lên men Ajinomoto.",
+        "b5": "Cá ba sa tẩm Gia vị nêm sẵn Aji-quick bột chiên giòn để khô (không pha thêm nước) chiên giòn.",
+        "b6": "Trộn gỏi: Trộn đều tần ô, hành tây, cà rốt, cá, ớt sợi, hành lá, củ cải trắng. với nước trộn gỏi, xếp cá lên trên và rắc thêm mè.",
+        "b7": "Xếp gỏi cá basa ra dĩa, trang trí với ớt cắt sợi."
+      },
+      "luuy": "Mách Nhỏ: Vắt ráo rau để gỏi thấm đều vị. Chiên cá với bột chiên giòn để cá được định hình đẹp hơn. Chọn cá basa miếng to, dày thịt và có màu trắng trong sẽ ngon hơn.",
+      "menu": "nauan",
+      "list": ""
+    },
+    {
+      "id" : 114,
+      "name": "Chả bắp",
+      "img": "",
+      "review": "Cách làm món chả bắp thơm ngon hấp dẫn lại đơn giản. Món chả ăn dai, tôm và bắp có độ giòn ngọt tự nhiên, vị hài hoà. Màu vàng của bắp, màu đỏ của tôm,ớt và màu tự nhiên của giò sống tăng thêm sự hấp dẫn cho món ăn.",
+      "nguyenlieu": "M: muỗng canh - m: muỗng cafe; Giò sống: 200g; Tôm thẻ: 100g; Bắp mĩ: 1 trái; Đầu hành lá băm: 1M (cắt nhỏ); Tiêu: 1m; Ớt hiểm: 1 trái (băm nhuyễn); Tỏi băm: 1/2m (băm nhuyễn); Ớt sừng băm: 1M; RAU NÊM: Ngò rí; ĂN KÈM: Cơm trắng; Gia vị: Nước mắm; Giấm gạo lên men Ajinomoto; Bột ngọt AJI-NO-MOTO®; Hạt nêm Aji-ngon® Heo",
+      "thuchien": {
+        "b1": "Tôm thẻ lột vỏ, cắt nhỏ.",
+        "b2": "Bắp mĩ lột vỏ, giữ lại phần vỏ & rửa rạch, bắp bào hạt, xé lá bắp làm dây cột chả.",
+        "b3": "Trộn nhân: cho mọc, tôm, bắp mĩ, đầu hành lá băm, 1/3m tiêu, nêm 1m Hạt nêm Aji-ngon® HEO, 1/3m bột ngọt Ajinomoto, 1m ớt sừng băm, trộn đều.",
+        "b4": "Nhồi nhân: nhồi phần nhân vào vỏ trái bắp, sau đó dùng lá bắp cột lại.",
+        "b5": "Hấp: Hấp trong vòng 30 phút.",
+        "b6": "Pha nước chấm: trộn đều 5M nước, 2M đường, 1M giấm, 2M nước mắm, ớt băm, tỏi băm.",
+        "b7": "Cho chả ra dĩa, cắt khoanh, trang trí bằng ớt sừng cắt sợi và ngò rí. Chấm nước mắm tỏi ớt."
+      },
+      "luuy": "Mách Nhỏ: Dùng tay quết mạnh chả sẽ làm chả dai và ngon hơn. Để chả vào tủ mát 30 phút để tăng kết dính cho chả và dễ cuốn hơn. Dùng dây xé từ vỏ bắp cột vừa tay vì chả còn nở ra.",
+      "menu": "nauan",
+      "list": ""
+    },
+    {
+      "id" : 115,
+      "name": "Pancake chocolate mứt cam",
+      "img": "",
+      "review": "Bánh rán xốp mềm, đi cùng với hương thơm hài hòa của socola và cam, vị beo béo, ngòn ngọt, chua nhẹ tan trên đầu lưỡi, rất cuốn hút. Một món ăn dễ làm không thể bỏ qua dành cho Bé nhà mình.",
+      "nguyenlieu": "M: muỗng canh - m: muỗng cafe; Cam vàng: 2 quả; Whipping cream: 100g; Nước cốt chanh: 1/2M; Bột bánh rán pha sẵn vị Sô-Cô-La",
+      "thuchien": {
+        "b1": "Lạng vỏ cam, cắt sợi 2li, mài 1/2M vỏ để trộn vào bột bánh rán pha sẵn vị Sô-cô-la. Vắt lấy nước 1 quả cam. 1 quả tách múi để bày lên bánh.",
+        "b2": "Trụng vỏ cam sợi qua nước sôi, để ráo rồi ướp với 4M đường,1/2M nước cốt chanh, sên cho đến khi đường ráo và bám vào sợi vỏ cam.",
+        "b3": "Đánh kem: Đánh nổi whipping, cho vào túi bắt kem. Giữ trong tủ mát.",
+        "b4": "Làm bánh: Trộn nước cam với nước cho đủ lượng nước pha bột bánh rán pha sẵn vị Sô-cô-la, pha bột theo hướng dẫn, thêm 1/2M vỏ cam cắt nhỏ vào. Làm thành những cái bánh đều nhau.",
+        "b5": "Trình bày: Đặt 1 cái bánh ra đĩa, phết 1 lớp whipping, 1 ít miếng cam. Đặt thêm 1 cái bánh lên trên, xếp cam bên ngoài, bên trong dùng kem whipping tạo hình tháp. Trên cùng đặt vài sợi mứt cam.",
+        "b6": "Bày kèm mứt cam bên cạnh bánh để ăn kèm."
+      },
+      "luuy": "Mách Nhỏ: Trụng vỏ cam trước khi sên đường để giảm vị đắng. Để lạnh whipping trước khi đánh sẽ dễ nổi hơn.",
+      "menu": "nauan",
+      "list": ""
     }
   ]
 }
