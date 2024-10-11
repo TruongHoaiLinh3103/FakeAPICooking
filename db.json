@@ -2008,6 +2008,100 @@
       "luuy": "Mách Nhỏ: Trụng vỏ cam trước khi sên đường để giảm vị đắng. Để lạnh whipping trước khi đánh sẽ dễ nổi hơn.",
       "menu": "nauan",
       "list": ""
+    },
+    {
+      "id" : 116,
+      "name": "Salad khoai tây trứng cút",
+      "img": "",
+      "review": "Món salad khoai tây trứng cút chua béo hài, rau củ trộn đều sốt. Màu sắc hấp dẫn bởi sự kết hợp của các loại rau củ. Món ăn ngon khi nấu phải đảm bảo vị vừa ăn, rau củ vừa chín rới, không quá mềm.",
+      "nguyenlieu": "M: muỗng canh - m: muỗng cafe; Khoai tây: 1 củ khoảng 150g; Củ dền: 30g; Bắp Mĩ hạt: 30g; Đậu bi: 30g; Dăm bông: 50g; Trứng cút: 7 trái; Sữa chua: 1M; Gia vị: Mù tạt vàng, muối; Xốt Mayonnaise Aji-mayo® Vị Nguyên Bản",
+      "thuchien": {
+        "b1": "Khoai tây luộc chín, bóc vỏ, cắt hạt lựu.",
+        "b2": "Dăm bông cắt hạt lựu.",
+        "b3": "Củ dền, bắp Mỹ, đậu bi luộc chín.",
+        "b4": "Pha sốt trộn: 1.5M Xốt Mayonniase Aji-mayo vị nguyên bản, 1.5m sữa chua có đường, 1.5m mù tạt vàng, 1 ít muối.",
+        "b5": "Trộn đều các loại rau củ và dăm bông với 1 ít muối, tiêu, sau đó cho sốt và trộn đều.",
+        "b6": "Cho salad ra dĩa, xếp trứng cút xung quanh."
+      },
+      "luuy": "Mách Nhỏ: Luộc khoai tây nguyên củ giúp khoai giữ được vị bùi và ngon hơn sau khi luộc.",
+      "menu": "nauan",
+      "list": ""
+    },
+    {
+      "id" : 117,
+      "name": "Lẩu bò hoa",
+      "img": "",
+      "review": "Lẩu bò hoa món ăn mới dành cho các bữa tiệc họp mặt hay sum họp gia đình. Để món lẩu ngon khi nấu rau củ phải vừa chín tới, thịt bò mềm, không dai. Nước dùng lẩu trong, các loại rau củ nhiều màu sắc hấp dẫn. Vị ngon, vừa ăn, thơm mùi lẩu bò. Cùng vào bếp làm ngay món lẩu vào cuối tuần ngay nào!",
+      "nguyenlieu": "M: muỗng canh - m: muỗng cafe; Ba chỉ bò: 150g; Củ cải trắng: 1 củ; Cà rốt: 1 củ; Cải thảo: 1/3 bắp; Trứng gà: 2 quả; Hành lá: 2 nhánh; Nấm kim châm: 50g; Hành tây: 1 củ nhỏ; ĂN KÈM: Tương đen, sa tế; Gia vị nêm sẵn Aji-Quick® Phở Bò",
+      "thuchien": {
+        "b1": "Thịt bò cuộn thành cuộn nhỏ vừa ăn.",
+        "b2": "Cà rốt, củ cải trắng bào vỏ, sau đó dufgn dao bào từng miếng dài, cuộn tròn lại.",
+        "b3": "Cải thảo chần sơ, cuộn tròn. Hành tây cắt lát mỏng. Hành lá cắt nhỏ 1 nhánh, phần còn lại chần sơ.",
+        "b4": "Trứng gà đánh tan, trán mỏng, cắt từng miếng dài, cuộn tròn lại như cá nguyên liệu khác. Dùng dây hành chần cột lại định hình.",
+        "b5": "Pha nước lẩu: Pha nước lẩu theo hướng dẫn trên bào bì, 1 gói Gia Vị Nêm Sẵn Aji-Quick phở bò pha với 1.5L nước.",
+        "b6": "Lần lượt xếp tất cả nguyên liệu vào nồi đất đường kính khoảng 18-20cm, bên dưới lót hành tây. Thêm nước lẩu vào ngập nguyên liệu.",
+        "b7": "Nấu sôi nước lẩu, khi ăn chấm kèm tương đen, sa tế."
+      },
+      "luuy": "Mách Nhỏ: Để tiết kiệm thời gian, nên cho nước lẩu đã nóng vào nồi lẩu. Có thể sử dụng nước dùng để món ăn ngon hơn.",
+      "menu": "nauan",
+      "list": ""
+    },
+    {
+      "id" : 118,
+      "name": "Hotdog bắp cải",
+      "img": "",
+      "review": "Hotdog vàng đều, màu vàng nâu hấp dẫn, bên trong có phô mai và xúc xích. Có độ giòn nhẹ & bùi của bắp cải, béo của phô mai & mayonnaise.",
+      "nguyenlieu": "M: muỗng canh - m: muỗng cafe; Xúc xích xông khói: 2 cái; Bắp cải: 100g; Trứng gà: 2 quả; Hành lá: 2 nhánh; Phô mai lát: 4 lát; Gia vị: Dầu ăn, tương cà.; Gia vị nêm sẵn Aji-Quick® Bột chiên giòn; Hạt nêm Aji-ngon® Heo; Xốt Mayonnaise Aji-mayo® Vị Nguyên Bản",
+      "thuchien": {
+        "b1": "Bắp cải cắt sợi nhuyễn, rửa sạch, để ráo.",
+        "b2": "Hành lá cắt nhỏ.",
+        "b3": "Xúc xích xông khói dùng dao khứa quanh xúc xích.",
+        "b4": "Pha hỗn hợp bắp cải: Trộn đều bắp cải với 2 quả trứng, 1/2m hạt nêm Aji-ngon và 4M Aji Quick bột chiên giòn.",
+        "b5": "Sử dụng chảo chống dính size 20cm đáy bằng, đun nóng ít dầu ăn, cho 1/2 hỗn hợp vào chảo, dàn thật mỏng, xếp phô mai lên trên, tiếp tới xúc xích rồi cuộn tròn lại, áp chảo đến khi hotdog chín vàng đều các mặt.",
+        "b6": "Cắt hotdog thành từng lát dày 1.5cm, xếp ra dĩa, topping tương cà và mayonniase."
+      },
+      "luuy": "Mách Nhỏ: Dàn hỗn hợp bắp cải càng mỏng, hotdog sẽ có độ giòn nhẹ và ngon hơn.",
+      "menu": "nauan",
+      "list": ""
+    },
+    {
+      "id" : 119,
+      "name": "Hoành thánh cay",
+      "img": "",
+      "review": "Hoành thánh vừa chín tới, không bị nát vỏ. Hoành thánh vàng, sốt màu nâu. Vị cay, hài hòa.",
+      "nguyenlieu": "M: muỗng canh - m: muỗng cafe; Lá hoành thánh: 20 lá; Thịt xay: 50gr; Trứng gà: 1 quả; Cà rốt: 25gr; Hành tây: 25gr; Ớt sừng: 20gr; Mè trắng: 1M; Tỏi băm: 1M; Hành lá: 1 nhánh; Ớt khô: 2 trái; Gia vị: Dầu hào, bột ngọt, đường, dầu ăn; Hạt nêm Aji-ngon® Heo; Nước tương "Phú Sĩ".",
+      "thuchien": {
+        "b1": "Xào trứng: khấy tan trứng, xào chín với 1M đầu ăn.",
+        "b2": "Ớt sừng băm nhỏ.",
+        "b3": "Cà rốt, hành tây cắt hạt lựu.",
+        "b4": "Mè trắng rang vàng.",
+        "b5": "Xào nhân: phi thơm 1m tỏi băm cho thịt xay, cà rốt, hành tây vào xào chín nêm vào 1/2m hạt nêm Aji-ngon, tiếp tục cho phần trứng đã xào chín vào xào chung.",
+        "b6": "Gói hoành thánh với khoảng 1m nhân, sau đó luộc 5 phút với nước sôi.",
+        "b7": "Nấu sốt: phi thơm 1M tỏi, ớt với dầu ăn. cho vào 1/2 chén nước, 2M nước tương Phú Sĩ, 1M dầu hào, 1M tương ớt, 1/2m đường, 1/2m bột ngọt. khuấy đều cho tan gia vị và nấu sôi. them ớt khô, tắt lửa.",
+        "b8": "Cho hoành thánh ra tô, rắc hành lá lên trên, rưới sốt đã nấu lên trên. Dùng nóng."
+      },
+      "luuy": "Mách Nhỏ: Luộc hoành thánh khi thấy hoành thánh nổi lên là chín.",
+      "menu": "nauan",
+      "list": ""
+    },
+    {
+      "id" : 120,
+      "name": "Gà xốt cam",
+      "img": "",
+      "review": "Gà xốt cam chín giòn, bám đều sốt màu cam nâu hấp dẫn. Khi ăn từng miếng gà giòn tan trong miệng hoà quyện với hương cam thơm nhẹ, chua ngọt hài hoà. Cùng vào bếp nấu và thưởng thức ngay món gà hương vị mới nào!",
+      "nguyenlieu": "M: muỗng canh - m: muỗng cafe; Má đùi gà rút xương 300g; Cam Mỹ 1 trái; Gừng băm 1m; Gia vị: Dầu ăn, ớt bột Hàn Quốc, tiêu, đường, bột năng; Nước tương "Phú Sĩ"; Gia vị nêm sẵn Aji-Quick® Bột chiên giòn",
+      "thuchien": {
+        "b1": "Gà cắt miếng nhỏ vừa ăn. Ướp gừng băm, tiêu, 1 ít ớt bột, và 1m GVNS Aji-Quick bột chiên giòn.",
+        "b2": "Cam mài vỏ để riêng. Vắt lấy nước cam để riêng.",
+        "b3": "Pha hỗn hợp bột chiên: trộn đều 1 gói GVNS Aji-Quick bột chiên giòn, với 150g nước lọc và 30g nước cam.",
+        "b4": "Bột năng pha loãng với 1 ít nước.",
+        "b5": "Đun nóng dầu ăn, lần nước tẩm gà qua hỗn hợp bột chiên giòn, đem chiên chín vàng, vớt ra để ráo dầu.",
+        "b6": "Pha sốt cam: Đun nóng hỗn hợp gồm 60g nước cam, 1m đường, 1m nước tương, thêm nước bột năng pha loãng tạo độ sánh, cuối cùng cho gà vào xóc đều.",
+        "b7": "Cho gà ra dĩa, rắc ớt bột lên trên. Dùng nóng."
+      },
+      "luuy": "Mách Nhỏ: Pha hỗn hợp bột chiên hơi loãng giúp lớp bột áo quanh gà mỏng và có độ giòn xốp. Nên thêm ít múi cai vào trong sốt giúp sốt có mùi thơm và đẹp hơn.",
+      "menu": "nauan",
+      "list": ""
     }
   ]
 }
