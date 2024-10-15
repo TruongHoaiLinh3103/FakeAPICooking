@@ -1937,9 +1937,9 @@
     {
       "id" : 112,
       "name": "Cơm chiên kim chi",
-      "img": "",
+      "img": "https://i.pinimg.com/originals/7a/09/1b/7a091b749019a5203da0c4a586f34274.webp",
       "review": "Cơm chiên màu đỏ, điểm xuyết màu vàng xanh cực bắt mắt, thơm lừng mùi kim chi và nước tương, vị chua cay kích thích cùng với thịt bò mềm mọng, cực cuốn. Món cơm chiên kim chi dễ làm mà ngon hết ý. Vào bếp thử ngay!",
-      "nguyenlieu": "M: muỗng canh - m: muỗng cafe; Cơm gạo Thái hạt dài: 3 chén; Kimchi (ông Kim,chọn mẻ ngấu nhiều): 1 chén; Thịt bò fillet mềm: 200g; Trứng gà: 4 quả; Hành lá: 2 nhánh; Mè trắng rang: 1M; Tương ớt Hàn Quốc - Gochujang: 1M; Bắp hạt ( bắp Mỹ ) luộc: 1/2 chén; Tỏi băm: 2M; Rong biển khô Hàn Quốc cắt sợi: 1M; Gừng băm: 1m; Gia vị: Dầu ăn, dầu mè Hàn Quốc 1M; Bột ngọt AJI-NO-MOTO®; Nước tương "Phú Sĩ"",
+      "nguyenlieu": "M: muỗng canh - m: muỗng cafe; Cơm gạo Thái hạt dài: 3 chén; Kimchi (ông Kim,chọn mẻ ngấu nhiều): 1 chén; Thịt bò fillet mềm: 200g; Trứng gà: 4 quả; Hành lá: 2 nhánh; Mè trắng rang: 1M; Tương ớt Hàn Quốc - Gochujang: 1M; Bắp hạt ( bắp Mỹ ) luộc: 1/2 chén; Tỏi băm: 2M; Rong biển khô Hàn Quốc cắt sợi: 1M; Gừng băm: 1m; Gia vị: Dầu ăn, dầu mè Hàn Quốc 1M; Bột ngọt AJI-NO-MOTO®; Nước tương 'Phú Sĩ'",
       "thuchien": {
         "b1": "Cơm gạo Thái hạt dài nấu khô ráo dùng để chiên cơm.",
         "b2": "Thịt bò fillet mềm cắt khối 5mm.",
@@ -1951,14 +1951,14 @@
       },
       "luuy": "Mách Nhỏ: Vắt ráo nước và xào kimchi trước để kimchi được thơm và không bị chua gắt. Cho nước kimchi vào để dễ hòa tan tương ớt hơn, trộn vào cơm sẽ đều hơn. Cho thêm dầu mè sau cùng để giữ được mùi thơm của dầu,tạo mùi đặc trưng món Hàn và hạt cơm sẽ bóng bẩy hơn.",
       "menu": "nauan",
-      "list": ""
+      "list": "Chiên"
     },
     {
       "id" : 113,
       "name": "Gỏi cá kiểu Nhật",
-      "img": "",
+      "img": "https://i.pinimg.com/originals/3a/96/a2/3a96a2fcb48ed8027eeede7b13663436.jpg",
       "review": "Món gỏi cá là món ăn đã rất quen thuộc đối với người Việt Nam. Nhưng hôm nay, Món Ngon Mỗi Ngày xin giới thiệu công thức món gỏi cá mới mang phong cách hương vị Nhật Bản. Món gỏi cá lại vàng giòn, cá ngọt thấm gia vị ăn kèm rau xanh giòn ngọt dễ ăn.",
-      "nguyenlieu": "M: muỗng canh - m: muỗng cafe; Cá basa phi lê: 200g Ti; Rau tần ô: 400g; Củ cải trắng: 100g; Hành lá: 3 cây; Ớt sừng: 1/2 trái (cắt sợi); Cà rốt: 50g(cắt sợi); Hành tây: 1/4 củ (cắt lát); Mè trắng rang: 1m; Gia vị: Tiêu, đường, dầu ăn; Giấm gạo lên men Ajinomoto; Hạt nêm Aji-ngon® Heo; Gia vị nêm sẵn Aji-Quick® Bột chiên giòn; Nước tương "Phú Sĩ"",
+      "nguyenlieu": "M: muỗng canh - m: muỗng cafe; Cá basa phi lê: 200g Ti; Rau tần ô: 400g; Củ cải trắng: 100g; Hành lá: 3 cây; Ớt sừng: 1/2 trái (cắt sợi); Cà rốt: 50g(cắt sợi); Hành tây: 1/4 củ (cắt lát); Mè trắng rang: 1m; Gia vị: Tiêu, đường, dầu ăn; Giấm gạo lên men Ajinomoto; Hạt nêm Aji-ngon® Heo; Gia vị nêm sẵn Aji-Quick® Bột chiên giòn; Nước tương 'Phú Sĩ'",
       "thuchien": {
         "b1": "Rau tần ô lặt rửa sạch, lặt lá và cọng riêng, cắt khúc ngắn vừa ăn khoảng 5cm, chần cọng trong nước sôi trước rồi chần lá, trong nước nêm 1/2m Hạt nêm Aji-ngon® Heo, vớt ra xả nước lạnh, vắt ráo.",
         "b2": "Củ cải trắng gọt vỏ, mài nhuyễn, vắt bớt nước. Hành lá phần đầu trắng băm nhuyễn, phần lá cắt nhỏ. Ớt sừng cắt sợi.",
@@ -1970,12 +1970,12 @@
       },
       "luuy": "Mách Nhỏ: Vắt ráo rau để gỏi thấm đều vị. Chiên cá với bột chiên giòn để cá được định hình đẹp hơn. Chọn cá basa miếng to, dày thịt và có màu trắng trong sẽ ngon hơn.",
       "menu": "nauan",
-      "list": ""
+      "list": "Chiên Xào"
     },
     {
       "id" : 114,
       "name": "Chả bắp",
-      "img": "",
+      "img": "https://i.pinimg.com/originals/92/bf/c0/92bfc0c2067eb4e214362155fd8c0d98.webp",
       "review": "Cách làm món chả bắp thơm ngon hấp dẫn lại đơn giản. Món chả ăn dai, tôm và bắp có độ giòn ngọt tự nhiên, vị hài hoà. Màu vàng của bắp, màu đỏ của tôm,ớt và màu tự nhiên của giò sống tăng thêm sự hấp dẫn cho món ăn.",
       "nguyenlieu": "M: muỗng canh - m: muỗng cafe; Giò sống: 200g; Tôm thẻ: 100g; Bắp mĩ: 1 trái; Đầu hành lá băm: 1M (cắt nhỏ); Tiêu: 1m; Ớt hiểm: 1 trái (băm nhuyễn); Tỏi băm: 1/2m (băm nhuyễn); Ớt sừng băm: 1M; RAU NÊM: Ngò rí; ĂN KÈM: Cơm trắng; Gia vị: Nước mắm; Giấm gạo lên men Ajinomoto; Bột ngọt AJI-NO-MOTO®; Hạt nêm Aji-ngon® Heo",
       "thuchien": {
@@ -1989,12 +1989,12 @@
       },
       "luuy": "Mách Nhỏ: Dùng tay quết mạnh chả sẽ làm chả dai và ngon hơn. Để chả vào tủ mát 30 phút để tăng kết dính cho chả và dễ cuốn hơn. Dùng dây xé từ vỏ bắp cột vừa tay vì chả còn nở ra.",
       "menu": "nauan",
-      "list": ""
+      "list": "Hấp"
     },
     {
       "id" : 115,
       "name": "Pancake chocolate mứt cam",
-      "img": "",
+      "img": "https://i.pinimg.com/originals/a2/ec/06/a2ec069ff285fadf95b00916b23c2051.jpg",
       "review": "Bánh rán xốp mềm, đi cùng với hương thơm hài hòa của socola và cam, vị beo béo, ngòn ngọt, chua nhẹ tan trên đầu lưỡi, rất cuốn hút. Một món ăn dễ làm không thể bỏ qua dành cho Bé nhà mình.",
       "nguyenlieu": "M: muỗng canh - m: muỗng cafe; Cam vàng: 2 quả; Whipping cream: 100g; Nước cốt chanh: 1/2M; Bột bánh rán pha sẵn vị Sô-Cô-La",
       "thuchien": {
@@ -2007,12 +2007,12 @@
       },
       "luuy": "Mách Nhỏ: Trụng vỏ cam trước khi sên đường để giảm vị đắng. Để lạnh whipping trước khi đánh sẽ dễ nổi hơn.",
       "menu": "nauan",
-      "list": ""
+      "list": "Ngọt"
     },
     {
       "id" : 116,
       "name": "Salad khoai tây trứng cút",
-      "img": "",
+      "img": "https://i.pinimg.com/originals/10/d1/00/10d100b832395bc80e320550a5e32fe1.jpg",
       "review": "Món salad khoai tây trứng cút chua béo hài, rau củ trộn đều sốt. Màu sắc hấp dẫn bởi sự kết hợp của các loại rau củ. Món ăn ngon khi nấu phải đảm bảo vị vừa ăn, rau củ vừa chín rới, không quá mềm.",
       "nguyenlieu": "M: muỗng canh - m: muỗng cafe; Khoai tây: 1 củ khoảng 150g; Củ dền: 30g; Bắp Mĩ hạt: 30g; Đậu bi: 30g; Dăm bông: 50g; Trứng cút: 7 trái; Sữa chua: 1M; Gia vị: Mù tạt vàng, muối; Xốt Mayonnaise Aji-mayo® Vị Nguyên Bản",
       "thuchien": {
@@ -2025,12 +2025,12 @@
       },
       "luuy": "Mách Nhỏ: Luộc khoai tây nguyên củ giúp khoai giữ được vị bùi và ngon hơn sau khi luộc.",
       "menu": "nauan",
-      "list": ""
+      "list": "Hấp"
     },
     {
       "id" : 117,
       "name": "Lẩu bò hoa",
-      "img": "",
+      "img": "https://i.pinimg.com/originals/7b/f1/01/7bf101647e2d31af1f84296fa2e1645f.webp",
       "review": "Lẩu bò hoa món ăn mới dành cho các bữa tiệc họp mặt hay sum họp gia đình. Để món lẩu ngon khi nấu rau củ phải vừa chín tới, thịt bò mềm, không dai. Nước dùng lẩu trong, các loại rau củ nhiều màu sắc hấp dẫn. Vị ngon, vừa ăn, thơm mùi lẩu bò. Cùng vào bếp làm ngay món lẩu vào cuối tuần ngay nào!",
       "nguyenlieu": "M: muỗng canh - m: muỗng cafe; Ba chỉ bò: 150g; Củ cải trắng: 1 củ; Cà rốt: 1 củ; Cải thảo: 1/3 bắp; Trứng gà: 2 quả; Hành lá: 2 nhánh; Nấm kim châm: 50g; Hành tây: 1 củ nhỏ; ĂN KÈM: Tương đen, sa tế; Gia vị nêm sẵn Aji-Quick® Phở Bò",
       "thuchien": {
@@ -2044,12 +2044,12 @@
       },
       "luuy": "Mách Nhỏ: Để tiết kiệm thời gian, nên cho nước lẩu đã nóng vào nồi lẩu. Có thể sử dụng nước dùng để món ăn ngon hơn.",
       "menu": "nauan",
-      "list": ""
+      "list": "Súp"
     },
     {
       "id" : 118,
       "name": "Hotdog bắp cải",
-      "img": "",
+      "img": "https://i.pinimg.com/originals/3d/fd/5b/3dfd5bfbcdbf4ad0959036984946e607.jpg",
       "review": "Hotdog vàng đều, màu vàng nâu hấp dẫn, bên trong có phô mai và xúc xích. Có độ giòn nhẹ & bùi của bắp cải, béo của phô mai & mayonnaise.",
       "nguyenlieu": "M: muỗng canh - m: muỗng cafe; Xúc xích xông khói: 2 cái; Bắp cải: 100g; Trứng gà: 2 quả; Hành lá: 2 nhánh; Phô mai lát: 4 lát; Gia vị: Dầu ăn, tương cà.; Gia vị nêm sẵn Aji-Quick® Bột chiên giòn; Hạt nêm Aji-ngon® Heo; Xốt Mayonnaise Aji-mayo® Vị Nguyên Bản",
       "thuchien": {
@@ -2062,14 +2062,14 @@
       },
       "luuy": "Mách Nhỏ: Dàn hỗn hợp bắp cải càng mỏng, hotdog sẽ có độ giòn nhẹ và ngon hơn.",
       "menu": "nauan",
-      "list": ""
+      "list": "Chiên"
     },
     {
       "id" : 119,
       "name": "Hoành thánh cay",
-      "img": "",
+      "img": "https://i.pinimg.com/originals/da/43/88/da43880c51788bd7fedd1d54138de6fa.webp",
       "review": "Hoành thánh vừa chín tới, không bị nát vỏ. Hoành thánh vàng, sốt màu nâu. Vị cay, hài hòa.",
-      "nguyenlieu": "M: muỗng canh - m: muỗng cafe; Lá hoành thánh: 20 lá; Thịt xay: 50gr; Trứng gà: 1 quả; Cà rốt: 25gr; Hành tây: 25gr; Ớt sừng: 20gr; Mè trắng: 1M; Tỏi băm: 1M; Hành lá: 1 nhánh; Ớt khô: 2 trái; Gia vị: Dầu hào, bột ngọt, đường, dầu ăn; Hạt nêm Aji-ngon® Heo; Nước tương "Phú Sĩ".",
+      "nguyenlieu": "M: muỗng canh - m: muỗng cafe; Lá hoành thánh: 20 lá; Thịt xay: 50gr; Trứng gà: 1 quả; Cà rốt: 25gr; Hành tây: 25gr; Ớt sừng: 20gr; Mè trắng: 1M; Tỏi băm: 1M; Hành lá: 1 nhánh; Ớt khô: 2 trái; Gia vị: Dầu hào, bột ngọt, đường, dầu ăn; Hạt nêm Aji-ngon® Heo; Nước tương 'Phú Sĩ'.",
       "thuchien": {
         "b1": "Xào trứng: khấy tan trứng, xào chín với 1M đầu ăn.",
         "b2": "Ớt sừng băm nhỏ.",
@@ -2082,14 +2082,14 @@
       },
       "luuy": "Mách Nhỏ: Luộc hoành thánh khi thấy hoành thánh nổi lên là chín.",
       "menu": "nauan",
-      "list": ""
+      "list": "Xào"
     },
     {
       "id" : 120,
       "name": "Gà xốt cam",
-      "img": "",
+      "img": "https://i.pinimg.com/originals/25/70/ff/2570ff9cab6c0d7d2476897aa48bb2dd.webp",
       "review": "Gà xốt cam chín giòn, bám đều sốt màu cam nâu hấp dẫn. Khi ăn từng miếng gà giòn tan trong miệng hoà quyện với hương cam thơm nhẹ, chua ngọt hài hoà. Cùng vào bếp nấu và thưởng thức ngay món gà hương vị mới nào!",
-      "nguyenlieu": "M: muỗng canh - m: muỗng cafe; Má đùi gà rút xương 300g; Cam Mỹ 1 trái; Gừng băm 1m; Gia vị: Dầu ăn, ớt bột Hàn Quốc, tiêu, đường, bột năng; Nước tương "Phú Sĩ"; Gia vị nêm sẵn Aji-Quick® Bột chiên giòn",
+      "nguyenlieu": "M: muỗng canh - m: muỗng cafe; Má đùi gà rút xương 300g; Cam Mỹ 1 trái; Gừng băm 1m; Gia vị: Dầu ăn, ớt bột Hàn Quốc, tiêu, đường, bột năng; Nước tương 'Phú Sĩ'; Gia vị nêm sẵn Aji-Quick® Bột chiên giòn",
       "thuchien": {
         "b1": "Gà cắt miếng nhỏ vừa ăn. Ướp gừng băm, tiêu, 1 ít ớt bột, và 1m GVNS Aji-Quick bột chiên giòn.",
         "b2": "Cam mài vỏ để riêng. Vắt lấy nước cam để riêng.",
@@ -2101,7 +2101,7 @@
       },
       "luuy": "Mách Nhỏ: Pha hỗn hợp bột chiên hơi loãng giúp lớp bột áo quanh gà mỏng và có độ giòn xốp. Nên thêm ít múi cai vào trong sốt giúp sốt có mùi thơm và đẹp hơn.",
       "menu": "nauan",
-      "list": ""
+      "list": "Chiên"
     }
   ]
 }
